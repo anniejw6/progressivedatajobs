@@ -1,0 +1,32 @@
+title: Progressive Data Jobs
+description: > # 
+  Resources for data, technology, and analytics jobs in 
+  progressive / Democratic politics.
+
+url: https://progressivedatajobs.org
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Submit
+   url: /submit
+ - title: Resources
+   url: /resources
+
+social:
+#   github: brianmaierjr
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+   email: annie@progressivedatajobs.org
+
+google_analytics: "UA-46478165-4"
