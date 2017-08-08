@@ -5,12 +5,17 @@ title: Share a Job Posting!
 
 <div id="contact">
 
-  <p class="intro">Use the form below to submit a job posting.</p>
+<div class="contactContent">
 
-Things you should include
+  <p class="intro">Use the form below to submit a job posting</p>
 
-* Thing 1
-* Thing 2
+ <p>Some things to consider including:</p>
+  <ul>
+    <li>Location</li>
+    <li>Fixed-Term or Long-Term (does this job end after the election?</li>
+    <li>Who should the job seeker contact with questions?</li>
+  </ul>
+</div>
 
   <form action="http://formspree.io/annie@progressivedatajobs.org" method="POST">
     <input type="hidden" name="_subject" value="New job post!" />
@@ -22,4 +27,5 @@ Things you should include
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea>
     <input type="submit" value="Send" class="button">
   </form>
+
 </div>
