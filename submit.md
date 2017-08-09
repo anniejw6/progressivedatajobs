@@ -17,7 +17,7 @@ title: Share a Job Posting!
   </ul>
 </div>
 
-  <form action="https://formspree.io/annie@progressivedatajobs.org" method="POST">
+  <form action="https://formspree.io/lena@progressivedatajobs.org" method="POST">
     <input type="hidden" name="_subject" value="New job post!" />
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
