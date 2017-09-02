@@ -7,6 +7,6 @@ categories: vendor, clientservices, campaigns, analyst, datamanagement,executive
 
 Mutiple positions available
 
-        • [Vice President / Senior Consultant](http://www.claritycampaigns.com/careers/vp-senior-consultant)
-        • [Analysts / Junior Analysts](http://www.claritycampaigns.com/careers/analyst)
-        • [Analyst Fellowships](http://www.claritycampaigns.com/careers/fellowships)
+ [Vice President / Senior Consultant](http://www.claritycampaigns.com/careers/vp-senior-consultant)
+ [Analysts / Junior Analysts](http://www.claritycampaigns.com/careers/analyst)
+ [Analyst Fellowships](http://www.claritycampaigns.com/careers/fellowships)
