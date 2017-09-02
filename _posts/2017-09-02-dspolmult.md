@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DSPolitica: multiple tech positions"
+title:  "DSPolitical: multiple tech positions"
 date: 2017-09-02
 categories: vendor, clientservices, campaigns, tech
 ---
