@@ -23,6 +23,9 @@ A: Sorry, not for now. But we encourage you to use other resources and networks 
 Q: *A link you posted doesn't work anymore/I can't find the job on the organization's website*
 A: We post positions as we find them, however we do not verify that positions are still open. The position may no longer be accepting applications. Again, we encourage you to use other resources and networks you may have.
 
+Q: *Do you post internships, fellowships & apprenticeships?*
+A: Yes, but only if they are paid opportunities. If we errantly post an unpaid position, please [contact us](mailto:lena@progressivedatajobs.org).
+
 
 This site uses theme 
 <a href="https://github.com/brianmaierjr/long-haul">Long Haul</a> and is powered by <a href="https://github.com/jekyll/jekyll">jekyll</a>. Its favicon is Data Syncing by IconDots from the Noun Project.
