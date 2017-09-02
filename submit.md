@@ -16,6 +16,7 @@ title: Share a Job Posting!
     <li>Fixed-Term or Long-Term (does this job end after the election?</li>
     <li>Who should the job seeker contact with questions?</li>
   </ul>
+  Note: your name & email will NOT be published on the site. We only require this to contact you for potential follow up.
 </div>
 
   <form action="https://formspree.io/lena@progressivedatajobs.org" method="POST">
