@@ -20,6 +20,9 @@ A: We're keeping our scope simple for now. There are many other job boards that 
 Q: *Can you put me in touch with the person hiring for a role?*
 A: Sorry, not for now. But we encourage you to use other resources and networks you may have.
 
+Q: *A link you posted doesn't work anymore/I can't find the job on the organization's website*
+A: We post positions as we find them, however we do not verify that positions are still open. The position may no longer be accepting applications. Again, we encourage you to use other resources and networks you may have.
+
 
 This site uses theme 
 <a href="https://github.com/brianmaierjr/long-haul">Long Haul</a> and is powered by <a href="https://github.com/jekyll/jekyll">jekyll</a>. Its favicon is Data Syncing by IconDots from the Noun Project.
