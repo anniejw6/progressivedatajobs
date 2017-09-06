@@ -13,7 +13,7 @@ title: Share a Job Posting!
   <ul>
     <li>Public link to job description </li>
     <li>Location</li>
-    <li>Fixed-Term or Long-Term (does this job end after the election?</li>
+    <li>Fixed-Term or Long-Term (does this job end after the election?)</li>
     <li>Who should the job seeker contact with questions?</li>
     <li>Posting multiple jobs separately to increase visibility</li>
   </ul>
