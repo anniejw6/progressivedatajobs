@@ -17,9 +17,9 @@ title: Share a Job Posting!
     <li>Who should the job seeker contact with questions?</li>
     <li>Posting multiple jobs separately to increase visibility</li>
   </ul>
-Your name & email will NOT be published on the site. We only require this to contact you for potential follow up.
+<p>Your name & email will NOT be published on the site. We only require this to contact you for potential follow up.</p>
 
-If you want, you can also submit an <a href='https://github.com/anniejw6/progressivedatajobs'>issue or pull request</a>.
+<p>If you want, you can also submit an <a href='https://github.com/anniejw6/progressivedatajobs'>issue or pull request</a>.</p>
 
 </div>
 
