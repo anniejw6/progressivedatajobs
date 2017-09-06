@@ -19,7 +19,7 @@ title: Share a Job Posting!
   </ul>
 Your name & email will NOT be published on the site. We only require this to contact you for potential follow up.
 
-If you want, you can also submit a <a href='https://github.com/anniejw6/progressivedatajobs'>pull request</a>.
+If you want, you can also submit an <a href='https://github.com/anniejw6/progressivedatajobs'>issue or pull request</a>.
 
 </div>
 
