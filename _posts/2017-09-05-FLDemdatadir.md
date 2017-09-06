@@ -9,6 +9,8 @@ categories: campaigns, datamanagement
 
 The Florida Democratic Party (FDP) is seeking a Data Director. The Data Director will join the leadership team to arm local communities, candidates, and affiliated groups with the day-to day data they need to help deliver Democratic victories up and down the ticket. This position reports directly to the President and is solely responsible for administering the statewide voter file database (Votebuilder), maintenance of the FDP donor database through NGP and provide data analytics necessary for FDP electoral success.
  
+Apply here jobs@fladems.com
+
 Responsibilities Include: 
 
 Votebuilder
