@@ -18,6 +18,9 @@ title: Share a Job Posting!
     <li>Posting multiple jobs separately to increase visibility</li>
   </ul>
 Your name & email will NOT be published on the site. We only require this to contact you for potential follow up.
+
+If you want, you can also submit a <a href='https://github.com/anniejw6/progressivedatajobs'>pull request</a>.
+
 </div>
 
   <form action="https://formspree.io/lena@progressivedatajobs.org" method="POST">
