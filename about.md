@@ -42,5 +42,9 @@ Generally, no. While there is an overlap in job skills, we are focused on jobs w
 
 Zero dollars. But if you get a job from a listing on this site, let us know. 
 
-This site uses theme [Long Haul](https://github.com/brianmaierjr/long-haul) and is powered by [jekyll](https://github.com/jekyll/jekyll). Its favicon is Data Syncing by IconDots from the Noun Project.
+### Tell me more about how you built this site!
+
+You can view the code [here](https://github.com/anniejw6/progressivedatajobs). 
+This site uses theme [Long Haul](https://github.com/brianmaierjr/long-haul) and is powered by 
+[jekyll](https://github.com/jekyll/jekyll). Its favicon is Data Syncing by IconDots from the Noun Project. 
 
