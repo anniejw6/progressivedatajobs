@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wide Eye Creative: Director of Technology"
-date: 2017-09-09
+date: 2017-09-08
 categories: vendors, tech
 ---
 
