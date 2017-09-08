@@ -8,10 +8,12 @@ categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonpro
 [Job description here](http://www.statevoices.org/wp-content/uploads/2016/07/DataDirectorJobAnnouncement.docx-2.pdf)
 
 Job Description
-Oregon Voice seeks a trained technician with a passion for politics and social justice to join our team. We are
-looking for someone with a rare skill set: expertise using a number of tools, VAN, Catalist data, and census
-related databases, as well as the ability to translate the purpose and value of these tools to a wide range of
-audiences and partner organizations. The Data & Targeting Director drives training and support for partner
-organizations to take a data-driven approach and to integrate tools like VAN into their organizing & advocacy
-work. The Data & Targeting Director
-to better inform our collective strategic thinking and program planning. 
+The Nebraska Civic Engagement Table (“Table”) seeks a new full time Data Director.
+The Data Director will manage all aspects of data for table activities and member
+organizations (as needed) including construction of contact universes, reports, VAN
+administration, voter file and model audits, and strategic planning. In addition to serving
+member organizations, this position will maintain relationships within our coalitions as
+well as non­profit, non­partisan civic engagement groups. The role of the Data Director
+is to support their efforts by making technology an accessible and powerful tool for
+organizers and volunteers.
+
