@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "EMC: Data Scientist & Research Analyst"
-date: 2017-08-02
-categories: campaigns
+date: 2017-09-12
+categories: vendors, analyst
 ---
 
 [Job descriptions here](http://www.emcresearch.com/company_careers.html)
