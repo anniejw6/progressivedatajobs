@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AFSCME: Senior Strategist"
+title:  "YouGov Blue: Senior Strategist"
 date: 2017-09-14
 categories: analyst,
 ---
