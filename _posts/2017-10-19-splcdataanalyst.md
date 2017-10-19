@@ -2,7 +2,8 @@
 layout: post
 title:  "Southern Poverty Law Center: Data Analyst"
 date: 2017-10-19
-categories: 
+categories: datamanagement
+---
 
 [Job description here](https://careers-splcenter.icims.com/jobs/1174/data-analyst---children%27s-rights/job?mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300)
 Overview
