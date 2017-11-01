@@ -21,3 +21,5 @@ Data Analyst (multiple): Our analysts serve as Data Leads for a particular outre
 Skill Preferences: SQL experience
 Nice to Have: We would love to work with someone who's worked with outreach data previously. Alternatively, working with government data before would be a plus.
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQSXFNQzRuRWM5RnkzZzBWTDVuYWZXQzlyMFZv/view?usp=sharing)
+
+Interested parties can reach out to Bridgit Donnelly directly at bridgit.donnelly@gmail.com. Please include your resume and "PEU Data Analyst" or "PEU Deputy Data and Analytics Director" in the subject line.
