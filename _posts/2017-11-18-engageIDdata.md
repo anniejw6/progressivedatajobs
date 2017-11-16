@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Engage Idaho: Data & Targeting Manager"
-date: 2017-11-18
+date: 2017-11-16
 categories: nonprofit, datamanagement
 ---
 
