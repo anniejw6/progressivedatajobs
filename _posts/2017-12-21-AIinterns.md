@@ -8,7 +8,7 @@ categories: clientservices, analyst, nonprofit, intern
 ORGANIZATION
 The Analyst Institute helps Democratic and progressive groups figure out what really works in political and social justice campaigns. We conduct research, share recommendations, and provide education and training for the progressive community. We keep a low-profile, but we work with all the big name groups in the progressive ecosystem—labor unions, environmental groups, racial justice organizers, LGBTQIA rights advocates, you name it—from local and state-based groups all the way up to Presidential campaigns.
 
-We’re looking to train interns and launch their careers: previous interns have gone on to serve as data directors for statewide campaigns and national organizations, as well as full-time staff at the Analyst Institute! We offer two paid internship tracks: Research Internships and Analytics Internships. To learn more or apply, click here. 
+We’re looking to train interns and launch their careers: previous interns have gone on to serve as data directors for statewide campaigns and national organizations, as well as full-time staff at the Analyst Institute! We offer two paid internship tracks: Research Internships and Analytics Internships. To learn more or apply, [click here](https://analystinstitute.recruitee.com/). 
 
 QUALIFICATIONS
 We’re looking for people who are smart and self-motivated, like to solve problems, and are committed to the Analyst Institute’s mission of progressive change. We value diversity in thought, background and experience and we’re an equal opportunity employer; people of color, people with disabilities, women, and LGBTQIA  candidates are strongly encouraged to apply.  
