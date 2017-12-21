@@ -20,7 +20,6 @@ Interns should have some* of the following traits and skills:
 * Excellent writing skills
 * Fluency and speed in internet research and office software – documents, spreadsheets, web tools
 * For the Analytics focus: basic familiarity with R (you should know how to load a dataset, clean up a column, run a regression, and make a bar plot)
-
 * We really mean it! If you’re a hard worker and fast learner you’ll do well here, so just apply! 
 
 LOGISTICS
