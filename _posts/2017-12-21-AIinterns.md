@@ -15,11 +15,11 @@ We’re looking for people who are smart and self-motivated, like to solve probl
 
 Interns should have some* of the following traits and skills:
 
-Campaign volunteer or staff experience
-Ability to comprehend and engage with quantitative social science research 
-Excellent writing skills
-Fluency and speed in internet research and office software – documents, spreadsheets, web tools
-For the Analytics focus: basic familiarity with R (you should know how to load a dataset, clean up a column, run a regression, and make a bar plot)
+* Campaign volunteer or staff experience
+* Ability to comprehend and engage with quantitative social science research 
+* Excellent writing skills
+* Fluency and speed in internet research and office software – documents, spreadsheets, web tools
+* For the Analytics focus: basic familiarity with R (you should know how to load a dataset, clean up a column, run a regression, and make a bar plot)
 
 * We really mean it! If you’re a hard worker and fast learner you’ll do well here, so just apply! 
 
