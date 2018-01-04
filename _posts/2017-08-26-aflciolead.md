@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "AFL-CIO: Senior Strategist & Analytics Lead"
 date: 2017-08-26
-categories: nonprofit, datamanagement, tech, executive, analytics
+tags: 
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - analytics
 ---
 
 [Job description here](https://aflcio.hirecentric.com/jobs/124438.html).

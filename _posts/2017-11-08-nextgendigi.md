@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: single
 title:  "NextGen America: Digital Campaigner"
 date: 2017-11-08
-categories: ampaigns, digital, analyst
+tags: 
+    - campaigns
+    - digital
+    - analyst
 ---
 
 [Job description here](https://nextgenamerica.org/jobs/?job=752205)
 
 NextGen America is currently seeking a creative and results-oriented campaigner to execute a variety of grassroots campaigns.
 
-RESPONSIBILITIES:
+RESPONSIBILi.t.IES:
 
 Serve as lead digital writer and content producer for NextGen America's email program, with the goal of engaging and growing our community of email advocates
 Manage emails from the drafting and editing stages through deployment and reporting stages

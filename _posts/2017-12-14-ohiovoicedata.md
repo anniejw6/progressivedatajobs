@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Ohio Voice: Data & Digital Director"
 date: 2017-12-14
-categories: digital, nonprofit, datamanagement
+tags: 
+    - digital
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQLUFVOVBCOWgtbjZCWGFUb3ppZkVzUTZpUngw/view?usp=sharing).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Climate Reality Project: Data Manager"
 date: 2017-10-19
-categories: datamanagement
+tags: datamanagement
 ---
 
 [Job description here](https://www.idealist.org/en/nonprofit-job/08cccae18f7b4f6ebd5343f08d5c567c-data-manager-the-climate-reality-project-washington-dc?)
@@ -39,7 +39,7 @@ Excellent attention to detail and a passion for accuracy.
 Flexibility to accommodate irregular and sometimes long work hours.
 
 The Climate Reality Project is an Equal Opportunity Employer and does not discriminate on the basis of race, color, religion, sex, age, national origin, veteran status, marital status, sexual orientation, disability or any other category prohibited by local, state or federal law. This policy applies to all aspects of employment, including recruitment, placement, promotion, transfer, demotion, compensation, benefits, social and recreational activities and termination.
-BENEFITS
+BENEFi.t.S
 
 Excellent benefits including medical, dental, vision, 401(k) and company match, transit subsidy.
 

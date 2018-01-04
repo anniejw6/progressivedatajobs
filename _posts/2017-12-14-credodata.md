@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Credo Action: Data & Analytics Manager"
 date: 2017-12-14
-categories: analyst, nonprofit, datamanagement
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](https://credoaction.com/data-analytics-manager-2018/)
@@ -48,7 +51,7 @@ NICE TO HAVE:
 » Experience with: ActionKit;
 » Experience with Python, Mode Analytics, Optimizely, and/or Google Analytics.
 
-BENEFITS AND COMPENSATION:
+BENEFi.t.S AND COMPENSATION:
 Compensation is competitive and will be determined based on your level of experience. CREDO takes seriously the challenge of ensuring that women, people of color, LGBTQ people, and other underrepresented minorities are paid equally to their peers.
 
 CREDO offers generous merit bonuses; comprehensive health, dental, vision coverage & FSA; industry-leading 401k matching; and these other benefits:

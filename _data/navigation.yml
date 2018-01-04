@@ -1,0 +1,26 @@
+# main links
+main:
+  # - title: "Categories"
+  #  url: /categories/
+  # - title: "About"
+  #  url: /about/
+  # - title: "Submit"
+  #   url: /submit/
+  # - title: "Resources"
+  #   url: /resources/
+  - title: "Sort by Tag"
+    url: /tags/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: "About"
+    url: /about/
+  - title: "Submit"
+    url: /submit/
+  - title: "Resources"
+    url: /resources/

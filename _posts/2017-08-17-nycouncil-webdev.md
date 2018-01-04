@@ -1,13 +1,15 @@
 ---
-layout: post
+layout: single
 title:  "New York City Council: Website Developer/Designer"
 date: 2017-08-17
-categories: citygov, digital
+tags: 
+    - citygov
+    - digital
 ---
 
 [Job description here](https://council.nyc.gov/jobs/website-developerdesigner/).
 
-DUTIES AND RESPONSIBILITIES
+DUTIES AND RESPONSIBILi.t.IES
 
 The Public Technology/Digital Strategy Division of the New York City Council is seeking a Website Developer/Designer who is passionate about civic technology, works extremely well with others and is constantly looking at ways to use emerging tools to advance the work of the Council. Responsibilities include:
 
@@ -43,4 +45,4 @@ E-MAIL:              recruiter250b@yahoo.com
 
 While we sincerely appreciate all applications, only those candidates selected for an interview will be contacted.
 
-THE NEW YORK CITY COUNCIL IS AN EQUAL OPPORTUNITY EMPLOYER
+THE NEW YORK Ci.t.Y COUNCIL IS AN EQUAL OPPORTUNi.t.Y EMPLOYER

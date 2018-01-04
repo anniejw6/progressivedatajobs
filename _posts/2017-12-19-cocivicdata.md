@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Colorado Civic Engagement Roundtable: Data & Targeting Manager"
 date: 2017-12-19
-categories: nonprofit, datamanagement
+tags: 
+    - nonprofit
+    - datamanagement
 ---
 About the Colorado Civic Engagement Roundtable (Roundtable)
 The Roundtable is a convening hub of the nonprofit community. Working with our Network partners, we have cultivated a unique ability to evaluate the broader voter engagement and election administration landscape, prepare data analysis, and propose solutions to many of the structural barriers communities are faced with when becoming more civically engaged. Many of these issues are systemic in nature and cannot be solved overnight or by a singular group. Through our consistent, determined commitment to these issues and the credibility we have established to convene partners and allies to work together, we are helping to guide the efforts in our state to make our civic infrastructure stronger, more accountable, and more democratic.

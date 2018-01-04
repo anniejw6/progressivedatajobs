@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Win/Win: Data Targeting Lead"
 date: 2017-10-30
-categories: data
+tags: data
 ---
 
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQdEh1RXFmS1plU3BOVzdPZ1RRZmo0MVYwLWhF/view?usp=sharing)

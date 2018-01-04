@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Tech for Campaigns: Executive Director"
 date: 2017-08-22
-categories: tech, executive, campaigns
+tags: 
+    - tech
+    - executive
+    - campaigns
 ---
 
 [Job description here](https://www.techforcampaigns.org/executive-director)

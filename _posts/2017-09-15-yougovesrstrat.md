@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "YouGov Blue: Senior Strategist"
 date: 2017-09-14
-categories: analyst,
+tags: analyst
 ---
 
 Political Analyst/Senior Political Analyst

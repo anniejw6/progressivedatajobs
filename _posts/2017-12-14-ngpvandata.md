@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "NGPVAN & EveryAction: Data Services Coordinator"
 date: 2017-12-14
-categories: vendor, clientservices, campaigns, datamanagement
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - datamanagement
 ---
 
 [Job description here](https://ngpvan.applytojob.com/apply/YxTwoMKDpB).

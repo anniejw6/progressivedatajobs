@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Union Jobs Clearinghouse"
 date: 2017-10-31
-categories: data, analyst, union
+tags: 
+    - data
+    - analyst
+    - union
 ---
 
 Looking for union jobs? Make sure to check out [UnionJobs.com](http://www.unionjobs.com/staffing_list.php)

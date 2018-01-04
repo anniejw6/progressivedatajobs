@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "City of New York: Multiple Data jobs"
 date: 2017-10-31
-categories: citygov, analyst
+tags: 
+    - citygov
+    - analyst
 ---
 
 City of New York, Public Engagement Unit is hiring additional data analysts.

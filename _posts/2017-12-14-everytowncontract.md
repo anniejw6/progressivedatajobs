@@ -1,8 +1,20 @@
 ---
-layout: post
+layout: single
 title:  "Everytown for Gun Safety: Data Contractor"
 date: 2017-12-14
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern, IT
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
+    - i.t.
 ---
 
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQdnZteU5QeWVpSEgxdnYyb3dfQ1FKaGRrcXlR/view?usp=sharing).

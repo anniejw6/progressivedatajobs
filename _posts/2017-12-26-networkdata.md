@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "NETWORK: Data Coordinator"
-date: 2017-12-26
-categories: nonprofit, datamanagement
+layout: single
+title: NetworkData
+author_profile: false
+read_time: false
+comments: true
+share: true
+related: true
 ---
 
 NETWORK Lobby for Catholic Social Justice-- the organization behind Nuns on the Bus-- is hiring a data coordinator. 

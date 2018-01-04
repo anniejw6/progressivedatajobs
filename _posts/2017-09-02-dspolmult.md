@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "DSPolitical: multiple tech positions"
 date: 2017-09-02
-categories: vendor, clientservices, campaigns, tech
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - tech
 ---
 DSPolitical is a leading digital advertising company in Washington DC. We use the newest programmatic technology to connect advertisers to audiences across digital channels. As the first voter-targeted online advertising network for Democrats, we have experience in enabling Democratic campaigns and Progressive organizations to deliver online ads only to the individuals that our clients wish to target.
 

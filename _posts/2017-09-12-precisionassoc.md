@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Precision Strategies: Associate, Data and Analytics"
 date: 2017-09-12
-categories: consultants, vendors
+tags: 
+    - consultants
+    - vendors
 ---
 
 [Job description here](http://www.precisionstrategies.com/jobs/associate-data-analytics/)

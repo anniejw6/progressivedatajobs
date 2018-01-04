@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Polis for Colorado: Data Director"
 date: 2017-11-21
-categories: campaigns, datamanagement
+tags: 
+    - campaigns
+    - datamanagement
 ---
 
 [Job description here](https://drive.google.com/drive/u/0/folders/0B9_aAEjlRGgQR0JWeTFQWXhXLTg)

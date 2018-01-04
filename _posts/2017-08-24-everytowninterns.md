@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Everytown for Gun Safety: Data internship (paid)"
 date: 2017-08-24
-categories: campaigns, nonprofit, datamanagement, intern
+tags: 
+    - campaigns
+    - nonprofit
+    - datamanagement
+    - intern
 ---
 
 [Job description here](https://everytown.org/job/?gh_jid=805025).

@@ -1,14 +1,16 @@
 ---
-layout: post
+layout: single
 title:  "Montana Voices: Data Manager"
 date: 2017-12-19
-categories: nonprofit, datamanagement
+tags: 
+    - nonprofit
+    - datamanagement
 ---
 MONTANA VOICES DATA MANAGER
 
 Montana Voices leads a coalition of civic engagement and social welfare groups, working across the state of Montana. They seek a full-time data manager to provide quantitatively oriented collective strategic coordination within each coalition partner as well as analytical support for partner groups’ specific programs. While the position requires quantitative ability, the most qualified candidates will also possess the interpersonal and communication skills to work with a broad array of partners as well as the creativity to generate insights through analysis.
 
-CORE RESPONSIBILITIES
+CORE RESPONSIBILi.t.IES
 
 The Data Manager’s responsibilities include, but are not limited to, the following:
 
@@ -32,7 +34,7 @@ The Data Manager’s responsibilities include, but are not limited to, the follo
 
 ....See link for full position description
 
-SALARY AND BENEFITS
+SALARY AND BENEFi.t.S
 
 This is a full-time position based in Helena, Montana. Salary is commensurate with experience. Benefits include paid vacation and sick, employer-paid health insurance and retirement options. Women and minorities are strongly encouraged to apply.
 

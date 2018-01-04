@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Clarity Campaigns: Analysts & Jr. Analysts"
 date: 2017-09-12
-categories: campaigns
+tags: campaigns
 ---
 
 [Job description here](http://www.claritycampaigns.com/careers/analyst)

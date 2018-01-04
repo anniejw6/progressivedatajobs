@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "NGPVAN: Digital Associate for Advocacy Tools"
 date: 2017-11-14
-categories: vendor, clientservices, digital
+tags: 
+    - vendor
+    - clientservices
+    - digital
 ---
 
 [Job description here](https://ngpvan.applytojob.com/apply/v7S75C)

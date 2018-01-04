@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "SEIU: Data and Technology Department Intern"
-date: 2017-12-20
-categories: nonprofit, datamanagement, intern
+tags: 
+    - nonprofit
+    - datamanagement
+    - intern
 ---
 SEIU (The Service Employees International Union)
 Data and Technology Department Intern 
@@ -19,20 +21,20 @@ Primary Responsibilities:
 
 Assist SEIU’s Data & Technology Department staff on various data standardization and hygiene efforts, integrating data from different database sources. Some aspects of this project include:
 
-●     Analyzing data from SEIU affiliates and various external databases to establish best practices on data integration
-●     Assist with data clean up and data standardization
-●     Review files for small details and errors
-●     Assist Department with manual data entry from various file types, including non-tabular data in PDFs or Word documents
+* Analyzing data from SEIU affiliates and various external databases to establish best practices on data integration
+* Assist with data clean up and data standardization
+* Review files for small details and errors
+* Assist Department with manual data entry from various file types, including non-tabular data in PDFs or Word documents
 
 Primary Requirements:
 
-●     Graduation from high school and currently enrolled in an academic program.
-●     Interest in labor and membership organizations, data hygiene and database applications
-●     Comfortable with long periods of concentration paying attention to the  smallest details in the data
-●     Ability to handle multiple assignments in a timely manner
-●     Ability to work well in groups and individually
-●     Positive Attitude
-●     Ability to tale instructions well
+* Graduation from high school and currently enrolled in an academic program.
+* Interest in labor and membership organizations, data hygiene and database applications
+* Comfortable with long periods of concentration paying attention to the  smallest details in the data
+* Ability to handle multiple assignments in a timely manner
+* Ability to work well in groups and individually
+* Positive Attitude
+* Ability to tale instructions well
 
 SEIU’s Data & Technology Department interns will work in Washington, D.C and will receive a stipend. 
 Application Instructions:  Please submit a resume, cover letter that includes your availability and a  writing sample.

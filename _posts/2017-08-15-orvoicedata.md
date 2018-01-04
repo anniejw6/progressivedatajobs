@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Oregon Voice: Data & Targeting Director"
 date: 2017-08-14
-categories: nonprofit, datamanagement
+tags: 
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](http://www.statevoices.org/wp-content/uploads/2017/05/2017-05-09-Data-and-Targeting-Director.pdf)

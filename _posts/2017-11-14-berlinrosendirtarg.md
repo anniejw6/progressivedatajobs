@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Berlin Rosen: Director of Targeting"
 date: 2017-11-14
-categories: vendor, clientservices, analyst
+tags: 
+    - vendor
+    - clientservices
+    - analyst
 ---
 
 [Job description here](https://berlinrosen.recruiterbox.com/jobs/fk0fpjs?jtsrc=JobsthatareLEFT&jtsrcid=14143&jtrfr=&_jtochash=AO5jY1F4nxXzTYk5FGlJZ&_jtocprof=KDYjux4Eay6B38_SoSD3BpWGhrFINLSj)

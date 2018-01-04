@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "DNC: Data Science Lead"
 date: 2017-09-21
-categories: campaigns, analyst
+tags: 
+    - campaigns
+    - analyst
 ---
 Democratic National Committee Data Science Lead
 [Job description here](https://jobs.lever.co/dnc/57223024-dc08-48fe-a912-39090665e277)

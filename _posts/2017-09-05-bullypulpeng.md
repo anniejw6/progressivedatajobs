@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Bully Pulpit: Analytics Engineer"
 date: 2017-09-05
-categories: vendor, analyst, tech
+tags: 
+    - vendor
+    - analyst
+    - tech
 ---
 
 [Job description here](http://bpimedia.com/careers/analytics-engineer-washington-dc-new-york-ny/)

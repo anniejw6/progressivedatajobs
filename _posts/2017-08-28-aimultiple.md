@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Analyst Institute: multiple jobs"
 date: 2017-08-28
-categories: analyst, nonprofit, datamanagement, tech
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
 ---
 
 The Analyst Institute is hiring! 

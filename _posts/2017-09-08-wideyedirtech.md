@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Wide Eye Creative: Director of Technology"
 date: 2017-09-08
-categories: vendors, tech
+tags: 
+    - vendors
+    - tech
 ---
 
 "DIRECTOR OF TECHNOLOGY

@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Clarity Campaigns: VP/Senior Consultant"
 date: 2017-09-12
-categories: vendor, analytics, executive
+tags: 
+    - vendor
+    - analytics
+    - executive
 ---
 
 [Job description here](http://www.claritycampaigns.com/careers/vp-senior-consultant)

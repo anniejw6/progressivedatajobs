@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Global Strategy Group: Associate, Data Analyst"
 date: 2017-11-09
-categories: vendor, analyst, datamanagement
+tags: 
+    - vendor
+    - analyst
+    - datamanagement
 ---
 
 Associate, Data Analyst [Job description here](http://www.globalstrategygroup.com/careers/10138/)

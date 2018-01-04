@@ -1,8 +1,15 @@
 ---
-layout: post
+layout: single
 title:  "Clarity Campaigns: multiple positions"
 date: 2017-08-24
-categories: vendor, clientservices, campaigns, analyst, datamanagement,executive, intern
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - analyst
+    - datamanagement
+    - executive
+    - intern
 ---
 
 Mutiple positions available

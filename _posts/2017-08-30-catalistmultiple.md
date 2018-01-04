@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "Catalist: multiple"
 date: 2017-08-30
-categories: vendor, clientservices, campaigns, datamanagement, tech
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - datamanagement
+    - tech
 ---
 Multiple positions available with Catalist.
 About Catalist: 

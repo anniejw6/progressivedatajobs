@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Make the Road New York: Salesforce administrator"
 date: 2017-12-15
-categories: nonprofit, datamanagement, tech IT
+tags: 
+    - nonprofit
+    - datamanagement
+    - tech
+    - i.t.
 ---
 Make the Road New York builds the power of Latino and working class communities to achieve dignity
 and justice through organizing, policy innovation, transformative education, and survival services.  Make
@@ -21,7 +25,7 @@ insurance programs, training and strategic support for members and organizing ca
 attorneys and advocates specialize in labor and employment law, public benefits, disability benefits,
 housing law, healthcare and health insurance access, immigration, public education, domestic violence,
 and LGBTQ civil rights issues
-We are looking for a dynamic Salesforce Administrator/General IT support Admin individual. We are
+We are looking for a dynamic Salesforce Administrator/General i.t. support Admin individual. We are
 currently a staff of 250 employees with 6 locations throughout NYS. This is a hands on position and we
 are looking for an individual who takes initiative and are willing to bring new ideas to the position. You
 would also need to be a self starter as this is a small team juggling many projects and challenges. The

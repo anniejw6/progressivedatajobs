@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Morning Consult: Full Stack Developer"
 date: 2017-11-06
-categories: vendor, tech
+tags: 
+    - vendor
+    - tech
 ---
 
 [Job description here](https://hire.withgoogle.com/public/jobs/morningconsultcom/view/P_AAAAAADAAADLxTHsG5Ao8z?trackingTag=externalProgressiveDataJobs)
@@ -39,7 +41,7 @@ Past experience building own web app highly desirable
  
 About Morning Consult
  
-Morning Consult is the official polling partner for POLITICO and has collaborated with the New York Times, 538, Bloomberg, Fortune, and Vox.
+Morning Consult is the official polling partner for POLi.t.ICO and has collaborated with the New York Times, 538, Bloomberg, Fortune, and Vox.
  
 Read more about our company and work:
 A breakout company broke the dam in 2016 polling, and now it wants to become 'the Bloomberg of public opinion' – Business Insider, November 2016

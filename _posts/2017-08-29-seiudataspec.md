@@ -1,8 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "SEIU: Database Specialist"
 date: 2017-08-29
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
 ---
 
 [Job description here](https://careers-seiu.icims.com/jobs/2410/database-specialist/job?mode=view&mobile=false&width=783&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)

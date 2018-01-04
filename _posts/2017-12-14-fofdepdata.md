@@ -1,8 +1,20 @@
 ---
-layout: post
+layout: single
 title:  "For Our Future: Nat'l Deputy Data Director"
 date: 2017-12-14
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern, IT
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
+    - i.t.
 ---
 
 [Job description here](https://boards.greenhouse.io/forourfuture/jobs/953899#.WjGN3LQ-fOS)
