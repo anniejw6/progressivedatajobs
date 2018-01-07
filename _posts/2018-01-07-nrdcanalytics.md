@@ -9,7 +9,8 @@ Overview
 The Natural Resources Defense Council (NRDC) is a U.S. and international environmental action organization. We use law, science, and the support of 3 million members and online activists to protect the planet's wildlife and wild places and to ensure a safe and healthy environment for all living things.  NRDC was founded in 1970 and our staff has helped write some of America's bedrock environmental laws, including the Clean Water Act, and many implementing regulations.  Our cases enforcing and defending federal and state environmental laws have played a major role shaping current environmental policy throughout the country.  Our staff of more than 600 lawyers, scientists, economists, policy and communications experts, and others, work out of offices in New York, Washington, Chicago, Los Angeles, San Francisco, Bozeman, and Beijing. 
 
 Position Summary:
-[Job description here](https://careers-nrdc.icims.com/jobs/3745/director-of-analytics/job
+[Job description here](https://careers-nrdc.icims.com/jobs/3745/director-of-analytics/job)
+
 NRDC is seeking a Director of Analytics who is responsible for developing the platforms, tools and data-driven insights that drive NRDC’s strategy, planning and multi-channel engagement strategies. We are looking for someone who has a love for data and analysis and wants to use their skills to move NRDC’s mission forward.
 
 Responsibilities
