@@ -15,24 +15,20 @@ The Digital Associate for Advocacy Tools works with both NGP VAN’s Product Man
 
 Responsibilities:
 
-Collect data from third-party data sources to keep information about advocacy targets current
-Troubleshoot submission errors in user-facing web forms
-Create and maintain form definitions as our target universe changes
-Work with the software engineering team to ensure the forms are corrected and properly tested
-Achieve maximum deliverability!
- 
+* Collect data from third-party data sources to keep information about advocacy targets current
+* Troubleshoot submission errors in user-facing web forms
+* Create and maintain form definitions as our target universe changes
+* Work with the software engineering team to ensure the forms are corrected and properly tested
+* Achieve maximum deliverability!
 
 Skills:
 
-Basic understanding of HTML and CSS3 selectors
-Strong attention to detail
-Clear communication skills
-Familiarity with HTTP response codes
+* Basic understanding of HTML and CSS3 selectors
+* Strong attention to detail
+* Clear communication skills
+* Familiarity with HTTP response codes
  
-
 Ideally this is a position for a patient, detail-oriented, self-starter with basic tech knowledge who is eager to start their career with a great company. 
-
- 
 
 About Us
 
