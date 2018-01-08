@@ -1,18 +1,16 @@
 ---
 layout: single
-title:  "Southern Poverty law Center: Big Data Manager"
+title:  "Southern Poverty Law Center: Big Data Manager"
 tags: 
     - nonprofit
     - datamanagement
 ---
 
-# Overview
-
 The Big Data Manager is responsible for architecting the support, design, maintenance, configuration and monitoring of SPLC’s Big Data environment that spans multiple technology layers (i.e. Hardware, OS, Database, Application, Security, etc.). This position requires a sharp, hard-working individual who is ready to pitch in and do whatever it takes for the team to successfully stand up, roll out and support our growing rapidly moving data streams. Along with the technical work, there will be a need to establish successful processes and documentation. This individual will participate in system administration, integration of external tools/software as well as all strategic and tactical planning of the big data environment required to meet SPLC-specific business needs. The individual filling this role will also be expected to deliver excellent customer service and to interact in a highly effective manner with other staff and management. They will also be expected to promote the use and adoption of big data through staff mentoring, working with various departments to identify and solve business challenges as well engaging senior staff.
 
 [Job description here](https://careers-splcenter.icims.com/jobs/1198/big-data-manager/job?mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300). 
 
-This position could be located in Atlanta, GA or Montgomery, Al depending on personal circumstances and SPLC needs.       
+This position could be located in Atlanta, GA or Montgomery, AL depending on personal circumstances and SPLC needs.       
 
 # Responsibilities
 
