@@ -1,16 +1,11 @@
 ---
 layout: single
 title:  "Credo Action: Data & Analytics Manager"
-<<<<<<< HEAD
 date: 2017-12-14
 tags: 
     - analyst
     - nonprofit
     - datamanagement
-=======
-date: 2018-01-07
-categories: analyst, nonprofit, datamanagement
->>>>>>> master
 ---
 
 CREDO is a for-profit social change organization of more than 5 million members that uses online-to-offline organizing techniques to hold down the progressive flank. We have a unique funding model – we run a phone and credit card company to fund progressive activism. We’re proudly the largest corporate donor to Planned Parenthood and fund dozens of other progressive groups each year like Color Of Change, Electronic Frontier Foundation, National Domestic Workers Alliance and 350.org.
