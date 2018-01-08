@@ -29,75 +29,41 @@ The person in this position must have the knowledge and experience handling resp
 
 
 * Develop strategic plans and goals for the organization with the Director of Membership and Technology Strategies that is tied to UWD’s 2020 vision and strategic plan.
-
 * Manage a high performing team of staff and consultants to ensure that they have all the resources that they need to be successful and effectively execute strategic plans.
-
 * Promote the use of technology and collection of data throughout the organization, including affiliates, and develop and oversee innovative training techniques on the benefits and usage of technology and software, including DreamConnect.
-
-* Develop and implement a plan for the adoption and support of affiliate use of technology including use of ongoing interviews, data, and surveys to refine and improve strategic plans.
-
+* Develop and implement a plan for the adoption and support of affiliate use of technology including use of ongoing interviews, data, and surveys to refine and improve strategic plans
 * Design reports and other real time data feedback tools in collaboration with all UWD departments that enable organization-wide data-based decision-making and program evaluation
-
 * Make UWD the leader in small non-profit organization data security through partnerships with data security experts
-
 * Oversee the provision of support to Dream Connect users and customers to ensure that they are maximizing its benefits for their organizations.
-
 * Work with technology vendors to ensure that all platforms and software are working at optimal levels and explore the use of new features to increase its value
-
 * Drive research and development to identify new areas and needs for innovative technologies
-
 * Ensure the organization’s membership databases are maintained, secure, and properly managed.
-
- 
 
 # Experience and Qualities
 
 * 5+ year experience in data management and technology
-
 * Deeply committed to improve the lives of undocumented immigrants and their families.
-
 * Independent drive and solutions oriented, with extensive experience managing different levels of data & technology projects, including:
-
 	- Field organizing programs, including civic engagement initiatives
-
 	- Digital organizing programs
-
 	- Fundraising and donor management programs
-
 	- Communications programs
-
 	- Issue based campaigning
-
 * A strategic Data Analyst who can work collaboratively in fast-paced environments to identify relevant metrics to help them achieve their goals.
-
 	- Experience developing timely strategic reports for planning and evaluation purposes.
-
 	- Has experience working across departments to help identify areas where analytics can support the work of various departments
-
 	- Understands that driving independent work from other departments  is important to create a culture of analytics
-
 * Craves building organizations into data savvy spaces as well as building a core team and department from the ground up:
-
 	- Experience recruiting, managing, developing, a data and tech team motivated by excellence.
-
 	- Has an entrepreneurial mindset and is undaunted about developing a department structure and budget.
-
 	- Has a creative approach to the use and development of data and technology whether the solutions are budget-neutral or fully resourced.
-
 	- Positive attitude enabling the execution of plans effectively with and across departments and the constructive handling of challenges
-
 	- An effective communicator who can discuss and trouble-shoot data-related strategies, plans and issues effectively with different audiences throughout the organization, whether senior level managers or volunteers; whether tech-savvy or in need of more explanation.
-
 	- Will be able to talk to individuals at all levels of the organization - this includes speaking to volunteers, junior staff, mid-level staff, management staff, and other directors about the use of data, troubleshoot issues, and develop strategies for rectifying and implementation of platforms
-
 * An enthusiastic innovator and practitioner who knows how to set up technology that can both generate needed reports and insightful analytics while establishing processes and workflow that is more efficient,
-
 	- Loves engaging people throughout all levels of the organization to brainstorm how to build new technology that enables the team to do more and to overcome challenges
-
 	- A productive team player with the ability to hold strategic relationships with staff and other stakeholders alike.
-
 * Has a cybersecurity focus and experience with a keen understanding of how to create organizing tools needed by community organizers that account for situations they face that may compromise their security.
-
 * Has deep knowledge on a diversity of platforms – including CRM, VAN, SQL, Civis Platform, email and SMS platforms. (This is not a must, but if they are not, they need to show competency in being able to quickly grasp other tools.)
 
 # To apply
