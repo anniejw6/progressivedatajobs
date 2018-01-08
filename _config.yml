@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Progressive Data Jobs"
 description              : "Work in data and analytics for progressive organizations!"
 url                      : "https://www.progressivedatajobs.org/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "anniejw6/progressivedatajobs"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
