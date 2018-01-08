@@ -6,13 +6,16 @@ tags:
     - datamanagement
 ---
 
-Overview
+# Overview
+
 The Big Data Manager is responsible for architecting the support, design, maintenance, configuration and monitoring of SPLC’s Big Data environment that spans multiple technology layers (i.e. Hardware, OS, Database, Application, Security, etc.). This position requires a sharp, hard-working individual who is ready to pitch in and do whatever it takes for the team to successfully stand up, roll out and support our growing rapidly moving data streams. Along with the technical work, there will be a need to establish successful processes and documentation. This individual will participate in system administration, integration of external tools/software as well as all strategic and tactical planning of the big data environment required to meet SPLC-specific business needs. The individual filling this role will also be expected to deliver excellent customer service and to interact in a highly effective manner with other staff and management. They will also be expected to promote the use and adoption of big data through staff mentoring, working with various departments to identify and solve business challenges as well engaging senior staff.
+
 [Job description here](https://careers-splcenter.icims.com/jobs/1198/big-data-manager/job?mobile=false&width=1044&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300). 
 
 This position could be located in Atlanta, GA or Montgomery, Al depending on personal circumstances and SPLC needs.       
 
-Responsibilities
+# Responsibilities
+
 * Expand the organization’s ability to acquire, analyze and gain actionable insight from data that promotes SPLC’s strategies and mission;
 * Prepare and implement quantitative models for analysis and lead subject matter experts through the process of developing these models;
 * Manage processes critical to the delivery of metrics and analysis with a focus on customer support and ease of use;
@@ -29,14 +32,16 @@ Responsibilities
 * May mentor less senior programmer analysts, subject matter experts and other system users and,
 * Interdepartmental customer management and coordination. 
 
-Qualifications
+# Qualifications
+
 * Bachelor’s degree in Computer Science, big data analytics, statistics, or related course of study;
 * Demonstrable knowledge of quantitative functions;
 * 5 plus years of managerial experience to include hiring, training, performance evaluation, mentoring, etc.
 * 5 plus years of year relevant experience in data science and,
 * Non-profit experience preferred.
  
-Knowledge, skills and abilities:
+# Knowledge, skills and abilities
+
 * Excellent oral and written communication skills required;
 * Experience with statistical and machine learning based analysis;
 * Strong experience in cybersecurity;
@@ -53,11 +58,12 @@ Knowledge, skills and abilities:
 * Must possess a system architect mind-set when working with limited requirements and,
 * Demonstrated ability to work both alone and with colleagues discretely. 
  
-Other Special Considerations:
+# Other Special Considerations
 
 This job is performed under general office conditions and is not subject to any strenuous physical demands or dangerous conditions. Travel up to 35 percent. 
 
-Disclaimer:
+# Disclaimer
+
 The statements herein are intended to describe the general nature and level of work being performed by the employee in this position. These statements are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of a person in this position.
 
 An Equal-Opportunity Employer with a Commitment to Diversity 

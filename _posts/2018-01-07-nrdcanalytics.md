@@ -6,7 +6,8 @@ tags:
     - nonprofit
 ---
 
-Overview
+# Overview
+
 The Natural Resources Defense Council (NRDC) is a U.S. and international environmental action organization. We use law, science, and the support of 3 million members and online activists to protect the planet's wildlife and wild places and to ensure a safe and healthy environment for all living things.  NRDC was founded in 1970 and our staff has helped write some of America's bedrock environmental laws, including the Clean Water Act, and many implementing regulations.  Our cases enforcing and defending federal and state environmental laws have played a major role shaping current environmental policy throughout the country.  Our staff of more than 600 lawyers, scientists, economists, policy and communications experts, and others, work out of offices in New York, Washington, Chicago, Los Angeles, San Francisco, Bozeman, and Beijing. 
 
 Position Summary:
@@ -14,7 +15,8 @@ Position Summary:
 
 NRDC is seeking a Director of Analytics who is responsible for developing the platforms, tools and data-driven insights that drive NRDC’s strategy, planning and multi-channel engagement strategies. We are looking for someone who has a love for data and analysis and wants to use their skills to move NRDC’s mission forward.
 
-Responsibilities
+# Responsibilities
+
 * Lead the development of our digital and organizing analytics platforms
 * Direct development of reporting that provides cross-channel analysis
 * Develop analytical models that determine how we engage with new and existing audiences across channels
@@ -28,7 +30,8 @@ Responsibilities
 * Oversee testing program across channels and provide strategic guidance based on results
 * Improve user experience and conversion through measurement and optimization of key indicators from sources like Google Analytics, CRMs (Salesforce and ActionKit) and external data source
 
-Qualifications
+# Qualifications
+
 * Bachelor’s degree and 5-7 years of experience in data analysis, preferably in a non-profit space
 * Expertise in data analysis including knowledge of the following platforms and tools: Google Analytics, Google Tag Manager, Salesforce, online CRMs (preferably ActionKit), VAN, Facebook Insights, Social data analytics, advertising tracking, SEO etc.
 * Proficient in statistical analysis, SQL, data visualizations, data modeling and big datasets

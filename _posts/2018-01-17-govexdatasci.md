@@ -8,8 +8,11 @@ tags:
 ---
 
 Data Scientist
+
 Classified Title: Data Analytics Manager
+
 Location: Baltimore, MD
+
 Personnel area: Krieger School of Arts & Sciences
 
 [Full Job description here](https://jobs.jhu.edu/job/Baltimore-Data-Scientist-MD-21218/439924200/).
@@ -34,6 +37,7 @@ Specific responsibilities for the Data Scientist include:
 * Help develop curricula to support GovEx’s academic and training offerings
 
 Qualifications
+
 * Bachelor’s degree or relevant work experience required, advanced degree preferred. Seven years related experince required. Advanced education may substitute for experience to the extent permitted by the JHU equivalency formula (18 graduate degree credits may substitute for one year of experience).
 GovEx’s Data Scientist is a creative, curious, and collaborative professional proficient in statistics and computer science. Qualifications include:
 * Experience using data and statistical concepts in research or applied settings to inform strategic decisions or solve complex problems
@@ -45,6 +49,7 @@ GovEx’s Data Scientist is a creative, curious, and collaborative professional 
 Ability to work independently and in a results-oriented workplace 
 
 Pluses include:
+
 * A solid understanding of the types of challenges municipal governments typically face, either through direct experience working in government or in organizations that collaborate closely with governments
 * Experience crafting narratives from analyses and preparing client-ready presentations
 * Demonstrated interpersonal and communications skills, including giving presentations at conferences or to clients
@@ -52,4 +57,4 @@ Pluses include:
 * Proficiency with data visualization tools, such as D3.js, Tableau, or Shiny
 * Proficiency with statistical packages (R, STATA, SPSS, etc)
 * Proficiency with PostgreSQL
-* Famili* Ability to write about technical subjects for a nontechnical audience
+* Ability to write about technical subjects for a nontechnical audience
