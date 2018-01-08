@@ -4,6 +4,8 @@ permalink: /about/
 title: About
 sidebar:
     nav: "docs"
+header:
+  overlay_image: /assets/img/computer.jpg
 ---
 
 This site is maintained by [Lena Tom](mailto:lena@progressivedatajobs.org) and [Annie Wang](mailto:annie@progressivedatajobs.org) (mostly Lena). This site is not maintained in association with any organization or company. See the FAQ below for more info!

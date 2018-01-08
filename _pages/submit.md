@@ -4,6 +4,8 @@ title: Share a Job Posting!
 permalink: /submit/
 sidebar:
     nav: "docs"
+header:
+  overlay_image: /assets/img/computer.jpg
 ---
 
 Use the form below to submit a job posting

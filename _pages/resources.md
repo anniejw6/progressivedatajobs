@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 sidebar:
     nav: "docs"
+header:
+  overlay_image: /assets/img/computer.jpg
 ---
 
 Here are some resources to get you started on your job search:
