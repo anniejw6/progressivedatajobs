@@ -1,8 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Precision Strategies: Sr. Associate - Data & Analytics"
 date: 2017-08-14
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
 ---
 
 [Job description here](http://www.precisionstrategies.com/jobs/senior-associate-data-analytics-data-visualization/)

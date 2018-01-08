@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Center for Popular Democracy: Data Coordinator"
-date: 2018-01-07
-categories: campaigns, nonprofit, datamanagement
+tags: 
+    - campaigns
+    - nonprofit
+    - datamanagement
 ---
 
 Data Coordinator for Civic Engagement

@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Center for Government Excellence (GovEx): Data Scientist"
-date: 2018-01-07
-categories: analyst, nonprofit, datamanagement
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
 ---
 
 Data Scientist

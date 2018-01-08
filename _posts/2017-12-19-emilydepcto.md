@@ -1,8 +1,14 @@
 ---
-layout: post
+layout: single
 title:  "EMILY's List: Deputy Chief Technology Officer"
 date: 2017-12-19
-categories: campaigns, analyst, nonprofit, datamanagement, tech, executive
+tags: 
+    - campaigns
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
 ---
 Deputy Chief Technology Officer
 EMILY's List
@@ -19,7 +25,7 @@ Specific Duties
 -	Serves as EMILY's List primary liaison for data issues to other likeminded organizations including the DSCC, DCCC, DGA, Analyst Institute.
 -	Manages and works closely with EMILY's List data and analytics consultants and vendors.
 -	Partners with Chief Technology Officer to develop wider vision for data, analytics, and technology at EMILY's List.
--	Occasionally steps in to help the various junior members of the team across disciplines including data, security, and IT support.
+-	Occasionally steps in to help the various junior members of the team across disciplines including data, security, and i.t. support.
 -	Serves as liaison to senior leadership team when Chief Technology Officer is unavailable.
 -	Other duties as assigned.
 

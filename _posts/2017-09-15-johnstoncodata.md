@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Mike Johnston for Colorado: Data & Analytics Director"
 date: 2017-09-14
-categories: analyst, nonprofit, datamanagement
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](https://docs.google.com/document/d/e/2PACX-1vSMfER0OiaYcOGL6y8O_Q-L2H19bf_sbb7_Ogm-0EPubLk7GWwAkeZbBG4euDlkrHaSFcPB1ObG9LXX/pub)

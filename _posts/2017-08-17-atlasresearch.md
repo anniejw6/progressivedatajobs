@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Atlas Project: Research Analyst"
 date: 2017-08-17
-categories: analyst
+tags: 
+    - analyst
 ---
 
 [Job description here](https://drive.google.com/file/d/0B4Y2tRAq81_xeHJNQnlDQ2tvTW5Ya0Q4NXRDNzE1UnAySExJ/view)

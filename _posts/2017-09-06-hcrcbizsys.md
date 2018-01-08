@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Habeus Corpus Resource Center: Senior Business Systems Analyst"
 date: 2017-09-06
-categories: analyst, nonprofit, datamanagement, tech
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
 ---
 
 [Job description here](http://www.hcrc.ca.gov/recruitment/0417%20SBSA.pdf)

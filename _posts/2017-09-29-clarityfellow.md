@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Clarity Campaigns: Fellows (paid)"
 date: 2017-09-29
-categories: analyst, nonprofit, datamanagement
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
 ---
 Clarity Campaigns is hiring paid fellowships
 [Job description here](http://www.claritycampaigns.com/careers/#careers/fellowships)

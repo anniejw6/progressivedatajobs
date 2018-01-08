@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "UNITE HERE Local 26 (Boston): Data Organizer"
-date: 2018-01-07
-categories: nonprofit, datamanagement, union
+tags: 
+    - nonprofit
+    - datamanagement
+    - union
 ---
 
 UNITE HERE is seeking a Data Organizer to work closely with union organizers and members within a local union on data management and analysis that will strengthen organizing campaigns. Train local staff on data management and analysis. Work with lead data organizer and other data organizers across the country to share skills and tactics.

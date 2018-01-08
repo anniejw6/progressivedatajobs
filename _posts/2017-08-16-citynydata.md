@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "City of New York: Data Analyst"
 date: 2017-08-16
-categories: citygov, analyst
+tags: 
+    - citygov
+    - analyst
 ---
 
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQNDd4S3hRZWdnWWJKdkc1SXV1Z2hfOHg5NTF3/view?usp=sharing).

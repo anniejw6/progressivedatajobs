@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Indivisible: Organizing Data Manager"
 date: 2017-12-14
-categories: campaigns, nonprofit, datamanagement
+tags: 
+    - campaigns
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](https://jobs.lever.co/indivisible/ab914cf9-55bb-4f68-a77b-f6298c967496?lever-origin=applied&lever-source[0]=dd).

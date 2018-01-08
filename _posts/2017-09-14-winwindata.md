@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "Win Win Action: Temp Data Administrator"
 date: 2017-09-14
-categories: datamanagement
+tags: datamanagement
 ---
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQNnM1Sk1hXzJialE/view?usp=sharing)
 

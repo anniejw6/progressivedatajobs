@@ -1,8 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Vigilant: Research Manager"
-date: 2018-01-07
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern, IT
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
+    - i.t.
 ---
 [Vigilant](https://vigilant.cc/) is helping users make better-informed decisions and more deeply understand the world through our platform for real-time search and monitoring of thousands of public records data sets. Have you always imagined a tool that would search all the data sources you needed, in seconds? That’s Vigilant.
 

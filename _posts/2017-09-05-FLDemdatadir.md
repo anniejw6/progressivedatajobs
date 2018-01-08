@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "FL Democratic Party: Data Director"
 date: 2017-09-05
-categories: campaigns, datamanagement
+tags: 
+    - campaigns
+    - datamanagement
 ---
 
 [Job description here](https://drive.google.com/file/d/0B2BCTMB9tB3FdDkzRHFNVVFIRWZQdHUwSzBzSWhQaEdCdUZF/view)

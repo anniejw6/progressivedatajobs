@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Veracity: multiple job"
 date: 2017-08-30
-categories: vendor, digital, tech
+tags: 
+    - vendor
+    - digital
+    - tech
 ---
 Veracity Media works with campaigns, non-profits and governments to plan, analyze and implement their digital and strategic programs
 

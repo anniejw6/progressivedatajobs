@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Democratic Party of Arkansas: Data Director"
 date: 2017-12-14
-categories: campaigns, datamanagement
+tags: 
+    - campaigns
+    - datamanagement
 ---
 
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQUzQ1c0k4RXNfdHpMaXQ0aWZIeFRNWC05aTVn/view?usp=sharing)
@@ -11,7 +13,7 @@ The Democratic Party of Arkansas is looking to hire a Data Director/Voter File M
 
 More than the messenger so feel free to reach out if you have any questions/comments/concerns & feel free to forward to anyone whom you think may be interested.
 
-RESPONSIBILITIES:
+RESPONSIBILi.t.IES:
 Responsibilities include, but are not limited to, the following:
  
 • Day-to-day management of users and committees in VoteBuilder;

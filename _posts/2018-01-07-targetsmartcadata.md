@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "TargetSmart: California Data Manager"
-date: 2018-01-07
-categories: vendor, clientservices, campaigns, datamanagement
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - datamanagement
 ---
 
 TARGETSMART DATA PRODUCT SPECIALIST

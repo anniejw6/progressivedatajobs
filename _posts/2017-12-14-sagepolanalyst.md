@@ -1,8 +1,20 @@
 ---
-layout: post
+layout: single
 title:  "Sage Media: Political Tracking Analyst"
 date: 2017-12-14
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern, IT
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
+    - i.t.
 ---
 
 Do you thrive on the rush of a campaign headquarters but would rather not move across the country? Are you fascinated with political data and research? If so this could be the perfect job to combine your love of politics with your analytical skills. 

@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Analyst Institute: Analytics & Research internships"
 date: 2017-12-21
-categories: clientservices, analyst, nonprofit, intern
+tags: 
+    - clientservices
+    - analyst
+    - nonprofit
+    - intern
 ---
 
 ORGANIZATION

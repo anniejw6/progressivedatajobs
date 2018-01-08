@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "DCCC: Regional Data Associates"
 date: 2017-11-29
-categories: campaigns, datamanagement, tech
+tags: 
+    - campaigns
+    - datamanagement
+    - tech
 ---
 
 [Job link to apply here](https://dccc.org/jobs/)

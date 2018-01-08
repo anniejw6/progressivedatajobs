@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "AFL-CIO: Lead Data Architect"
 date: 2017-08-29
-categories: campaigns, analyst, nonprofit, datamanagement, tech
+tags: 
+    - campaigns
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
 ---
 
 [Job description here](https://aflcio.hirecentric.com/jobs/124441.html).

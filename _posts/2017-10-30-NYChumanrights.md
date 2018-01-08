@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "City of New York, Commission on Human Rights: Data Discrimination Specialist"
 date: 2017-10-30
-categories: citygov, analyst
+tags: 
+    - citygov
+    - analyst
 ---
 
 [Job description here](http://www1.nyc.gov/assets/cchr/downloads/pdf/careers/DDS_HumanRights.pdf)

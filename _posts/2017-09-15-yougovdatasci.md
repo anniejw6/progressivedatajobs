@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "YouGov Blue: Senior Data Scientist"
 date: 2017-09-14
-categories: analyst, vendor
+tags: 
+    - analyst
+    - vendor
 ---
 
 Data Scientist/Senior Data Scientist

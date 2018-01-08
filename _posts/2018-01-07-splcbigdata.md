@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Southern Poverty law Center: Big Data Manager"
-date: 2018-01-07
-categories: nonprofit, datamanagement
+tags: 
+    - nonprofit
+    - datamanagement
 ---
 
 Overview

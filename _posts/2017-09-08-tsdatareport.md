@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "TargetSmart: Data Reporting Specialist"
 date: 2017-09-08
-categories: vendors, datamanagement, tech
+tags: 
+    - vendors
+    - datamanagement
+    - tech
 ---
 
 [Job description here](www.targetsmart.com/careers/)

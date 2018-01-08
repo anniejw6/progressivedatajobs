@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Engage Idaho: Data & Targeting Manager"
 date: 2017-11-16
-categories: nonprofit, datamanagement
+tags: 
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](http://www.statevoices.org/wp-content/uploads/2017/11/Data-Targeting-Manager-Job-Announcement.pdf)

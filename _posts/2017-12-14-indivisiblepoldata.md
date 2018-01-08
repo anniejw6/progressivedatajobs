@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Indivisible: Political Data Manager"
 date: 2017-12-14
-categories: campaigns, nonprofit, datamanagement
+tags: 
+    - campaigns
+    - nonprofit
+    - datamanagement
 ---
 
 [Job description here](https://jobs.lever.co/indivisible/12f7b051-990e-4ba1-ac9e-926c1cc7c5e5?lever-origin=applied&lever-source[0]=dd)

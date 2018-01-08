@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Morning Consult: Data Scientist"
 date: 2017-09-15
-categories: analyst, tech
+tags: 
+    - analyst
+    - tech
 ---
 Moderators note: Morning Consult is not a strictly progressive organization, however there is significant overlap of both subject area & skill set so we have chosen to post it.
 
@@ -13,7 +15,7 @@ Senior Software engineer
 [Job description here](https://drive.google.com/file/d/0B9_aAEjlRGgQZ1RYSzJvOFhXVmFEa09xb0lhbmVGSlV0TkZ3/view?usp=sharing)
 
 About Morning Consult:
-We are interviewing about 10,000 adults every day in the U.S. and ~20 countries, we have worked with 150+ Fortune 500 companies and industry associations and we are doing weekly polling with the New York Times and POLITICO. We are using the data to build a range of SaaS marketing tools and intelligence platforms that are relevant to CMOs, heads of government affairs, chief comms officers, traders, journalists and researchers. 
+We are interviewing about 10,000 adults every day in the U.S. and ~20 countries, we have worked with 150+ Fortune 500 companies and industry associations and we are doing weekly polling with the New York Times and POLi.t.ICO. We are using the data to build a range of SaaS marketing tools and intelligence platforms that are relevant to CMOs, heads of government affairs, chief comms officers, traders, journalists and researchers. 
 
 ----
 Title: Data Scientists 
@@ -44,4 +46,4 @@ Desired Skills:
 ·       Familiarity with the following a plus: Python, Amazon Web Services, Qualtrics, hypothesis testing, A/B testing, 
 About Morning Consult:
 
-Morning Consult is a high-growth integrated media, survey research, and technology company that has become a leading resource for business and political leaders since its founding in 2013. Morning Consult is the official polling partner for POLITICO and has collaborated with the New York Times, 538, Bloomberg, Fortune, and Vox. 
+Morning Consult is a high-growth integrated media, survey research, and technology company that has become a leading resource for business and political leaders since its founding in 2013. Morning Consult is the official polling partner for POLi.t.ICO and has collaborated with the New York Times, 538, Bloomberg, Fortune, and Vox. 

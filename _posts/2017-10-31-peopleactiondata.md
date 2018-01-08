@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "People's Action Institute: Data Manager"
 date: 2017-10-31
-categories: data, tech
+tags: 
+    - data
+    - tech
 ---
 
 [Job description here](https://drive.google.com/drive/u/0/folders/0B9_aAEjlRGgQR0JWeTFQWXhXLTg)

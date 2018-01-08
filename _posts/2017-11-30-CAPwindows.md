@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Center for American Progress: Windows Security and Systems Engineer"
 date: 2017-11-30
-categories: tech, IT
+tags: 
+    - tech
+    - i.t.
 ---
 
 Windows Security and Systems Engineer
@@ -28,7 +30,7 @@ Back up support for network and security technologies, including switches, firew
 Help desk/asset management
 Escalation point for Desktop Support team for Windows-related issues.
 Primary support lead for Windows-related operations tickets.
-Interact with internal clients on all levels to help resolve IT-related issues and provide answers in a manner that meets the department’s SLA.
+Interact with internal clients on all levels to help resolve i.t.-related issues and provide answers in a manner that meets the department’s SLA.
 Ensure company assets under the responsibility of the Windows Administrator are properly documented and maintained.
  Vendor management
 Manage vendors, including coordinating projects and assigning troubleshooting tickets to American Progress’ MSP to ensure SLAs are being met and work is being completed to American Progress standards.
@@ -40,17 +42,17 @@ Remain on the forefront of emerging industry practices.
 Seek and participate in professional development opportunities above and beyond training required by American Progress.
 Lead trainings and generally mentor members of the Desktop Support team to improve their knowledge of Windows systems and infrastructure.
 Communication
-Effectively communicate relevant IT-related information to superiors.
+Effectively communicate relevant i.t.-related information to superiors.
 Resolve and/or escalate issues in a timely fashion.
 Understand how to communicate difficult and sensitive information tactfully.
-Relay relevant IT-related information to the company in a timely manner.
+Relay relevant i.t.-related information to the company in a timely manner.
 Client management
 Set and manage internal client expectations.
 Communicate effectively with internal clients to identify needs and evaluate alternative business solutions.
 Continually seek opportunities to increase internal client satisfaction and deepen client relationships.
 Required qualifications:
 Education and/or experience equivalent to a bachelor’s degree; computer science or related degree preferable.
-Three to five years of relevant IT experience.
+Three to five years of relevant i.t. experience.
 Proven project management and organization skills.
 Knowledge of Microsoft Server—2008-2016—and client products—Windows 8.1-10—in an enterprise, multi-VLAN environment.
 Extensive knowledge of Windows server environments including DNS, DHCP, RADIUS, Active Directory multidomain forests, and Windows security best practices.
@@ -62,7 +64,7 @@ Experience deploying server infrastructure in Azure is a strong plus.
 Proficient in PowerShell; ability to write PowerShell scripts is a plus.
 Knowledge of Microsoft Intune and Information Rights Management.
 Knowledge of Apple Mac OS X client and server is a plus.
-Knowledge of ITIL concepts and best practices.
+Knowledge of i.t.IL concepts and best practices.
 Basic Linux skills.
 Experience with SIEM systems, including search and investigations.
 To apply

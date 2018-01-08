@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Global Strategy Group: Sr. Associate, Data Science"
 date: 2017-11-09
-categories: vendor, analyst, datamanagement
+tags: 
+    - vendor
+    - analyst
+    - datamanagement
 ---
 
 Senior Associate, Data Science [Job description here](http://www.globalstrategygroup.com/careers/senior-associate-data-science/)

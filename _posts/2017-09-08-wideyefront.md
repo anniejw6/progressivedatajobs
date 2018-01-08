@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Wide Eye Creative: Front End Developer"
 date: 2017-09-08
-categories: vendor, tech
+tags: 
+    - vendor
+    - tech
 ---
 
 Wide Eye Creative is also hiring a front end developer

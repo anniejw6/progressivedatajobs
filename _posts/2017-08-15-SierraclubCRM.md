@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Sierra Club: CRM Support associates"
 date: 2017-08-14
-categories: vendor, clientservices, campaigns
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
 ---
 
 [Job description here](https://chm.tbe.taleo.net/chm01/ats/careers/requisition.jsp?org=SIERRACLUB&cws=1&rid=961).

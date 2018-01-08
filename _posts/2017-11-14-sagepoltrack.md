@@ -1,8 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Sage Media: Political Tracking Analyst"
 date: 2017-11-14
-categories: vendor, clientservices, campaigns, citygov, digital, analyst, nonprofit, datamanagement, tech, executive, intern
+tags: 
+    - vendor
+    - clientservices
+    - campaigns
+    - citygov
+    - digital
+    - analyst
+    - nonprofit
+    - datamanagement
+    - tech
+    - executive
+    - intern
 ---
 
 

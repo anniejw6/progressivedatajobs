@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Credo Action: Data & Analytics Manager"
-date: 2018-01-07
-categories: analyst, nonprofit, datamanagement
+date: 2017-12-14
+tags: 
+    - analyst
+    - nonprofit
+    - datamanagement
 ---
 
 CREDO is a for-profit social change organization of more than 5 million members that uses online-to-offline organizing techniques to hold down the progressive flank. We have a unique funding model – we run a phone and credit card company to fund progressive activism. We’re proudly the largest corporate donor to Planned Parenthood and fund dozens of other progressive groups each year like Color Of Change, Electronic Frontier Foundation, National Domestic Workers Alliance and 350.org.
@@ -47,7 +50,7 @@ NICE TO HAVE:
 » Experience with: ActionKit;
 » Experience with Python, Mode Analytics, Optimizely, and/or Google Analytics.
 
-BENEFITS AND COMPENSATION:
+BENEFi.t.S AND COMPENSATION:
 Compensation is competitive and will be determined based on your level of experience. CREDO takes seriously the challenge of ensuring that women, people of color, LGBTQ people, and other underrepresented minorities are paid equally to their peers.
 
 CREDO offers generous merit bonuses; comprehensive health, dental, vision coverage & FSA; industry-leading 401k matching; and these other benefits:

@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "National Resources Defense Council: Director of Analytics"
-date: 2018-01-07
-categories: analyst, nonprofit
+tags: 
+    - analyst
+    - nonprofit
 ---
 
 Overview

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  "New Era Colorado: Data Director"
 date: 2017-09-08
-categories: campaigns
+tags: campaigns
 ---
 
 New Era Colorado is seeking a data director.

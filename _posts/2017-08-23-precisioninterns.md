@@ -1,8 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Precision Strategies: Data & Analytics internship (paid)"
 date: 2017-08-23
-categories: vendor, analyst, datamanagement, intern
+tags: 
+    - vendor
+    - analyst
+    - datamanagement
+    - intern
 ---
 
 [Job description here](http://www.precisionstrategies.com/jobs/fall-data-analytics-intern/)
