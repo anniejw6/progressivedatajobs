@@ -48,8 +48,7 @@ Zero dollars. But if you get a job from a listing on this site, let us know.
 ## Tell me more about how you built this site!
 
 You can view the code [here](https://github.com/anniejw6/progressivedatajobs). 
-The site is hosted through [Netlify](https://www.netlify.com/) and is powered by 
-[jekyll](https://github.com/jekyll/jekyll) using the [Long Haul](https://github.com/brianmaierjr/long-haul) theme. 
+The site is hosted through [Netlify](https://www.netlify.com/).
 Its favicon is Data Syncing by IconDots from the Noun Project. 
 
 

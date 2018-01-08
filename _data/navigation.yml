@@ -4,12 +4,12 @@ main:
   #  url: /categories/
   # - title: "About"
   #  url: /about/
-  # - title: "Submit"
-  #   url: /submit/
   # - title: "Resources"
   #   url: /resources/
   - title: "Sort by Tag"
     url: /tags/
+  - title: "Submit"
+    url: /submit/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -20,7 +20,7 @@ main:
 docs:
   - title: "About"
     url: /about/
-  - title: "Submit"
-    url: /submit/
   - title: "Resources"
     url: /resources/
+  - title: "Submit"
+    url: /submit/
