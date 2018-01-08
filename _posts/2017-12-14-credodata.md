@@ -1,20 +1,24 @@
 ---
 layout: single
 title:  "Credo Action: Data & Analytics Manager"
+<<<<<<< HEAD
 date: 2017-12-14
 tags: 
     - analyst
     - nonprofit
     - datamanagement
+=======
+date: 2018-01-07
+categories: analyst, nonprofit, datamanagement
+>>>>>>> master
 ---
-
-[Job description here](https://credoaction.com/data-analytics-manager-2018/)
 
 CREDO is a for-profit social change organization of more than 5 million members that uses online-to-offline organizing techniques to hold down the progressive flank. We have a unique funding model – we run a phone and credit card company to fund progressive activism. We’re proudly the largest corporate donor to Planned Parenthood and fund dozens of other progressive groups each year like Color Of Change, Electronic Frontier Foundation, National Domestic Workers Alliance and 350.org.
 
 CREDO’s advocacy campaigns ask our members to sign petitions, engage on all social media channels, call legislators and join protests – which may include getting arrested in peaceful civil disobedience to win change. Join us at the forefront of the progressive resistance to Trump’s hateful agenda.
 
 We strongly encourage applications from people of color, persons with disabilities, women and LGBTQ people.
+[Job description here](https://credoaction.com/data-analytics-manager-2018/)
 
 This position is full time, exempt, based in San Francisco and reports to Deputy Political Director Josh Nelson.
 
@@ -63,3 +67,5 @@ CREDO offers generous merit bonuses; comprehensive health, dental, vision covera
 » Catered team lunches twice a month, casual dress code, epic snack selection (lots of healthy options!), annual company Giants outing, optional happy hours and an otherwise friendly and fun workplace environment.
 
 APPLY NOW: credo.cm/jobs
+
+Moderator's note: this is a reposting of the position.
