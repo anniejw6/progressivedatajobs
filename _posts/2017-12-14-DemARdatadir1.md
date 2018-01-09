@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Democratic Party of Arkansas: Data Director"
-date: 2017-01-09
+date: 2017-12-14
 tags: 
     - campaigns
     - datamanagement
@@ -48,5 +48,3 @@ This position is available immediately and will remain open until filled.  Compe
 Equal Opportunity/Diversity Policy: The DPA prohibits discrimination of employment, promotion, compensation, terms, conditions, or privileges of employment on the basis of gender, disability, race, age, national origin, color, creed, sexual orientation, sex (including marital and parental status), gender identity and expression, religion, economic status, ethnic identity, veteran's status, or any other basis prohibited by applicable law. This policy covers all programs, services, policies, and procedures of the DPA, including opportunity for employment and treatment as a DPA employee. The DPA is an equal opportunity employer and will comply with all applicable laws prohibiting discrimination in employment.
  DPA's equal opportunity policy covers all programs, services, policies, and procedures of the DPA, including opportunity for employment and treatment as a DPA employee, as well as opportunities for Consultants to contract with the DPA.
 The DPA is committed to building a staff that reflects the diverse communities that makeup our country and the Democratic Party. Working towards the goal of a diverse DPA, our policy extends to both Staff and Consultants.
-
-Moderator's note: this is a repost of a December posting. 
