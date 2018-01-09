@@ -8,38 +8,40 @@ tags:
     - datamanagement
 ---
 
-Democratic Party of New Jersey 
-
 The Democratic Party of New Jersey is seeking a hardworking, energetic individual to be our Data Director for the 2018 cycle and beyond. The Democratic Party of New Jersey works with candidates up and down the ticket from municipal to statewide races to help them win and advance the agenda of the Democratic Party.
 
 Job Responsibilities:
-Administer and grow the state party’s voter file
-Support the party’s and coordinated campaign’s organizing staff by creating targeted voter contact universes, creating reports, and troubleshooting issues in the voter file
-Provide support for campaigns and party officials
-Soliciting and procuring information to upload to the voter file
-Work with campaign pollsters and data teams on Modeling and polling 
+
+* Administer and grow the state party’s voter file
+* Support the party’s and coordinated campaign’s organizing staff by creating targeted voter contact universes, creating reports, and troubleshooting issues in the voter file
+* Provide support for campaigns and party officials
+* Soliciting and procuring information to upload to the voter file
+* Work with campaign pollsters and data teams on Modeling and polling 
 
 Additional Responsibilities: 
-Provide VAN trainings to campaigns and county parties
-Provide timely and relevant analysis of all available field data
-Provide support for partners, including updating voter scores, crafting unique universes and creating targets
+
+* Provide VAN trainings to campaigns and county parties
+* Provide timely and relevant analysis of all available field data
+* Provide support for partners, including updating voter scores, crafting unique universes and creating targets
 
 Applicants should have:
-2+ cycles of experience with VAN (Administration experience preferred)
-2+ years’ experience creating targeted universes for campaigns
-Must have strong knowledge of database technology and theory, with advanced training in computers
-Ability to synthesis and explain complex data reports in ley terms.
-Advanced knowledge of Excel
-Ability to work with a team on a common goal
-Ability to manage multiple supervisors
-Ability to manage multiple projects
-Capacity and willingness to work long hours 
+
+* 2+ cycles of experience with VAN (Administration experience preferred)
+* * 2+ years’ experience creating targeted universes for campaigns
+* Must have strong knowledge of database technology and theory, with advanced training in computers
+* Ability to synthesis and explain complex data reports in ley terms.
+* Advanced knowledge of Excel
+* Ability to work with a team on a common goal
+* Ability to manage multiple supervisors
+* Ability to manage multiple projects
+* Capacity and willingness to work long hours 
 
 Pluses: 
-SQL and/or other coding language experience
-Knowledge of GIS
-Experience with data visualization software (Tableau, Periscope, etc)
-Preferred degree with Computer Science or Statistics background 
+
+* SQL and/or other coding language experience
+* Knowledge of GIS
+* Experience with data visualization software (Tableau, Periscope, etc)
+* Preferred degree with Computer Science or Statistics background 
 
 Please apply to NJDPJOBS@gmail.com with a cover letter, resume and three references with your application.
 
