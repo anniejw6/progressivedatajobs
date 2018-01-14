@@ -22,6 +22,7 @@ team designing and building models and analyses that drive smart insights and at
 Communications Contract team, including advertising and creative agencies, media buying entities, and niche communications firms.
 
 PSB is an Affirmative Action and Equal Opportunity Employer.
+    [Full description and to apply](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=45538&clientkey=24BF8B8CCDA463D7E30B879E972E7474)
 
 Responsibilities:
 
