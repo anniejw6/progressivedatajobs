@@ -7,7 +7,7 @@ tags:
     - campaigns
     - data
     - nonprofit
- ---
+---
 Our country is in a crisis, and stakes in 2018 couldn’t be higher. Since Donald Trump took office, MoveOn members have been a pillar of the resistance to the radical policies coming out of Congress and the White House. In this election, MoveOn will mobilize a grassroots wave to take back our government and create a nation where all can thrive--one marked by justice, sustainability, economic security, peace, and mutual care.
 
 Throughout its history, MoveOn has championed a culture of analytics and analytic innovation—from the kinds of digital A/B testing and optimization now made famous by presidential campaigns to deep member listening through data to innovations in social media persuasion. In 2018 we’ll use data to help the Resistance Movement stand up for vulnerable communities, oppose the destructiveness of the Trump administration, and take back power at the ballot box.
