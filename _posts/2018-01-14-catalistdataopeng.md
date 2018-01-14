@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Catlist: Data Operations Engineer"
+title:  "Catalist: Data Operations Engineer"
 tags: 
     - clientservices
     - consultants
