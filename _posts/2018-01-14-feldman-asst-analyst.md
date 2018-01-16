@@ -6,9 +6,7 @@ tags:
     - analytics
     - campaigns
     - consultants
-    ---
-
-Assistant Analyst
+---
 
 Democratic strategic research firm, The Feldman Group, is seeking an Assistant Analyst with strong writing, research and analytical capabilities.
 
@@ -18,5 +16,6 @@ At least two years experience in the campaigns and/or political arena, knowledge
 
 The annual salary for this position is up to $40K, plus benefits. This position is located in Washington, DC and is through the 2018 election cycle only. The Feldman Group values a multi-cultural, diverse working environment. We welcome and encourage people of all backgrounds to apply.
 
-[Full job description here[(https://docs.google.com/viewer?a=v&pid=forums&srcid=MTEzOTg3MzQ1MzcwNjI1NTgzMDQBMTQ2MjgxMzExNjk0MDUxOTk2OTUBZVlYdDJSREtEQUFKATAuMQEBdjI&authuser=0)
+[Full job description here](https://docs.google.com/viewer?a=v&pid=forums&srcid=MTEzOTg3MzQ1MzcwNjI1NTgzMDQBMTQ2MjgxMzExNjk0MDUxOTk2OTUBZVlYdDJSREtEQUFKATAuMQEBdjI&authuser=0)
+
 To apply, please send a resume and cover letter to resumes@thefeldmangroup.com. Please put the position title in the subject line of your email. No phone calls. Finalists for the position will be asked to submit a memorandum analyzing public opinion data.
