@@ -51,3 +51,7 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+# Quick files to pull recent posts
+genlist.py
+recentposts.txt
