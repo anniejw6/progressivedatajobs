@@ -12,14 +12,14 @@ We are hiring for this position immediately. This position is full-time, with a 
 
 Responsibilities
 
-Administering, supporting, and setting data standards for the political department’s work with new electoral or voter contact technologies and platforms the department adopts
-Conducting voter targeting and analysis for both plan-making and use in electoral tools
-Creating training documents and materials for Political Department staff and volunteers on data standards and practices
-Managing the political department towards a more holistic and integrated data architecture
-Handling all syncs and integrations between political systems; working with other departments’ data staffs to create syncs and integrations between departments’ data systems
-Co-creating metrics for tracking the success and optimization of the political team’s work
-Creating and generating all political department internal and external reports
-Take part in creating an environment valuing testing and data-driven practices
+* Administering, supporting, and setting data standards for the political department’s work with new electoral or voter contact technologies and platforms the department adopts
+* Conducting voter targeting and analysis for both plan-making and use in electoral tools
+* Creating training documents and materials for Political Department staff and volunteers on data standards and practices
+* Managing the political department towards a more holistic and integrated data architecture
+* Handling all syncs and integrations between political systems; working with other departments’ data staffs to create syncs and integrations between departments’ data systems
+* Co-creating metrics for tracking the success and optimization of the political team’s work
+* Creating and generating all political department internal and external reports
+* Take part in creating an environment valuing testing and data-driven practices
 
 See [full description and apply here](https://jobs.lever.co/indivisible/12f7b051-990e-4ba1-ac9e-926c1cc7c5e5)
 

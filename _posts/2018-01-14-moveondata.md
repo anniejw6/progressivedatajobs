@@ -7,8 +7,6 @@ tags:
     - datamanagement
     - nonprofit
 ---
-About MoveOn
-
 Our country is in a crisis and stakes in 2018 couldn’t be higher. Since Donald Trump took office, MoveOn members have been a pillar of the resistance to the radical policies coming out of Congress and the White House.  In this election, MoveOn will mobilize a grassroots wave to take back our government and create a nation where all can thrive--one marked by justice, sustainability, economic security, peace, and mutual care
 
 MoveOn.org’s “Resist & Win” 2018 election program centers on recruiting, training and supporting hundreds of volunteer leaders in more than 100 congressional districts to mobilize thousands of volunteers to join them in strategic movement-building and voter engagement actions--paired with the power of our cutting edge Video Lab, Analytics, Technology, and Digital campaigning.
@@ -26,21 +24,23 @@ As MoveOn’s Election Data Director MoveOn members will be counting on you to m
 
 Responsibilities:
 
-Primary person responsible for managing, organizing and deploying voter and volunteer data for MoveOn’s 2018 electoral member mobilization programs.
-Work with our Mobile and Organizing teams to create target lists for voter contact and volunteer recruitment.
-Work with national allies and partner organizations to coordinate targeting
-Work closely with our Analytics team to deploy persuasion and turnout models in hundreds of races across the country and support other 2018 election efforts.
+* Primary person responsible for managing, organizing and deploying voter and volunteer data for MoveOn’s 2018 electoral member mobilization programs.
+* Work with our Mobile and Organizing teams to create target lists for voter contact and volunteer recruitment.
+* Work with national allies and partner organizations to coordinate targeting
+* Work closely with our Analytics team to deploy persuasion and turnout models in hundreds of races across the country and support other 2018 election efforts.
+
 Skills required:
 
 Our 2018 Election Data Director should be a gifted data manager with a high attention to detail who can communicate effectively across the organization and apply good strategic and analytic judgement. The role requires the following:
 
-Experience with databases and lots of data. We use postgreSQL and Amazon Redshift as well as MySQL databases. Our data sets are typically hundreds of thousands of rows or larger and you'll be managing data across hundreds of races throughout the country. Experience with other setups is fine too. Experience with digital analytics or analytics in an advocacy or electoral campaign is also a plus, but not required.
-High attention to detail. You’ll be working with lots of complex data sets and will need to consistently and accurately manage data to ensure our voter contact and volunteer recruitment programs are targeting the right people.
-Strong interpersonal and communication skills. You'll be working with people from teams across the organization. They don't want a data dump. They want collaboration and strategic guidance.
-Good judgment and vision. The organization counts on its data staff team to provide sound decision-making advice. You should feel comfortable doing that, even with imperfect knowledge, and should have the vision to anticipate the analytics questions we’ll be asking six months from now. The election data director should be comfortable interpreting data in the political context of the elections we're involved in. You're there to help us make sure we're using data wisely, not just to make sure it's there.
-A basic understanding of modern data science. Our problems frequently change, so a broad knowledge base of analytic approaches and the ability to learn quickly are key. We do most of our analysis in R with scripts as needed, but any solid stats/analytics platform experience will work.
-A passion for social justice. You should do this job because you’re passionate about making the country more progressive through grassroots activism.
-You act with high integrity, professionalism, low ego, and are a team player.  You’ll fit in well at MoveOn with those.
+* Experience with databases and lots of data. We use postgreSQL and Amazon Redshift as well as MySQL databases. Our data sets are typically hundreds of thousands of rows or larger and you'll be managing data across hundreds of races throughout the country. Experience with other setups is fine too. Experience with digital analytics or analytics in an advocacy or electoral campaign is also a plus, but not required.
+* High attention to detail. You’ll be working with lots of complex data sets and will need to consistently and accurately manage data to ensure our voter contact and volunteer recruitment programs are targeting the right people.
+* Strong interpersonal and communication skills. You'll be working with people from teams across the organization. They don't want a data dump. They want collaboration and strategic guidance.
+* Good judgment and vision. The organization counts on its data staff team to provide sound decision-making advice. You should feel comfortable doing that, even with imperfect knowledge, and should have the vision to anticipate the analytics questions we’ll be asking six months from now. The election data director should be comfortable interpreting data in the political context of the elections we're involved in. You're there to help us make sure we're using data wisely, not just to make sure it's there.
+* A basic understanding of modern data science. Our problems frequently change, so a broad knowledge base of analytic approaches and the ability to learn quickly are key. We do most of our analysis in R with scripts as needed, but any solid stats/analytics platform experience will work.
+* A passion for social justice. You should do this job because you’re passionate about making the country more progressive through grassroots activism.
+* You act with high integrity, professionalism, low ego, and are a team player.  You’ll fit in well at MoveOn with those.
+
 Location: Work from anywhere within the continental United States.
 
 Reports to: Elections Mobilization Director

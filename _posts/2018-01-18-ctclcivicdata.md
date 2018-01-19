@@ -10,16 +10,17 @@ tags:
     - tech
 ---
 
-Position: Civic Data Research Associate
-Benefits: Vision, Dental, & Medical Insurance and Cell Phone Reimbursement
-Location: Washington, DC strongly preferred
-Type: Full Time
-Salary: $50,000
-Start Date: March 2018
+Position: Civic Data Research Associate  
+Benefits: Vision, Dental, & Medical Insurance and Cell Phone Reimbursement  
+Location: Washington, DC strongly preferred  
+Type: Full Time  
+Salary: $50,000  
+Start Date: March 2018  
 
 [Click here for full position description and to apply](https://www.techandciviclife.org/news/2018/1/17/job-civic-data-research-associate)
 
 The Center for Technology and Civic Life is looking for a Research Associate to join its Civic Data team. The Civic Data team's programs help organize the country’s election information and answer important questions about government and representation. Some examples of the work the Research Associate will do: 
+
 * Collect, maintain, and ensure the quality of CTCL’s civic datasets, including ballot and elected official information.
 * Develop systems and processes for tracking research progress and timelines.
 * Manage a short-term team of election fellows to hit our data collection goals in a fast-paced and intense period of time.

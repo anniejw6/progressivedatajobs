@@ -17,22 +17,25 @@ Social mission is at the core of what we do, and we're looking for people who lo
 
 What You’re Good At
 
-You have experience working with fundraising, advocacy, and email tools, for nonprofits, unions, or political campaigns.
-You have used EveryAction, VAN and Votebuilder (or their competitors) extensively as part of your day-to-day responsibilities.
-You are passionate about progressive causes, and good technology, and are willing to work with lots of different orgs who need our help.
-You have excellent oral and written communication skills, and run towards a person with a problem instead of running away.
-You’re invigorated by working in an agile, creative, quick-paced, and collaborative environment;
-You enjoy working across cross-functional teams to get the job done.
-You’re detail-oriented, great at following up and don’t let things slip through the cracks.
+* You have experience working with fundraising, advocacy, and email tools, for nonprofits, unions, or political campaigns.
+* You have used EveryAction, VAN and Votebuilder (or their competitors) extensively as part of your day-to-day responsibilities.
+* You are passionate about progressive causes, and good technology, and are willing to work with lots of different orgs who need our help.
+* You have excellent oral and written communication skills, and run towards a person with a problem instead of running away.
+* You’re invigorated by working in an agile, creative, quick-paced, and collaborative environment;
+* You enjoy working across cross-functional teams to get the job done.
+* You’re detail-oriented, great at following up and don’t let things slip through the cracks.
+
 Bonus Points
 
-Previous experience teaching or training, including activities such as mentoring, tutoring and/or software support.
-Experience in customer relations or an equivalent field, though not required, is valued;
-You have an established network in the campaign or nonprofit technology world.
-You have familiarity with HTML, CSS, and Javascript.
+* Previous experience teaching or training, including activities such as mentoring, tutoring and/or software support.
+* Experience in customer relations or an equivalent field, though not required, is valued;
+* You have an established network in the campaign or nonprofit technology world.
+* You have familiarity with HTML, CSS, and Javascript.
+
 The position is for either our Washington, DC office or our Boston office, located in Somerville, MA.
 
 About Us 
+
 EveryAction, and its parent company NGP VAN, is a technology company whose team members do meaningful work that has a significant impact on promoting civil rights, social justice, and environmental responsibility. 
 
 Employees enjoy an unusually generous set of benefits, including 12 weeks paid parental leave, profit sharing, 100% premium-paid health/dental, and an ongoing education allowance.  NGP VAN/EveryAction is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for nine years in a row. 
@@ -42,6 +45,7 @@ Last year we were named one of the Coolest Companies of 2016 by DC Inno. We've a
 Join our team and work alongside about 200 smart, passionate, and innovative co-workers, many of whom are industry recognized as experts in their fields.
 
 To Apply 
+
 Email your resume and cover letter in PDF form to jobs@ngpvan.com. Be sure to include “EveryAction Client Services Specialist” in the subject line!
 
 NGP VAN believes a diverse, inclusive staff makes us a stronger company and better partner for our clients. We’re committed to hiring people of all races, ethnicities, ages, sex, genders, sexual orientation or gender identities, marital status, religions, and disabilities. Women, people of color, LGBTQ individuals, and members of other minority or marginalized groups are encouraged to apply. 
