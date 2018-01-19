@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Emily's List: Data and Analytics Intern"
+title:  "EMILY's List: Data and Analytics Intern"
 tags: 
     - analytics
     - campaigns
