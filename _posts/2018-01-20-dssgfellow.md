@@ -12,7 +12,7 @@ tags:
     - vendors
 ---
 
-University of Chicago's Data Science for Social Good program is accepting applications for fellows and mentors for the summer of 2017.
+University of Chicago's Data Science for Social Good program is accepting applications for fellows and mentors for the summer of 2017. 
 Due date is January 31, 2018
 
 [Read more and apply here](https://dssg.uchicago.edu/faq-page/)
