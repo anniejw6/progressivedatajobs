@@ -10,23 +10,10 @@ tags:
     - vendors
 ---
 
-POSTION: Technology Director
-LOCATION: Denver, CO
-RESPONSIBILITIES:
-The Colorado Democratic Party seeks a Technology Director to handle the day-to-day
-voter file needs of CDP, county party organizations, state and federal campaigns, and
-activists. Technology Director responsibilities include, but are not limited to, maintaining the
-CDP headquarters IT infrastructure, updating the WordPress site, management of all use
-and maintenance of and training for VoteBuilder. The Technology Director will also collect,
-report, and upload daily early voting updates into VoteBuilder. The Technology Director will
-have to be mindful of cybersecurity threats and report anomalies to the Chair, as well as
-ensuring the staff follows best practices, and regularly update CDP devices firmware and
-software.
+POSTION: Technology Director  
+LOCATION: Denver, CO  
 
-QUALIFICATIONS:
-POSTION: Technology Director
-LOCATION: Denver, CO
-RESPONSIBILITIES:
+RESPONSIBILITIES:  
 The Colorado Democratic Party seeks a Technology Director to handle the day-to-day
 voter file needs of CDP, county party organizations, state and federal campaigns, and
 activists. Technology Director responsibilities include, but are not limited to, maintaining the
