@@ -25,7 +25,7 @@ While there is no single source of all progressive jobs, we recommend the follow
 
 * [Inclusv](https://inclusv.com/) A community for people of color in politics and activism. Joining gives you access to job postings, trainings and personalized mentorship and resume review is available. 
 
-* [Idealist] (https://www.idealist.org/) hosts thousands of non-profit jobs, interships and volunteer opportunities across a wide swath of issues. Pro tip: Because Idealist charges a fee to post, if you find an organization you are interested in, make sure to check their website directly. 
+* [Idealist](https://www.idealist.org/) hosts thousands of non-profit jobs, interships and volunteer opportunities across a wide swath of issues. Pro tip: Because Idealist charges a fee to post, if you find an organization you are interested in, make sure to check their website directly. 
 
 * Traditional sites like Indeed also often post listings for non-profits (although due to posting fees, they are often limited to larger organizations). 
 
