@@ -6,17 +6,11 @@ tags:
     - datamanagement
     - nonprofit
 ---
-NATIONAL DATA DIRECTOR
-
-New York City, Washington D.C. or Oakland, CA
-
-OVERVIEW
-
 Color Of Change PAC is looking to expand to scale our voter contact and persuasion efforts to boost Black voter turn-out in key down ballot elections, including elections for District Attorney and Congress. This is a unique opportunity to join a cutting edge and deeply skilled team to make crucial change during an incredibly important time for the movement.
 
 The Color Of Change PAC Data Director will be responsible for creating and maintaining the data infrastructure for the 2018 Color of Change PAC program. They will be creating the data infrastructure for the program, designing it from the ground up to ensure that the program is successful in accomplishing organizational goals. They will be responsible for communicating with partner organizations around data sharing agreements, and managing a team of data staff working on races around the country to handle day-to-day data needs, as well as creating reports, relevant analysis, and updates for the team. This person should be highly detail-oriented and obsessed with making sure the data is clean and accurate.
 
-This position reports to the National Campaign Manager.
+This position reports to the National Campaign Manager. New York City, Washington D.C. or Oakland, CA
 
 RESPONSIBILITIES
 
@@ -29,7 +23,6 @@ RESPONSIBILITIES
 * Work with Research Consultant to ensure all experiments are conducted properly
 * Maintain voter file integrity and access, and create training program for all relevant parties
 * Communicate with senior staff to provide key, data-driven insights and recommendations to team
- 
 
 KEY QUALIFICATIONS
 

@@ -6,10 +6,10 @@ tags:
     - tech
 ---
 
-Type: Full-time
-Location: San Francisco
-Contact: Cori Pryor, cori@hustle.com
-Position Title: Lead DevOps Engineer
+Type: Full-time  
+Location: San Francisco  
+Contact: Cori Pryor, cori@hustle.com  
+Position Title: Lead DevOps Engineer  
 
 Hustle is looking for an experienced DevOps Architect to design and manage our cloud automation and Infrastructure. It will be your responsibility to design the systems that will make Hustle scale and create the infrastructure that make the engineering team more effective. This is a chance to take a tech stack in its early stages and develop it into a capable workhorse. Our infrastructure has sustained 5000 requests/second at peak load during the 2016 election without issues. Now we need to take it a step further. Your infrastructure choices will echo through the tech stack long, long after you've committed the code.
 

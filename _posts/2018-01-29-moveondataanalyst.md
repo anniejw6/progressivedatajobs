@@ -42,13 +42,14 @@ Skills required
 
 Our next Data Analyst should be someone who can communicate effectively across the organization and apply strategic and analytic judgement. The role requires the following:
 
-Strong interpersonal and communication skills. You'll be working with people from teams across the organization. They don't want a data dump. They want collaboration and strategic guidance.
-Excellent problem-solving skills. The core of this role is to translate real-world challenges into analytic problems, solve them, and translate them back into real-world solutions. You should love the thought of doing that.
-Good judgment and vision. The organization counts on its analytics team to provide sound decision-making advice. You should feel comfortable doing that, even with imperfect knowledge, and should have the vision to anticipate the analytics questions we’ll be asking six months from now.
-Experience with databases and lots of data. We use PostgreSQL and Amazon Redshift as well as MySQL databases. Experience with other setups is fine too. Experience with digital analytics or analytics in an advocacy or electoral campaign is also a plus, but not required.
-A strong understanding of modern data science. Our problems frequently change, so a broad knowledge base of analytic approaches and the ability to learn quickly are key. We do most of our analysis in R, with scripts as needed, but any solid stats/analytics platform experience will work.
-A passion for social justice. You should do this job because you’re passionate about making the country more progressive through grassroots activism.
-You act with high integrity, professionalism, low ego, and are a team player.  You’ll fit in well at MoveOn with those.
+* Strong interpersonal and communication skills. You'll be working with people from teams across the organization. They don't want a data dump. They want collaboration and strategic guidance.
+* Excellent problem-solving skills. The core of this role is to translate real-world challenges into analytic problems, solve them, and translate them back into real-world solutions. You should love the thought of doing that.
+* Good judgment and vision. The organization counts on its analytics team to provide sound decision-making advice. You should feel comfortable doing that, even with imperfect knowledge, and should have the vision to anticipate the analytics questions we’ll be asking six months from now.
+* Experience with databases and lots of data. We use PostgreSQL and Amazon Redshift as well as MySQL databases. Experience with other setups is fine too. Experience with digital analytics or analytics in an advocacy or electoral campaign is also a plus, but not required.
+* A strong understanding of modern data science. Our problems frequently change, so a broad knowledge base of analytic approaches and the ability to learn quickly are key. We do most of our analysis in R, with scripts as needed, but any solid stats/analytics platform experience will work.
+* A passion for social justice. You should do this job because you’re passionate about making the country more progressive through grassroots activism.
+* You act with high integrity, professionalism, low ego, and are a team player.  You’ll fit in well at MoveOn with those.
+
 Deadline and Application: Candidates will be reviewed on a rolling basis, with a goal of starting full-time April 2.
 
 Location: Position can be based anywhere in the continental U.S. May require some travel.

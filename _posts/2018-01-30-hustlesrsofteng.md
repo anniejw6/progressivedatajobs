@@ -7,10 +7,10 @@ tags:
     - tech
 ---
 
-Type: Full-time
-Location: San Francisco
-Contact: Cori Pryor, cori@hustle.com
-Position Title: Senior Software Engineer, Product
+Type: Full-time  
+Location: San Francisco  
+Contact: Cori Pryor, cori@hustle.com  
+Position Title: Senior Software Engineer, Product  
 
 As a product engineer, you will be working on Hustle's core web and mobile products: our web and mobile text messaging apps, our campaign administrative interface, and our message delivery back end. Product engineering at Hustle is unique in that we do not have mobile, front-end and backend specialists. Instead engineers are empowered to develop and ship features in their entirety covering the whole stack.
 

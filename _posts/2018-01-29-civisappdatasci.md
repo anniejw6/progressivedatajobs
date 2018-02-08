@@ -14,15 +14,15 @@ As a Senior Applied Data Scientist in our DC office, you will have ownership ove
  
 Minimum Qualifications
 
-Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
-Proven affinity for and experience with working with large data sets
-Proven affinity for and experience with programming languages such as SQL, R, Python,STATA, etc.
+* Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
+* Proven affinity for and experience with working with large data sets
+* Proven affinity for and experience with programming languages such as SQL, R, Python,STATA, etc.
 
 Preferred Qualifications
 
-Experience framing analytics results within appropriate political context, and communicating these results to stakeholders at all levels
-Experiencing mentoring more junior members of a team
-Practical understanding of and experience with predictive analytics and machine learning
-Experience with the digital targeting and analytics
+* Experience framing analytics results within appropriate political context, and communicating these results to stakeholders at all levels
+* Experiencing mentoring more junior members of a team
+* Practical understanding of and experience with predictive analytics and machine learning
+* Experience with the digital targeting and analytics
 
 [See full description and apply here](https://boards.greenhouse.io/civisanalytics/jobs/1019201#.Wm-QAJM-f-Y)

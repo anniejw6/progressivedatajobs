@@ -8,18 +8,14 @@ tags:
     - vendor
     - vendors
 ---
-
-Position Title: Support Manager
-Reports to: Chief Strategy Officer
-Organization: Politech
-Position Location: Remote
-
-
-About Politech
 Politech creates digital products and technology solutions for nonprofits, campaigns, and foundations. Our primary focus has been to assist progressive organizations, particularly those influencing the policy and political landscape, that advocate on behalf of underserved communities. Our software platforms have been a vital part of keeping such organizations successful and efficient.
- 
-Who We Are
+
 We are deeply committed to public service and progressive social change. We are 100% minority owned and operated with a diverse team, inclusive of gender, ethnicity, and race.
+
+Position Title: Support Manager  
+Reports to: Chief Strategy Officer  
+Organization: Politech  
+Position Location: Remote  
  
 Responsibilities
 

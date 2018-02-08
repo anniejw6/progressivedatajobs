@@ -11,11 +11,11 @@ Senator Elizabeth Warren, a champion for working families, is looking for a Data
 
 Primary Responsibilities:
 
-Daily management of VoteBuilder
-Setup and maintenance of all data and reporting structures
-Collaborate with other relevant senior campaign leadership and vendors on all voter contact universes, how to best use available models, and how to define and track field metrics for analysis
-Developing clear and concise reports
-Train other campaign staff how to use data tools to work more efficiently and effectively
+* Daily management of VoteBuilder
+* Setup and maintenance of all data and reporting structures
+* Collaborate with other relevant senior campaign leadership and vendors on all voter contact universes, how to best use available models, and how to define and track field metrics for analysis
+* Developing clear and concise reports
+* Train other campaign staff how to use data tools to work more efficiently and effectively
 
 Skills & Qualifications:
 

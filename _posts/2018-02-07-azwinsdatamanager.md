@@ -7,31 +7,16 @@ tags:
     - nonprofit
 ---
 
-Arizona Data Manager Job Description
+Arizona Wins is an affiliate state of America Votes and is the coordination hub for the progressive community in Arizona. We lead collaborative efforts among a diverse coalition of state and national partner organizations to advance progressive policies, win elections, and protect every Arizona's right to vote. Our organization provides a range of services to our partners, including strategic planning, advocacy and electoral campaign coordination, data tools and targeting services.
 
-Organization Overview
-Arizona Wins is an affiliate state of America Votes and is the coordination hub for the
-progressive community in Arizona. We lead collaborative efforts among a diverse coalition of
-state and national partner organizations to advance progressive policies, win elections, and
-protect every Arizona's right to vote. Our organization provides a range of services to our
-partners, including strategic planning, advocacy and electoral campaign coordination, data tools
-and targeting services.
-One Arizona works under a successful collaborative format on civic engagement efforts in
-statewide, gubernatorial, and municipality based election seasons. The table members
-represent a broad tapestry of 501c3s focused on voter registration, voter engagement, voter
-mobilization, election protection, and issue advocacy.
-Position Description
-Arizona Wins and One Arizona seek an experienced individual for the full-time position of
-Arizona Data Manager. The Tables utilize and offer partner organizations a range of voter file,
-data and targeting services. We seek an experienced individual with a combination of technical
-and political skills to manage these services and work with our local partner groups. The Data
-Manager will report to the State Director as well as work with the table’s data and targeting
-consultant.
+One Arizona works under a successful collaborative format on civic engagement efforts in statewide, gubernatorial, and municipality based election seasons. The table members represent a broad tapestry of 501c3s focused on voter registration, voter engagement, voter mobilization, election protection, and issue advocacy.
 
-Location
-Phoenix, Arizona
+# Position Description
+Arizona Wins and One Arizona seek an experienced individual for the full-time position of Arizona Data Manager. The Tables utilize and offer partner organizations a range of voter file, data and targeting services. We seek an experienced individual with a combination of technical and political skills to manage these services and work with our local partner groups. The Data Manager will report to the State Director as well as work with the table’s data and targeting consultant.
 
-Responsibilities
+Location: Phoenix, Arizona
+
+# Responsibilities
 * Work with partner organizations using the voter file and other technologies to support, enhance, and execute programs. This includes assisting partners in employing best
 practices for program implementation, as well as converting technical data to actionable electoral campaign recommendations.
 * Work with consultants and other staff responsible for the acquisition, enhancement, manipulation and management of voter and member data.
