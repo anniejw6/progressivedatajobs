@@ -13,17 +13,17 @@ The American Civil Liberties Union is seeking a Special Assistant to the CTO who
 
 ROLES AND RESPONSIBILITIES
 
-Assist with the management of day to day operations of the New York-based Product & Technology department.
-Pull data sets, analyze results, and formulate testing hypotheses on behalf of the CTO.
-Conduct product development research and present findings.
-Create reports and track activity related to product development and other departmental projects.
-Prepare and distribute digital playbooks.
-Manage budget and expense tracking for the department.
-Act as a resource for all staffers in the department.
-Act as a liaison as across the department and with other ACLU national staff.
-Maintain current knowledge of the developing digital and non-profit technology landscape.
-Demonstrate a commitment to diversity within the office using a personal approach that values all individuals and respects differences in regards to race, ethnicity, age, gender identity and expression, sexual orientation, religion, ability and socio-economic circumstance.
-Commitment to work collaboratively and respectfully toward resolving obstacles and/or conflicts.
-Performing other duties as appropriate and assigned.
+* Assist with the management of day to day operations of the New York-based Product & Technology department.
+* Pull data sets, analyze results, and formulate testing hypotheses on behalf of the CTO.
+* Conduct product development research and present findings.
+* Create reports and track activity related to product development and other departmental projects.
+* Prepare and distribute digital playbooks.
+* Manage budget and expense tracking for the department.
+* Act as a resource for all staffers in the department.
+* Act as a liaison as across the department and with other ACLU national staff.
+* Maintain current knowledge of the developing digital and non-profit technology landscape.
+* Demonstrate a commitment to diversity within the office using a personal approach that values all individuals and respects differences in regards to race, ethnicity, age, gender identity and expression, sexual orientation, religion, ability and socio-economic circumstance.
+* Commitment to work collaboratively and respectfully toward resolving obstacles and/or conflicts.
+* Performing other duties as appropriate and assigned.
 
 [See more and apply here](https://www.aclu.org/careers/special-assistant-cto-ptec-18-product-technology-department-new-york-ny)
