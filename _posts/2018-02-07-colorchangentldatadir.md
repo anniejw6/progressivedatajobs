@@ -18,30 +18,29 @@ The Color Of Change PAC Data Director will be responsible for creating and maint
 
 This position reports to the National Campaign Manager.
 
-
 RESPONSIBILITIES
 
-Design and maintain Color of Change PAC’s data warehouse
-Use scripting for data cleaning and manipulation
-Create reporting infrastructure for timely and relevant analysis of data
-Oversee reporting of key insights and trends to organization stakeholders
-Manage remote data staff
-Communicate with partner organizations around data sharing agreements
-Work with Research Consultant to ensure all experiments are conducted properly
-Maintain voter file integrity and access, and create training program for all relevant parties
-Communicate with senior staff to provide key, data-driven insights and recommendations to team
+* Design and maintain Color of Change PAC’s data warehouse
+* Use scripting for data cleaning and manipulation
+* Create reporting infrastructure for timely and relevant analysis of data
+* Oversee reporting of key insights and trends to organization stakeholders
+* Manage remote data staff
+* Communicate with partner organizations around data sharing agreements
+* Work with Research Consultant to ensure all experiments are conducted properly
+* Maintain voter file integrity and access, and create training program for all relevant parties
+* Communicate with senior staff to provide key, data-driven insights and recommendations to team
  
 
 KEY QUALIFICATIONS
 
-Highly detail oriented
-Management experience -- will be responsible for hiring and overseeing staff
-Experience in database design
-Expertise in VAN administration
-Technical training experience; VAN preferred
-SQL or other query language
-API development experience
-Familiarity with GIS
-Familiarity with a scripting language
+* Highly detail oriented
+* Management experience -- will be responsible for hiring and overseeing staff
+* Experience in database design
+* Expertise in VAN administration
+* Technical training experience; VAN preferred
+* SQL or other query language
+* API development experience
+* Familiarity with GIS
+* Familiarity with a scripting language
 
 [See more and apply here](https://colorofchange.recruiterbox.com/jobs/652253728c9f4574936c32820cf28a25)
