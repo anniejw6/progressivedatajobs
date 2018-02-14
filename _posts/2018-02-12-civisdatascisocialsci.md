@@ -13,13 +13,15 @@ The Social Science Research and Development team is seeking  a Data Scientist to
 As a Data Scientist on our team, your day-to-day work will involve everything from project management, statistical modeling in Python/R to the testing and development of statistical software. You will also actively work with our Applied Data Science teams to help clients make better data-driven decisions, and with our engineering teams to scale new research ideas into production.
 
 Preferred Skills: 
-Ability to learn new techniques and technologies quickly as our needs change
-Ability to work well in a small team in a self-directed manner
-Python/R and SQL
-Machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
-Familiarity with software development tools and practices (Git, code review, etc.)
+
+* Ability to learn new techniques and technologies quickly as our needs change
+* Ability to work well in a small team in a self-directed manner
+* Python/R and SQL
+* Machine learning and statistical modeling (e.g., scikit-learn, TensorFlow, Stan)
+* Familiarity with software development tools and practices (Git, code review, etc.)
+
 Minimum Qualifications: 
 
-Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
+* Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
 
 [See more and apply here](https://boards.greenhouse.io/civisanalytics/jobs/1025893#app)

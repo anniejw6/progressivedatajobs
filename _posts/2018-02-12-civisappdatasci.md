@@ -23,20 +23,21 @@ To learn more about our culture, check out Civis Analytics on The Muse!
 
 Responsibilities
 
-Work with colleagues to structure complex client problems to be solved using imperfect data  
-Enhance, find patterns in, and build predictive models on large data sets  
-Maintain a continuous and independent education on cutting-edge statistical techniques and programming languages
-Develop and adhere to a quality control process  
-Work with Applied Data Scientist Managers to derive clear, actionable, and timely insights from analyses
-Work with the Applied Data Scientist Managers to create presentations that are client-ready, clear, and correct
+* Work with colleagues to structure complex client problems to be solved using imperfect data  
+* Enhance, find patterns in, and build predictive models on large data sets  
+* Maintain a continuous and independent education on cutting-edge statistical techniques and programming languages
+* Develop and adhere to a quality control process  
+* Work with Applied Data Scientist Managers to derive clear, actionable, and timely insights from analyses
+* Work with the Applied Data Scientist Managers to create presentations that are client-ready, clear, and correct
+
 Minimum Qualifications
 
-Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
-Proven affinity for and experience with working with large data sets
-Proven affinity for and experience with programming languages such as SQL, R, Python, etc.
-Experience working with presentation software, such as Tableau, Shiny, and MS PowerPoint.
-Demonstrated ability to work independently and in teams
-Demonstrated ability to complete work on time
-Excellent interpersonal and communication skills  
+* Bachelor’s degree in an analytical subject (political science, statistics, math, economics, physics, etc) or equivalent
+* Proven affinity for and experience with working with large data sets
+* Proven affinity for and experience with programming languages such as SQL, R, Python, etc.
+* Experience working with presentation software, such as Tableau, Shiny, and MS PowerPoint.
+* Demonstrated ability to work independently and in teams
+* Demonstrated ability to complete work on time
+* Excellent interpersonal and communication skills  
 
 [See more and apply here](https://boards.greenhouse.io/civisanalytics/jobs/1000277#.WoGn5ZM-fOS)

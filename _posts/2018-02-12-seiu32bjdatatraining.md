@@ -19,12 +19,12 @@ We seek a data training specialist to support all of 32BJ’s geographies. The p
 
 Responsibilities include, but are not limited to:
 
-Provide in person and online support and training on heavily used reporting and CRM platforms
-Point of contact for staff in issues related to union’s data. Serve as a liaison between end users and technical staff, convey issues and make recommendation for improvements
-Perform quality assurance tests during the development cycle
-Maintain and administer a ticketing system to track issues, requests and enhancements
-Create and maintain training material, system documentation and best practices
-Maintain a regular training and presentation schedule with all union’s districts
+* Provide in person and online support and training on heavily used reporting and CRM platforms
+* Point of contact for staff in issues related to union’s data. Serve as a liaison between end users and technical staff, convey issues and make recommendation for improvements
+* Perform quality assurance tests during the development cycle
+* Maintain and administer a ticketing system to track issues, requests and enhancements
+* Create and maintain training material, system documentation and best practices
+* Maintain a regular training and presentation schedule with all union’s districts
 
 
 
