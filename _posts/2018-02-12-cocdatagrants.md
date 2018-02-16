@@ -1,4 +1,4 @@
-* ---
+---
 layout: single
 title:  "Color of Change: Database & Grants Manager"
 tags: 

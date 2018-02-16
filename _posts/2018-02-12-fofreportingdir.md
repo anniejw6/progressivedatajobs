@@ -1,4 +1,4 @@
-* ---
+---
 layout: single
 title:  "For Our Future: National Reporting Director"
 tags: 
