@@ -1,5 +1,17 @@
-
-
+---
+layout: single
+title:  "Change Research: Data Engineer and Survey Data Analyst"
+tags: 
+    - analyst
+    - campaigns
+    - clientservices
+    - consultants
+    - data
+    - datamanagement
+    - tech
+    - vendor
+    - vendors
+---
 
 Change Research is hiring a Data Engineer and a Survey Data Analyst.
 
