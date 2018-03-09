@@ -27,6 +27,8 @@ While there is no single source of all progressive jobs, we recommend the follow
 
 * [Idealist](https://www.idealist.org/) hosts thousands of non-profit jobs, interships and volunteer opportunities across a wide swath of issues. Pro tip: Because Idealist charges a fee to post, if you find an organization you are interested in, make sure to check their website directly. 
 
+* [Public Interest Tech Job Board](https://jobs.codeforamerica.org/) Hosted by Code for Progress, you can find tech jobs in government, non-profits that partner with governments and for-profits that have a strong focus on social impact.
+
 * Traditional sites like Indeed also often post listings for non-profits (although due to posting fees, they are often limited to larger organizations). 
 
 * Organization websites! Because many sites charge a fee to employers to post a job, many do not get posted to the sites noted above. If you hear of an organization you are interested in, we strongly suggest you check their website directly. Job openings can usually be found in the "About" section or via links at the very bottom of the home page. 
