@@ -9,9 +9,6 @@ tags:
     - vendor
     - vendors
 ---
-
-PDI National Data Manager 
-
 PDI National is a comprehensive data and software product that merges the national Catalist voter file with software tools and data created by PDI. We are seeking an enthusiastic database manager who is excited about working on a national voter file and isn’t afraid of taking on big data challenges. 
 The ideal candidate will be a highly motivated individual with technical, analytical, and effective communication skills, as well as a strong interest in progressive politics. Thoroughness, attention to detail, and an understanding of how data informs decisions are important characteristics. PDI values creativity and excellent problem-solving capabilities. 
 This position is full time, available immediately, and will report to PDI’s VP of Data Operations. The National Data Manager will be primarily located in Washington, DC with occasional travel. 

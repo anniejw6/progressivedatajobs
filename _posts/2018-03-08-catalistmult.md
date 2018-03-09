@@ -16,7 +16,8 @@ Catalist is home to a dedicated, creative team of technologists, data scientists
 Catatlist is hiring for multiple positions. See more about [Catalist here](https://catalist.us/)
 
 Open positions
-[Account Executive](https://catalist.us/about/careers/account-executive/)
-[Data Scientist (new posting!)](https://catalist.us/about/careers/data-scientist/)
-[Senior Data Scientist (new posting!)](https://catalist.us/about/careers/senior-data-scientist/)
-[Analyst](https://catalist.us/about/careers/analyst/)
+
+* [Account Executive](https://catalist.us/about/careers/account-executive/)
+* [Data Scientist (new posting!)](https://catalist.us/about/careers/data-scientist/)
+* [Senior Data Scientist (new posting!)](https://catalist.us/about/careers/senior-data-scientist/)
+* [Analyst](https://catalist.us/about/careers/analyst/)

@@ -16,17 +16,20 @@ We are seeking a full-time intern with an interest in public opinion research, U
 
 Qualifications:
 
-Must be legally able to work in the United States.
-Past office experience, understanding of and interest in U.S. politics, ability to handle multiple tasks, and attention to detail are necessities.
-Familiarity with STATA, R, or SPSS is required, and an interest in political public opinion research/campaign management is greatly appreciated.
-SQL proficiency is a plus.
+* Must be legally able to work in the United States.
+* Past office experience, understanding of and interest in U.S. politics, ability to handle multiple tasks, and attention to detail are necessities.
+* Familiarity with STATA, R, or SPSS is required, and an interest in political public opinion research/campaign management is greatly appreciated.
+* SQL proficiency is a plus.
+
 Responsibilities:
 
-Standardizing and storing internal and externally-sourced survey data
-Maintaining a database design that maximizes value to company and clients
-Working in a relational database structure
-Conducting political data analysis
-Creating statistical outputs and contributing to reports and graphic presentations.
+* Standardizing and storing internal and externally-sourced survey data
+* Maintaining a database design that maximizes value to company and clients
+* Working in a relational database structure
+* Conducting political data analysis
+* Creating statistical outputs and contributing to reports and graphic presentations.
+
 To Apply:  
+
 Interested parties should submit a resume and cover letter as A SINGLE DOCUMENT in the resume upload field at http://www.gqrr.com/careers. Applicants should note their possible start date.
 

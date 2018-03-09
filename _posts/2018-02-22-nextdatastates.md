@@ -15,11 +15,11 @@ NextGen America is seeking passionate and hardworking candidates to join our you
 
 RESPONSIBILITIES:
 
-Manage and administer VAN to track volunteer and voter data
-Work with multiple data sets to streamline field efforts
-Track program progress to goals
-Coordinate with in-state leadership and national staff to identify potential issues early
-Provide hands-on and remote training and support to field team on data processes
+* Manage and administer VAN to track volunteer and voter data
+* Work with multiple data sets to streamline field efforts
+* Track program progress to goals
+* Coordinate with in-state leadership and national staff to identify potential issues early
+* Provide hands-on and remote training and support to field team on data processes
 
 KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:
 
@@ -34,7 +34,7 @@ KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:
 * A great personality and strong sense of humor
 * Strong organizational skills
 * Familiarity with VAN or a similar CRM
-    * At least one of the following:
+* At least one of the following:
     * Advanced Excel/ Sheets proficiency
     * Mid to high-level VAN experience
     * SQL or other relational databases

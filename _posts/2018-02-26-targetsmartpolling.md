@@ -11,14 +11,14 @@ tags:
     - vendors
 ---
 
-Research Analyst
-Research & Analytics Job Posting – Multiple Analyst Positions
 TargetSmart is immediately seeking analysts for our Research & Analytics department to support our growing public opinion research business. Multiple full-time, permanent positions are available with options for either telework nationwide or to work in our downtown Washington D.C. office space.
 
 About TargetSmart Research & Analytics
+
 TargetSmart is the Democratic party and progressive movement’s leading provider of voter and consumer data. TargetSmart Research & Analytics is a boutique polling and data-analytics practice nested inside the larger data company. We conduct political and issue-advocacy public opinion research in the form of telephone polls, online polls, and various qualitative methods, in addition to building predictive models for both TargetSmart’s national voter file and custom client needs. Sitting at the juncture of all things political data, we’re uniquely situated to help our clients win by making sound, data-driven resource allocation decisions that leverage all of the strategically actionable intelligence and targeting tools at their disposal.
 
 Responsibilities
+
 The core responsibilities for all analyst positions will revolve around supporting the life-cycle of our public opinion research polls:
 * Candidate, district, and issue research
 * Data work to investigate past voting patterns and make future turnout projections
@@ -31,6 +31,7 @@ The core responsibilities for all analyst positions will revolve around supporti
 * Support business development through proposal writing and subcontractor research
 
 Qualifications
+
 The Research & Analytics department is hiring multiple analysts at this time, and seeking those with a range of professional experience for a range of positions that will have varying levels of responsibility and accompanying autonomy and independence. All potential applicants should have the following:
 
 * Strong commitment to the progressive movement and helping Democrats win
@@ -59,9 +60,11 @@ Though definitely not a pre-requisite to apply, please let us know if you have a
 * Experience working in a call center or personally conducting surveys
 
 Compensation and Benefits
+
 Compensation for each position will be commensurate with experience. TargetSmart offers a competitive benefits package including health care, dental, vision, life, generous paid time off, home office stipend, Metro stipend, and the ability to telework regardless of whether you live in the DC region or not. It is our intention for these to be permanent (NOT election cycle) positions, and that opportunities for growth inside the company will be available to whomever ultimately accepts them.
 
 How to apply
+
 Please send resume, cover letter (including how you learned about the positions), references, and salary requirements to jobs@targetsmart.com.
 
 [See more and apply here](https://targetsmart.com/careers/)
