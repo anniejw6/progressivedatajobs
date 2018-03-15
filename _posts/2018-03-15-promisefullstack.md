@@ -32,3 +32,5 @@ Key experience needed for this role:
 * Familiarity with creating APIs and consuming RESTful services
 * Experience working with both relational databases (MySQL), and noSQL or document Databases (e.g. MongoDB; DynamoDB)
 * Solid foundation in data structures and data first development	
+
+Applicants should send a cover letter & resume to phaedra@joinpromise.com
