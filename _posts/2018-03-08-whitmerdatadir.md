@@ -14,6 +14,7 @@ for use organization-wide, and providing strategic support where needed. This po
 report directly to the Field Director.
 
 Job Responsibilities:
+
 * Maintain GWFG VAN and optimizing for peak effectiveness of field team
 * Create and provide daily updates of detailed reports on field team metrics
 * Develop and train field staff on comprehensive set of data standards to ensure information security as well as operational efficiency
