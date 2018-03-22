@@ -17,6 +17,7 @@ The ideal candidate will be a highly motivated individual with technical, analyt
 This position is full time, available immediately, and will report to PDI’s VP of Data Operations. The National Data Manager will be primarily located in Washington, DC with occasional travel. Other primary locations may be considered.
 
 Principle Duties & Responsibilities:
+
 * Build and maintain pipeline of data from and back to Catalist
 * Serve as a subject matter expert on Catalist data
 * Ensure timeline of state data and model updates
@@ -26,6 +27,7 @@ Principle Duties & Responsibilities:
 * Help maintain large client data, including membership, models, local enhancements, and other custom data
 
 Required Skills & Experience:
+
 * Advanced Vertica and SQL experience needed
 * Intermediate Python or R Skills
 * Must have at least one campaign cycle working with, maintaining, and running a national/multi-state voter file

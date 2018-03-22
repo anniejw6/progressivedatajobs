@@ -16,6 +16,7 @@ file, monitoring its use, and supporting senior campaign leadership with strateg
 Data & Analytics Director will report directly to the Coordinated Campaign Director.
 
 The Data & Analytics Director will be responsible for the following:
+
 * Create and maintain a new CT-VAN 2018 statewide campaign committee
 * Run regular reports to assess voter-contact and volunteer recruitment metrics for organizing program
 * Support and coach organizing staff on data practices, ensuring optimal program quality throughout state
@@ -24,6 +25,7 @@ The Data & Analytics Director will be responsible for the following:
 * Consult with Coordinated Campaign leadership on relevant voter-targeting and voter-turnout trends
 
 Skills and Qualifications:
+
 * At minimum, one cycle as a Votebuilder, VAN, or CT-VAN support administrator
 * Basic proficiency with SQL databases and GIS programs
 * An in-depth understanding and appreciation for Excel and/or Google Sheets
@@ -33,6 +35,7 @@ Skills and Qualifications:
 * Ties to Connecticut are welcomed, but not required
 
 Application Process:
+
 * Send your resume and cover letter to Resumes@CTDems.org, subject line “Data Director Application”
 
 The Connecticut Democratic Party is an equal opportunity employer and prohibits discrimination of employment
