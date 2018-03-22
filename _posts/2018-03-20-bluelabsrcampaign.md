@@ -26,39 +26,39 @@ Past senior analysts have worked as consultants or embedded analysts on Gubernat
 
 Responsibilities:
 
-•	Managing relationships and day-to-day communication with our clients.
-•	Understanding clients’ needs on an ongoing basis and directing BlueLabs’ resources to meet those needs.
-•	Trouble-shooting problems as they arise and being continually agile with implementing solutions.
-•	Providing data analysis to address clients’ challenges.
-•	Creating and delivering presentations and trainings that clearly and effectively communicate BlueLabs’ work and outcomes.
-•	Communicating information between clients and internal technical teams.
-•	Developing new and innovative ways to employ BlueLabs’ technology and analytics products to an ever-growing array of challenges and situations.
-•	Overseeing multiple projects and identifying priorities to ensure timely and successful completion of projects.
-•	Effectively collaborating with a team of experts and problem solvers.
+* Managing relationships and day-to-day communication with our clients.
+* Understanding clients’ needs on an ongoing basis and directing BlueLabs’ resources to meet those needs.
+* Trouble-shooting problems as they arise and being continually agile with implementing solutions.
+* Providing data analysis to address clients’ challenges.
+* Creating and delivering presentations and trainings that clearly and effectively communicate BlueLabs’ work and outcomes.
+* Communicating information between clients and internal technical teams.
+* Developing new and innovative ways to employ BlueLabs’ technology and analytics products to an ever-growing array of challenges and situations.
+* Overseeing multiple projects and identifying priorities to ensure timely and successful completion of projects.
+* Effectively collaborating with a team of experts and problem solvers.
 
 Your team will be responsible for answering questions like:
 
-•	What political trends should a campaign be aware of and what are their different pathways to victory?
-•	Which experiment type would find the right mode to contact persuadable voters?
-•	How do you design a test that tells us the impact of different messages?
-•	How do we present analysis and reports, so our partners get the information they need?
+* What political trends should a campaign be aware of and what are their different pathways to victory?
+* Which experiment type would find the right mode to contact persuadable voters?
+* How do you design a test that tells us the impact of different messages?
+* How do we present analysis and reports, so our partners get the information they need?
 
 Who you are:
 
-•	You are passionate about harnessing data-driven solutions to improve social outcomes.
-•	You’ve got an interest and understanding of scientific findings and you are familiar with how to read a regression output, particularly thinking about how to apply it.
-•	You’re comfortable being a connector between worlds - you can relate to an analyst focused on the potential academic contribution of her research and with the head of a department who needs to make time constrained decisions on a budget.
-•	You've managed multiple projects under tight deadlines.
-•	You have the spirit of a self-starter.
+* You are passionate about harnessing data-driven solutions to improve social outcomes.
+* You’ve got an interest and understanding of scientific findings and you are familiar with how to read a regression output, particularly thinking about how to apply it.
+* You’re comfortable being a connector between worlds - you can relate to an analyst focused on the potential academic contribution of her research and with the head of a department who needs to make time constrained decisions on a budget.
+* You've managed multiple projects under tight deadlines.
+* You have the spirit of a self-starter.
 
 Preferred Background and Experience
 
-•	A bachelor’s or master’s degree in a related field (including, but not limited to, political science, economics, math, statistics, physics, or another major with strong quantitative emphasis) and a few years of experience in leadership or project management roles in an analytical setting.
-•	A knack for finding elegant, creative, and cost-effective solutions to complex problems.
-•	Strong and broad technical communication skills - you can write for a technical audience, but you can also boil down a model, experiment, or engineering solution to an elevator pitch for a campaign manager or CEO to understand.
-•	Experience with statistical programs (SAS, SPSS, R, Python etc) and spreadsheet and presentation software (Excel, Google Sheets, PowerPoint, Keynote) is preferred.
-•	A background in campaign data/analytics is a plus.
-•	Experience with at least one programming language (Python, Java, Ruby), SQL queries, and data visualizations (GIS, Tableau, etc.) is a plus.
+* A bachelor’s or master’s degree in a related field (including, but not limited to, political science, economics, math, statistics, physics, or another major with strong quantitative emphasis) and a few years of experience in leadership or project management roles in an analytical setting.
+* A knack for finding elegant, creative, and cost-effective solutions to complex problems.
+* Strong and broad technical communication skills - you can write for a technical audience, but you can also boil down a model, experiment, or engineering solution to an elevator pitch for a campaign manager or CEO to understand.
+* Experience with statistical programs (SAS, SPSS, R, Python etc) and spreadsheet and presentation software (Excel, Google Sheets, PowerPoint, Keynote) is preferred.
+* A background in campaign data/analytics is a plus.
+* Experience with at least one programming language (Python, Java, Ruby), SQL queries, and data visualizations (GIS, Tableau, etc.) is a plus.
 
 At BlueLabs, we're more than just a team of innovators - we're a family. We're looking for mission-driven individuals, who are willing to invest, collaborate, and engage at high levels, to make our team and the world a better place. We welcome diverse, out-of-the-box thinking, and we strive to provide an ecosystem for innovation and development. If you want more information about who we are as a team, check out our Blog, Facebook Page, Twitter, or Instagram.
 
