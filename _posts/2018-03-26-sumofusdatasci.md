@@ -57,4 +57,3 @@ Take a look at our campaign page: https://actions.sumofus.org/a/tell-canada-to-p
 Look at the “nice to have” skills listed above, and outline which ones you believe you bring, with a few words of explanation if that’s useful.
 
 [See more and apply here](https://sumofus.recruiterbox.com/jobs/fk0f9pj)
-	
