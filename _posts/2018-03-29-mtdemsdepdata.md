@@ -7,9 +7,10 @@ tags:
     - datamanagement
 ---
 
-Montana Democratic Party is hiring a top-quality and creative Deputy Data Director for its highly targeted national and state races. MDP will play a critical role in helping to re-elect U.S.
-Senator Jon Tester as well as other targeted races including a congressional race and the state legislature. The position reports to the Coordinated Campaign Data Director.
+Montana Democratic Party is hiring a top-quality and creative Deputy Data Director for its highly targeted national and state races. MDP will play a critical role in helping to re-elect U.S. Senator Jon Tester as well as other targeted races including a congressional race and the state legislature. The position reports to the Coordinated Campaign Data Director.
+
 Ideal candidates are highly organized, detail oriented, quantitative thinkers and self-starters with proven ability to achieve set goals and perform under pressure.
+
 Responsibilities include, but may not be limited to:
 
 * Administering VoteBuilder, including answering support requests from field organizers, and ongoing quality control
