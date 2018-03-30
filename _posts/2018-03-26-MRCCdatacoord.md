@@ -14,6 +14,7 @@ supply, creating sustainable alternatives to the current farm and food system, w
 society based on equity and fairness for all people. MRCC also plays leadership roles in state, national and international efforts collaborations and coalitions that further our policy and advocacy goals.
 
 About the Job:
+
 MRCC is seeking a data and communication consultant that will help us build systems and processes to input and organize significant incoming data from multiple campaigns into our internal database and the
 Voter Activation Network (VAN) in a manner that allows to us efficiently utilize the data in multiple strategic outputs. This will allow us to more quickly and effectively communicate with, activate and
 move supporters into deeper levels of engagement with us on our issues.
@@ -22,6 +23,7 @@ ongoing way, 3) supporting membership and grassroots fundraising, and 4) analyzi
 will need to address two databases and empower us to most effectively communicate with our base and move them into action on our core issues.
 
 Responsibilities:
+
 * Work with MRCC staff to ensure staff, core leaders, and committees have the tools, data and know-how to use data correctly in constructing strategic campaign plans, voter contact programs, and outreach efforts for local, state, and federal policy campaigns.
 * Work with MRCC staff and key partners to maximize use of VAN, Powerbase, targeting and other data resources
 * Develop systems and procedures for collecting, entering and analyzing data to advance organizing goals for core issues

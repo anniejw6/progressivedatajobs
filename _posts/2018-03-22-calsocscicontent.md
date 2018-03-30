@@ -7,9 +7,7 @@ tags:
     - data
     - nonprofit
 ---
-Social Science & Content Coordinator
 
-The Climate Advocacy Lab
 The Climate Advocacy Lab helps climate and clean energy advocates run smarter public
 engagement campaigns. Launched in 2015, the Lab has quickly grown to be a network of 2,000+
 advocates, social scientists, data experts and funders developing and sharing evidence-based
@@ -19,6 +17,7 @@ the Lab also facilitates and gives grants to support field research aimed at tes
 engage people on these issues.
 
 Position Description
+
 The Social Science & Content Coordinator will develop and maintain the Lab’s body of training
 and reference resources, drawing on social science and gray literature, field research, and
 polling. This role will also involve working with members of the academic and advocacy

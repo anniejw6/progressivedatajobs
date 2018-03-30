@@ -16,23 +16,26 @@ Our clients range from political campaigns to advocacy groups, unions, governmen
 The Survey Research Manager oversees the BlueLabs survey process, working closely with both internal and external stakeholders. You will have the opportunity to specialize in a key part of our analytics process - fielding surveys across a variety of modes - across a wide variety of projects and teams at BlueLabs.  You will work both as part of a team and independently, completing projects in a fast-paced environment, error-free, and on short deadlines.
 
 Duties and Responsibilities
-Pulls samples for surveys, drafts survey questionnaires, manages relationships with survey vendors and analyzes survey response data.
-Analyzes data, as well as contributes to the design, implementation, and delivery of analytics products and services.
-Strives to support team excellence by documenting processes and evangelizing new approaches.
+
+* Pulls samples for surveys, drafts survey questionnaires, manages relationships with survey vendors and analyzes survey response data.
+* Analyzes data, as well as contributes to the design, implementation, and delivery of analytics products and services.
+* Strives to support team excellence by documenting processes and evangelizing new approaches.
 
 You probably have...
-An undergraduate degree in a quantitative field or equivalent work experience.
-Two or more years of experience managing surveys or polling processes.
-Experience with survey design and post-survey weighting (questionnaire development, sample design, sampling and non-sampling survey error, raking and post-stratification, etc.).
-The strong ability to manipulate data with SQL.
-The ability to effectively communicate technical concepts to a non-technical audience, both in writing and verbally.
+
+* An undergraduate degree in a quantitative field or equivalent work experience.
+* Two or more years of experience managing surveys or polling processes.
+* Experience with survey design and post-survey weighting (questionnaire development, sample design, sampling and non-sampling survey error, raking and post-stratification, etc.).
+* The strong ability to manipulate data with SQL.
+* The ability to effectively communicate technical concepts to a non-technical audience, both in writing and verbally.
 
 You may also have...
-Proficient understanding of a statistical programming language such as R, Python, or Julia.
-Experience building predictive models using regression and machine learning techniques.
-Knowledge of experimental design and causal inferenceExperience with GIS.
-Experience creating informative and engaging data visualizations using industry leading tools.
-The ability to create user interfaces for new products using frameworks such as Shiny or Django.
+
+* Proficient understanding of a statistical programming language such as R, Python, or Julia.
+* Experience building predictive models using regression and machine learning techniques.
+* Knowledge of experimental design and causal inferenceExperience with GIS.
+* Experience creating informative and engaging data visualizations using industry leading tools.
+* The ability to create user interfaces for new products using frameworks such as Shiny or Django.
 
 We know that the best candidate may not fit neatly into the boxes we define here so if this sounds like a place you want to work, even if you're not confident you perfectly match our posting, we still encourage you to apply! We welcome diverse, out-of-the-box thinking, and we strive to provide an ecosystem for innovation and development. If you want more information about who we are as a team, check out our Facebook page, Twitter, or Instagram.
 

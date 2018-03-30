@@ -10,7 +10,7 @@ tags:
     - executive
     - nonprofit
 ---
-About The Atlas Project
+
 The Atlas Project provides an interactive platform for political research and data that helps the
 progressive community make smart, effective, and cost-efficient decisions on electoral and issue
 advocacy campaigns. We rely on a team of political, research, and data analysts who have a proven
@@ -26,6 +26,7 @@ produce high-level political research and analysis to support Atlas’ comprehen
 Online Toolkit, and an array of clients in the progressive community.
 
 Duties Include:
+
 * Managing team of analysts and fellows to turn around research in a timely manner
 * Independently fielding and fulfilling research requests from Atlas clients
 * Working with Atlas subscribers to best utilize the Online Toolkit and other products
@@ -33,6 +34,7 @@ Duties Include:
 * Writing briefings, memos, presentations, and other materials on research findings
 
 Minimum Qualifications:
+
 * At least five years of professional research and/or campaign experience
 * Strong research and writing skills
 * The ability to independently compile information and data from publicly available sources and distill it into a concise and easy to follow narrative for distribution to clients
@@ -43,6 +45,7 @@ Minimum Qualifications:
 * Ability to work collaboratively as a member of our fast-paced team
 
 Preferences:
+
 * At least one cycle of campaign field experience
 * Knowledge of Lexis-Nexis, campaign finance reporting, and media monitoring
 * Knowledge of QGIS, ArcGIS, or similar software

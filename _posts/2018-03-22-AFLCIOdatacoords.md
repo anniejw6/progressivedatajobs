@@ -35,6 +35,7 @@ This position pays $82,966.41. The formal job description is below for all three
 [Apply for the Southern District Data Coordinator position here](http://aflcio.hirecentric.com/jobs/135244.html)
 
 Preference on location
+
 * Western district: Strong preference for someone to be based in California or Washington but will consider other states within the district (see list above). Must be within 100 miles of a major airport.
 * Southwest district: Strong preference for someone based in Nevada or New Mexico but will consider other states within the district (see list below). Must be within 100 miles of a major airport.
 * Southern district: Strong preference for someone to be based in Florida but will consider other states within the district (see list above). Must be within 100 miles of a major airport.
@@ -63,6 +64,7 @@ DESCRIPTION OF DUTIES:
 * Other duties as assigned.
 
 QUALIFICATIONS:
+
 * At least 2 years of field or targeting experience.
 * Demonstrated experience with Excel databases and data clean up.
 * Demonstrated and extensive experience in electoral political and issue campaigns, particularly focused on data coordination and management a plus.

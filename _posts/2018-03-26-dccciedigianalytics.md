@@ -7,9 +7,10 @@ tags:
     - campaigns
 ---
 
-Responsibilities: The Digital Analytics Manager will work closely with the analytics and digital teams to ensure online ad campaigns are effectively targeted, communicated to and tracked. Utilizing analytics best practices, this person will be able to quickly and successfully pull targeted universes, track digital buys and analyze current programs to inform future digital strategy.
+The Digital Analytics Manager will work closely with the analytics and digital teams to ensure online ad campaigns are effectively targeted, communicated to and tracked. Utilizing analytics best practices, this person will be able to quickly and successfully pull targeted universes, track digital buys and analyze current programs to inform future digital strategy.
 
 Qualifications and Requirements:
+
 * 2-5 years demonstrated experience in data/targeting and digital strategy
 * Proficiency in any SQL-based query language
 * Familiarity with voter universes with the ability to quickly and accurately pull various exports to assist with digital team needs
