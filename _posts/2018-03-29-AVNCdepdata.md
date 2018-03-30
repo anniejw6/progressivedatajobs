@@ -11,6 +11,7 @@ tags:
 America Votes seeks an experienced individual for the full-time position of deputy data and targeting manager for the 2018 electoral cycle in North Carolina. America Votes utilizes and offers its partner organizations a range of voter file, data and targeting services and seeks an experienced individual with a combination of technical and political skills to manage these services and work with state partner groups. The deputy data and targeting manager will report to the state director.
 
 Responsibilities
+
 * Manage and coordinate all data needs of America Votes state staff and partners.
 * Manage voter file access for America Votes partner organizations and their consultants. This includes administration and security; training and providing available technical assistance.
 * Work with partner organizations using the voter file and other technologies to support and enhance voter contact programs. This includes assisting partners in employing best practices.
@@ -22,6 +23,7 @@ Responsibilities
 * Other responsibilities as assigned.
 
 Qualifications
+
 * Experience working with underrepresented and/or diverse communities.
 * Candidates should understand common direct voter contact programs and have at least one cycle of experience in the use of data in candidate or issue-base campaigns.
 * Strong VAN administrative skills are required; familiarity with other online electoral/advocacy tools and constituent relationship management tools is a plus.
