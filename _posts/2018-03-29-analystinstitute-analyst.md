@@ -10,6 +10,7 @@ tags:
 Analytics is at the heart of Analyst Institute's work (perhaps unsurprisingly), and we are looking for Analysts to join our team for the 2018 election cycle. You'll be part of a close-knit and capable team, partnering with key campaigns and organizations to apply your love of data, politics, and advocacy to some of the biggest questions in progressive politics. Your co-workers and the organizations you partner with will be among the best in the business. 
 
 As an analyst, you can expect to:
+
 * Prepare and analyze experiments that directly measure the effectiveness of real-world programs
 * Monitor implementation data of experiments and programs as they are run
 * Create visualizations of experimental results
@@ -20,6 +21,7 @@ As an analyst, you can expect to:
 If you're passionate about data, statistics, and technology, and if you believe political organizing and activism can enact positive change, we want to work with you.
 
 You will be a good fit for this role if:
+
 * You are passionate about progressive politics
 * You have worked with data and statistics using R (on a personal project, in academic research, or in a professional capacity)
 * You are familiar with the concepts behind experimental design and causal inference
@@ -28,6 +30,7 @@ You will be a good fit for this role if:
 * You quickly pick up new skills with minimal guidance
 
 Additional experiences that are not required, but may help you succeed in this job:
+
 * You are an expert R user; for example, you have created your own packages or contributed to open-source packages before
 * You are familiar with a programming/scripting language such as Python
 * You have used Github before for version control
@@ -43,6 +46,7 @@ This role has no formal education requirements – we value demonstrated ability
 Analyst Institute values diversity in thought, background and experience, and we’re an equal opportunity employer. People of color, people with disabilities, women or non-binary candidates, and LGBTQIA candidates are strongly encouraged to apply.
 
 Logistics
+
 Location: Strong preference for our Washington, D.C. office, but we’re willing to consider remote for exceptional candidates
 Dates of employment: This is a temporary position for the 2018 election cycle, with employment through mid-November 2018. Te role may be able to convert into a long-term position after the election depending on performance and capacity.
 Compensation range: We are open to applicants coming from a wide range of experiences. Salary is commensurate with experience, and will range from $50,000 to $60,000 per year.
