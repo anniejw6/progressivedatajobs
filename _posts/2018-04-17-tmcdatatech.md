@@ -10,8 +10,6 @@ tags:
 
 The Movement Cooperative was launched in December 2017 to provide progressive organizations access to the best possible data, technology, and technical expertise available. While movement organizing and advocacy are more urgent than ever, many organizations and activists cannot easily access the data and technology that would help scale their work. Additionally, organizations often face the issue of dealing with siloed datasets from their various programs and tools, making it difficult to truly gauge and optimize impact. TMC was founded with the aim of addressing these structural challenges.
 
-Currently our membership stands at more than 12 groups, including Center for Popular Democracy, Civic Engagement Fund [on behalf of their sponsors], Color of Change, Democracy for America, Democrats.com, Indivisible, Move On, People’s Action, PICO National Network, Stand Up America, Swing Left, and Working Families Party, with more organizations slated to join over the course of the spring.
-
 Our members receive full access to our data warehouse and analytics platform, unlimited access to national voter/consumer files, and the technical support to get them properly set up and supported in an ongoing way, including the establishment of syncs and data pipelines from a continually-expanding suite of organizing and digital tools.
 
 Description of positions
