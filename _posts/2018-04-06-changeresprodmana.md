@@ -9,10 +9,10 @@ tags:
     - vendors
 ---
 
-Change Research, a Public Benefit Company
-Lead Political Product Manager
-Location: Palo Alto, CA
-Full time, non exempt, equity + benefits
+* Change Research, a Public Benefit Company
+* Lead Political Product Manager
+* Location: Palo Alto, CA
+* Full time, non exempt, equity + benefits
 
 Change Research is building technology that makes public opinion polling fast, affordable, and accurate for forward-thinking candidates. We are looking for a product lead who will guide our product experience.
 In this role, you will help Change Research craft a great product for: 
@@ -30,11 +30,13 @@ Through it all, you’ll listen, think, communicate and execute in a way that co
 We are looking for candidates with product management experience, technical sophistication, and a strong interest in politics.
 
 How to apply:  
+
 Please send your resume or LinkedIn profile and a note about why you’re interested in this role to jobs@changeresearch.com. Include ‘Political Product Lead’ in the subject line. 
 
 All qualified applicants are encouraged to apply, including women, people of color, gays and lesbians, transgender people, veterans and people with disabilities.
 
 About Change Research:
+
 Change Research was founded after the 2016 elections to help ensure that forward thinking candidates and causes have access to the best technology at the lowest price to win elections. With our patent-pending Bias-correct online survey technology, we deliver fast, accurate and affordable public opinion polling at a 80 to 90% discount on traditional polls.  
 
 On Election Day 2017, Change Research: forecasted the NJ Governor’s race within three points, was the second most accurate public poll in the VA Governor’s race, and was the most accurate public poll in the VA Attorney General and Lieutenant Governor’s race. Change Research has earned accolades from FiveThirtyEight, Politico and MSNBC, among others.  

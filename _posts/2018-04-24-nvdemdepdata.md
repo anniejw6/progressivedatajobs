@@ -6,12 +6,11 @@ tags:
     - data
     - datamanagement
 ---
-Deputy Data Director
-
 The Nevada State Democratic Party is seeking full‐time deputy data director applicants for a statewide organizing program in Nevada. Deputy data directors will be responsible for, with the data director and
 other deputies, ensuring that programs are run in the state off of the best data possible and in the most data‐driven way possible. The position reports to the Data Director.
 
 Responsibilities include, but may not be limited to:
+
 * Administering VoteBuilder.
 * Training staff on data tools and usage.
 * Creating reports on program and staff progress and production.
@@ -19,6 +18,7 @@ Responsibilities include, but may not be limited to:
 * Creating precisely targeted voter contact universes.
 
 Skills and Qualifications:
+
 * Proven ability to handle multiple projects simultaneously and meet deadlines under pressure.
 * One or more cycle of campaign experience preferred
 * VoteBuilder experience (either as an administrator or user).

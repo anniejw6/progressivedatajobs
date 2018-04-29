@@ -8,13 +8,14 @@ tags:
     - union
 ---
 
-Overview of responsibilities:
-
 Are you the kind of person who sees order in the seemingly random events in world? Do you stress the small stuff and seek answers to difficult questions? Does data and science motivate you? Are you up for a challenge? If so, you may be the data scientist we are looking for.
+
 There are vast amounts of hidden insights to be found in the AFL-CIO's data and you will be responsible for discovering them. You should have solid experience using applied statistics and programming to answer tricky problems at scale. You should be passionate about new technologies and ways of solving problems and determining how to apply them to your work. We are also looking for someone who has a commitment to teach and strengthen the skills of our team. We welcome diverse perspectives and experiences and we encourage you to showcase your style of thinking in your work.
+
 The Data, Analytics & Infrastructure Resource's goal is to generate lasting power for the labor movement, by building the Federation's programmatic tools, web development, data systems, and analytics capacity. This team serves a broad range of clients across the labor movement - from other AFL-CIO departments, to AFL-CIO affiliates, to state and local labor bodies. Through investment in central infrastructure, training, and direct service work, the department aims to empower its partners to run stronger and more cost effective political and legislative mobilization, digital, and organizing campaigns.
 
 Description of duties:
+
 * Build, test, and deploy data science solutions at scale for the AFL-CIO under tight timelines (we have to ship before Election Day).
 * Imagine and build the data science tools and products we need to run a strong program.
 * Collaborate with other analysts and data engineers on data science projects, particularly in automating solutions.
@@ -24,6 +25,7 @@ Description of duties:
 * Perform other duties as assigned.
 
 Qualifications:
+
 * Undergraduate degree in a technical field (like computer science, statistics, applied math, etc.) or an equivalent mix of academic and/or real world experience.
 * At least 3 years of meaningful work or academic experience in data science.
 * Analytical creativity and problem solving skills using data science techniques.

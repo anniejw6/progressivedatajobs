@@ -16,6 +16,7 @@ We are currently seeking an amazing and multi-talented Senior Analyst to join ou
 To express your interest in this role, please submit a thorough resume and compelling letter of interest to careers@whitmanstrategies.com. Target annual compensation for this position is commensurate with the relevant professional experience. WINS offers a competitive benefits package. 
 
 What You’ll Do:
+
 * Help manage the various phases of research-based consulting engagements from start to finish. 
 * Understand client project needs as well as client business needs 
 * Design quantitative and qualitative research to answer key strategic client questions 
@@ -24,6 +25,7 @@ What You’ll Do:
 * Manage external research and data-collection vendors 
 
 Who You Are:
+
 * Equipped with a minimum of 3-5 years of experience in market research consulting (supplier-side experience preferred)
 * Possess a quantitative and qualitative research background 
 * A motivated self-starter who can juggle multiple projects and (re)prioritize as needed 

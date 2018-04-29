@@ -6,16 +6,13 @@ tags:
     - datamanagement
     - nonprofit
 ---
-
-Data Manager Contractor
-
 Come join our extraordinary team for 2018. After the Parkland shooting, we have seen a wave of new interest preventing
 gun violence, and we are temporarily expanding our team to help manage an expanding portfolio of work. This position is
 a full time temporary contract hire through the 2018 election cycle.
 
 Responsibilities include, but are not limited to:
-* Administer aspects of Everytown’s suite of field, campaign, and contact tools including, but not limited to:
-    NGP-VAN, EveryAction, Hustle, Hubdialer, and Salesforce. This includes managing user and security settings, providing technical assistance, and monitoring use of the systems to ensure compliance with Everytown data practices;
+
+* Administer aspects of Everytown’s suite of field, campaign, and contact tools including, but not limited to: NGP-VAN, EveryAction, Hustle, Hubdialer, and Salesforce. This includes managing user and security settings, providing technical assistance, and monitoring use of the systems to ensure compliance with Everytown data practices;
 * Track data and disseminate analysis of program results, volunteer contact, voter turnout, early vote and absentee turnout, voter registration, and data relevant to field, campaigns, programs, and movement building;
 * Manipulate voter, membership, volunteer, and other person level data;
 * Work with staff and volunteers to establish best practices and standards for data collection, acquisition, and preservation;

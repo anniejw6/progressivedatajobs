@@ -12,12 +12,13 @@ The North Carolina Democratic Party is pleased to announce it is accepting appli
 
 Goodwin Fellows will be trained by recognized leaders in the North Carolina Democratic Party and will have several opportunities to meet elected officials across the state. Because of the interest in the program, those interested are encouraged to submit an application, resume, and cover letter and will be considered after an interview and selection process. Opportunities are available in the following fields:
 
-Party Affairs/Political
-Fundraising
-Digital
-Data
-Communications
-Research
+* Party Affairs/Political
+* Fundraising
+* Digital
+* Data
+* Communications
+* Research
+* 
 This position provides a stipend following the full completion of the program. If the fellow’s University allows, college credit will be provided.
 
 DEADLINE TO APPLY: MAY 10, 2018

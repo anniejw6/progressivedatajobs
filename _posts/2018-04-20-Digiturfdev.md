@@ -19,6 +19,7 @@ Ideal Candidates will have experience in:
 Both full-time and contract applications will be considered on their individual merits.
 
 About Us
+
 We’re a full service digital agency at the forefront of online strategies and communication, design, technology and development, with a focus on Democratic politics/issues. While the majority of our staff is located in Portland, OR, we are a remote working company excited to hire the best of the best regardless of your geographic location.
 
 [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdtRDU2bZqMsAtHF3jViPAMl7JrXchFL-oZ0GOkovx5wB15zg/viewform)

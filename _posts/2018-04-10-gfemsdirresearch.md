@@ -7,29 +7,30 @@ tags:
     - executive
     - nonprofit
 ---
-
-About the Global Fund to End Modern Slavery
 The Global Fund to End Modern Slavery (GFEMS) is a bold public-private partnership that seeks to catalyze and coordinate a coherent global strategy to end modern slavery. Our mission is to end modern slavery by making it economically unprofitable.
 
 GFEMS will make grants across sectors and geographies with a focus on three core funding themes: rule of law, business engagement, and sustaining freedom. The Fund’s strategy also includes the development of public-private investments across key industries and innovative approaches to evaluating what works in reducing the prevalence of modern slavery. We invite you to read more about the fund’s strategy and early investment priorities at www.gfems.org.
 
 Position Summary
-A major barrier to attracting the scale and type of investment needed to fight modern slavery is the lack of actionable and insightful data. The sector needs new tools and approaches to more efficiently measure and quantify the prevalence of slavery at a micro-level and leverage this data to generate insights that can inform decision-making around interventions and policy.
 
-Reports to: CEO
-Location: D.C. metro area or major Asian metropolitan hub
-Start date: Immediate
+A major barrier to attracting the scale and type of investment needed to fight modern slavery is the lack of actionable and insightful data. The sector needs new tools and approaches to more efficiently measure and quantify the prevalence of slavery at a micro-level and leverage this data to generate insights that can inform decision-making around interventions and policy.* 
 
+* Reports to: CEO
+* Location: D.C. metro area or major Asian metropolitan hub
+* Start date: Immediate
 
 The Director of Research & Analytics will be responsible for driving and delivering on the Fund’s strategy to understand Prevalence Reduction Return-on-Investment (“PROI”), which encompasses 3 key questions:
-What is the baseline prevalence in a target community / industry, and the reduction in prevalence over time?
-What are the key drivers of prevalence (e.g., vulnerability factors and economic profit factors), and what approaches are most effective against these drivers?
-Which strategies and programs yield the greatest value-for-money?
+
+* What is the baseline prevalence in a target community / industry, and the reduction in prevalence over time?
+* What are the key drivers of prevalence (e.g., vulnerability factors and economic profit factors), and what approaches are most effective against these drivers?
+* Which strategies and programs yield the greatest value-for-money?
+
 The Director will be responsible for generating research and analysis that will enable the Fund to identify efficient and economical approaches to prevalence measurement -- without compromising data quality or validity -- and expected to create a community of external research and analytics experts committed to driving answers to the 3 key questions. The Director will lead a team and coordinate across Fund stakeholders to ensure that 1) program design integrates this learning agenda from the outset; 2) relevant data and insights are captured throughout the life of the program; and 3) circulate actionable learning back into the Fund’s strategy, as well as promote these findings externally to the anti-slavery field at large.
 
 The success of this role is predicated on a leader who is versatile, proactive, creative and results-oriented; capable of operating effectively across diverse contexts and between strategy and execution; and well-networked and experienced in international settings, especially throughout Asia.
 
 Position Responsibilities
+
 * Steward the Fund’s distinct vision for how to address the data and evidence gaps in the anti-slavery field
 * Build and develop a top research and analytics team capable of delivering on the Fund’s PROI strategy
 * Develop and oversee PROI strategy execution, refining or course correcting where necessary
@@ -40,6 +41,7 @@ Position Responsibilities
 * Proactively engage key stakeholders to promote mutual learning and understanding on PROI matters
 
 Experience/Qualifications
+
 * Minimum 10 years of experience in research, analysis, project management, impact measurement, monitoring and evaluation, and/or a similar functional area
 * Proven experience in statistics and ability to engage on technical matters across academia, nonprofits, and corporate stakeholders
 * Demonstrated ability to manage effectively and multi-task across diverse teams (in-person and remote), as well as outside project partners; must be a natural relationship-builder, project manager and highly collaborative

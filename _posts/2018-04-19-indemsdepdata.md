@@ -11,6 +11,7 @@ The Indiana Coordinated Campaign is seeking a Deputy Data Director to work close
 November. The Deputy Data Director will be responsible for creating and implementing data standards for use organization-wide and providing strategic support where needed.
 
 Job Responsibilities:
+
 * Work closely with the Indiana Democratic Party Data Director to optimize Indiana Coordinated Campaign VAN for peak effectiveness of field team
 * Create and provide daily updates of detailed reports on field team metrics
 * Develop and train field staff on comprehensive set of data standards to ensure information security as well as operational efficiency

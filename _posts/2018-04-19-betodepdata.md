@@ -11,6 +11,7 @@ Beto for Texas is hiring a Deputy Data Director to assist in the execution of th
 This position reports to the Data Director.
 
 RESPONSIBILITIES
+
 * Assist with management of day to day data and voter file operations
 * Providing timely and relevant analysis of data
 * Generate reports and visualizations
@@ -19,6 +20,7 @@ RESPONSIBILITIES
 * Support other data team projects as necessary
  
 Core Skills & Qualifications:
+
 * Strong Excel and SQL skills to analyze and present data in a clear, effective and succinct manner
 * Experience with VAN/Votebuilder as both a user and an administrator
 * Experience working with large data sets and managing multiple requests for information
@@ -28,12 +30,14 @@ Core Skills & Qualifications:
 * Strong time management, multi-tasking, creative problem-solving, and communication skills
 
 Additional Skills & Qualifications - Ideal applicants will already possess one or more of these skills; all applicants should plan on developing these skills during the 2018 cycle.
+
 * Proficiency in Python, R, or other programming languages
 * Proficiency with Tableau, Google Data Studio, or other data visualization tools  
 * Experience with report automation
 * Experience with person matching
  
 All candidates must:
+
 * Live in or be willing to relocate to Austin, TX through the end of the 2018 cycle (supporter housing is available if desired)
 * Expect to regularly work evening and weekend hours.
 * This position does NOT require a college degree

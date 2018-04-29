@@ -11,11 +11,13 @@ tags:
 Change Research is building technology that makes public opinion polling fast, affordable, and accurate for forward-thinking candidates. We are looking for a product lead who will guide our product experience.
 
 In this role, you will help Change Research craft a great product for:
+
 * candidates and organizations interested in working with Change Research
 * existing customers who want to dig into the results and use polling insights to win
 * voters who take one of our online polls
 
 You will be our first product manager, and there will be a lot on your plate!
+
 * You’ll be outward-facing and speak to many candidates, campaign managers, and leaders of advocacy organizations about polling and Change Research.
 * You’ll work with our internal team -- engineers, survey analysts, marketers -- to make sure everything fits together into a great product experience.
 * You’ll question how things are done today and find a better way.
@@ -26,6 +28,7 @@ You will be our first product manager, and there will be a lot on your plate!
 We are looking for candidates with product management experience, technical sophistication, and a strong interest in politics.
 
 How to apply:  
+
 Please send your resume or LinkedIn profile and a note about why you’re interested in this role to jobs@changeresearch.com. Include ‘Political Product Lead’ in the subject line and let us know where you saw the job posting!
 All qualified applicants are encouraged to apply, including women, people of color, gays and lesbians, transgender people, veterans and people with disabilities.
 

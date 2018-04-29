@@ -16,18 +16,20 @@ You are eager to learn quickly from other members of the team, and can also teac
 We welcome diverse perspectives and experiences and we encourage you to showcase your unique style of problem-solving. In return, we hold our team to a high standard of excellence. You can expect to work hard and pick up new skills on the job.
 
 You have all of:
-A Master’s degree or higher (or commensurate work experience) in a quantitative discipline such as statistics, econometrics, computer science, or business analytics, or in a quantitative social science.
-Ability to apply concepts from statistics and explain your decisions clearly to others.
-Proficiency in R, Python, Stata, or another statistical computing language.
-Experience in data standardization and data manipulation.
+
+* A Master’s degree or higher (or commensurate work experience) in a quantitative discipline such as statistics, econometrics, computer science, or business analytics, or in a quantitative social science.
+* Ability to apply concepts from statistics and explain your decisions clearly to others.
+* Proficiency in R, Python, Stata, or another statistical computing language.
+* Experience in data standardization and data manipulation.
 
 You have some of:
-Facility with research design, particularly survey design or experiment design.
-Work experience in predictive modeling or machine learning.
-Experience with large data sets in SQL databases such as Postgres, Vertica, or similar.
-Data visualization or dashboard-building skills (e.g., D3, Tableau, Periscope, Shiny)
-Experience in natural language processing and textual analysis
-Proficiency with GIS or other mapping software
+
+* Facility with research design, particularly survey design or experiment design.
+* Work experience in predictive modeling or machine learning.
+* Experience with large data sets in SQL databases such as Postgres, Vertica, or similar.
+* Data visualization or dashboard-building skills (e.g., D3, Tableau, Periscope, Shiny)
+* Experience in natural language processing and textual analysis
+* Proficiency with GIS or other mapping software
 
 The Messina Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin.
 

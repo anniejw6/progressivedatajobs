@@ -20,6 +20,7 @@ and Policy Coordinator would report to the Director of Research and Policy and j
 a larger organization of about 60 people.
 
 Job Description:
+
 The Research and Policy Coordinator will manage and oversee the conceptualization, design, implementation, data
 collection, data analysis, writing and dissemination of collaborative research and policy projects in partnership with
 various community partners, under the direction of the Director of Research and Policy. Projects are rooted in the needs,
