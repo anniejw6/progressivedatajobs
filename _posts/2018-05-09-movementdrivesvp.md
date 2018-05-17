@@ -10,13 +10,17 @@ tags:
 ---
 
 Location: Washington, DC
+
 Membership Drive provides the technology, training, and strategy to progressive non-profits to scale their fundraising and organizing efforts. We build custom applications on Salesforce to streamline staff recruitment, management, fundraising, member retention, and grassroots organizing for the environmental and racial, social, and economic justice movements.
- Founded by Phil Radford, the former CEO of Greenpeace, Membership Drive is a project of Progressive Power Lab, a platform for scaling the impact and resources of progressive non-profits. Progressive Power Lab’s major projects include Membership Drive and the Progressive Multiplier Fund. 
+
+Founded by Phil Radford, the former CEO of Greenpeace, Membership Drive is a project of Progressive Power Lab, a platform for scaling the impact and resources of progressive non-profits. Progressive Power Lab’s major projects include Membership Drive and the Progressive Multiplier Fund. 
  
 Job Description: 
+
 This role is for a hands on, seasoned software engineering leader who has extensive experience leading a talented and geographically distributed team of software engineers, architects, UX experts in building custom apps on Salesforce as well as managing customer support requests. The candidate will be skilled in motivating, and managing world-class software teams responsible for developing and maintaining complex Salesforce configurations while building applications for the AppExchange.
  
 As the hands on VP of Software Engineering, you will be responsible for:
+
 * Managing diverse and geographically distributed teams.
 * Managing teams responsible for developing and maintaining world-class cloud based software platforms and systems.
 * Facilitating team stand-ups, planning, and review meetings as Scrum master and functional manager.

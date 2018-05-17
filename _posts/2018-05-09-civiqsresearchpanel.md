@@ -13,6 +13,7 @@ Civiqs is the leading online scientific political opinion polling platform. We a
 The Research Panel Manager is responsible for overseeing the growth of the panel, sustaining its representativeness, and ensuring that panelists are completely engaged with the polls we send. Working with a range of advertising and creative platforms, and alongside Civiqs' team of statisticians and software developers, the Research Panel Manager finds and recruits diverse new panel members, monitors survey response and completion rates, and devises strategies for improving the survey-taking experience and increasing survey participation.
 
 Major Accountabilities:
+
 * Recruit survey panelists to participate in research
 * Design recruitment campaigns and questionnaires
 * Monitor panel and survey responses for data quality
@@ -20,6 +21,7 @@ Major Accountabilities:
 * Analyze and communicate research findings
 
 Experience:
+
 * 2+ years experience with large data systems
 * Online panel recruitment or survey sampling
 * Knowledge of statistical programming in R or Python

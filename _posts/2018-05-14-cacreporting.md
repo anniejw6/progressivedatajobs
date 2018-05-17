@@ -12,7 +12,9 @@ The Climate Action Campaign is a highly effective, unbranded coalition of nation
 The State Operations Reporting Manager’s primary responsibility is to ensure the State Operations department is efficiently meeting goals and expectations. The Reporting Manager will accomplish this by maintaining the reporting and tracking systems that support the State Operations department, including managing and monitoring the compilation of reports and use of Quick Base apps.
 
 Primary Duties & Responsibilities
+
 Manage, organize, and monitor State Operations reporting into the Quick Base Campaign Reporting app, including:
+
 * Develop reporting guidance to capture the work of the State Operations department programs in major moments and as the programs evolve
 * Troubleshoot reporting issues for organizers, regional directors, and national field directors
 * Regularly perform quality control checks on reporting
@@ -27,6 +29,7 @@ Report to the national field director
 Work closely with organizing director in tasking day to day activity of program assistant
 
 Preferred Qualifications
+
 * At least 1 year of experience managing data for advocacy, membership and/or political campaigns.
 * Familiarity with database management, especially Quick Base, is a plus.
 * Ability to successfully juggle multiple projects in a fast-paced, high-expectation campaign environment.
@@ -35,6 +38,7 @@ Preferred Qualifications
 * Strong desire to learn, grow and improve, and to help others do so. 
 
 Compensation and Location
+
 This is a full-time position. Salary is commensurate with experience and we offer an excellent benefits package which includes medical, dental, and vision insurance, generous paid time off, and a 401k plan. The Climate Action Campaign is located in Washington, DC.
 
 [See more and apply here](https://climate-campaign.quickbase.com/db/bhtewnjrr?a=nwr)

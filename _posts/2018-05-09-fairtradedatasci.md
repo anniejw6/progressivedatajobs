@@ -13,6 +13,7 @@ Fair Trade USA's newly formed Data Team works with departments across the organi
 The Director of Data Science will lead a team of 7 data practitioners at Fair Trade USA.  Building a highly functional and motivated team of enthusiastic and talented staff is critical to the success of this role.  In addition, the ideal candidate will bring advanced knowledge of best practices from data engineering, data science and code deployment. The ideal candidate will be an excellent communicator, with the ability to easily understand whole of business needs, while also bringing superior technical knowledge to the team. We are looking for an individual who can be a technical advisor and leader to a burgeoning team of analysts and scientists, while being an owner of the data outputs and data uses across the organization. This is an exciting new role, within an ambitious newly formed team, and one that is central to the ongoing success of Fair Trade. 
 
 Key Responsibilities:
+
 * Lead 7 highly motivated team members (3 direct reports), focused on creating data tools and supporting a data driven culture
 * Develop the strategic and operational plan for the Data Team and manage the team budget
 * Be a strategic, dynamic, and accessible leader able to manage, coach and mentor team members

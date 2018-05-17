@@ -12,7 +12,8 @@ At NGPVAN, we work with a variety of cutting edge technologies and are always lo
 
 We're seeking a self-driven DevOps Engineer who will implement new and maintain existing systems while enriching our existing team. By focusing on working with high level engineers, IT staff and team members, candidates will help provide a seamless integration point for Development and Information Technology. Candidates should have the ability to recommend and rapidly deploy solution-based systems, automate manual processes, and work well on cross-functional teams. 
 
-xperience
+Experience
+
 * Experience with Windows Server 2012+
 * Experience with scripting languages (PowerShell, bash etc.)
 * Experience with and understanding of networking, DNS, load-balancing, and clustering technologies

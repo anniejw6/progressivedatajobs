@@ -15,6 +15,7 @@ This is a permanent position and will continue after the November 2018 election 
 Interested candidates should email a cover letter, resume, and three references in a single pdf document to aarons@nydems.org with the subject line “Name- Voter File Manager.”
 
 Responsibilities include, but are not limited to, the following:
+
 * Day-to-day management of users and committees in VoteBuilder;
 * Developing and implementing a training program for VoteBuilder statewide in conjunction with the Field Department, including a regular webinar schedule;
 * Maintaining all NY Dems data assets;
@@ -27,6 +28,7 @@ Responsibilities include, but are not limited to, the following:
 * Implementing and managing VAN integrated organizing tools, including P2P SMS and event management tools.
 
 Pluses:
+
 * At least one cycle as a Votebuilder or VAN support administrator
 * At least one cycle in field
 * Basic experience with SQL databases

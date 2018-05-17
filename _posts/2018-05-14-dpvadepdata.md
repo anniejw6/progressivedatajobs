@@ -13,6 +13,7 @@ Moderator's note: Deadline soon
 The Democratic Party of Virginia is seeking a qualified candidate for the position of Deputy Data Director. The primary role of this position will be day-to-day administration of the Votebuilder (NGP-VAN). Strong candidates for this positions should have a combination of technical and interpersonal skills to successfully work with state and local organizations improving the function and efficiency of their electoral programs. 
 
 DUTIES AND RESPONSIBILITIES: 
+
 * Provide data and technological guidance on issue related to campaigns 
 * Administer, support, and train users on Votebuilder Tools and other campaign related technology platforms 
 * Generate voter lists for mailing, canvassing and phoning; and manipulate membership, volunteer, or other lists to match to the voter file and load in Votebuilder 
@@ -22,6 +23,7 @@ DUTIES AND RESPONSIBILITIES:
 * Prepare supporting documentation for customers, including statistical analysis and reports, instructions and summaries 
 
 KEY QUALIFICATIONS: 
+
 * Bachelor’s degree 
 * Strong interpersonal and communication skills including the ability to communicate technical subjects to non-technical individuals 
 * Experience using Votebuilder and administering Votebuilder 
