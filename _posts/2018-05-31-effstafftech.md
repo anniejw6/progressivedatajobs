@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  “Electronic Frontier Foundation: Staff Technologist – JavaScript Developer”
+title: "Electronic Frontier Foundation: Staff Technologist – JavaScript Developer"
 tags:
    - nonprofit
    - tech
