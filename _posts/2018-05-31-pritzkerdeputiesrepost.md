@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  “Pritzker for Governor: Data Deputies”
+title: "Pritzker for Governor: Data Deputies"
 tags:
    - campaigns
    - data
