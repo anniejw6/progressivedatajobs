@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  “Hart Research: Assistant Analyst”
+title:  "Hart Research: Assistant Analyst"
 tags:
    - analyst
    - analytics
@@ -13,7 +13,7 @@ Hart Research Associates, a national public opinion research firm, is seeking an
 
 Additional requirements:
 * Excellent analytic, writing, and communication skills
-*  Great attention to detail
+* Great attention to detail
 * An active willingness to take initiative
 * Working knowledge of Microsoft Office, specifically Excel and PowerPoint
 * A good sense of humor
