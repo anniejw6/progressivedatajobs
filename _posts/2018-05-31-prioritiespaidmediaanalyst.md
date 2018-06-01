@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  “Priorities USA: Paid Media Analyst”
+title: "Priorities USA: Paid Media Analyst"
 tags:
    - analyst
    - campaigns
