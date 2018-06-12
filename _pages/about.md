@@ -22,6 +22,7 @@ For more on this topic, we suggest reading the [Guide to getting a job in progre
 ## *I think a job fits that definition, but I don't see it posted here, what's the deal?*
 
 We may not have seen it. Please [submit it](/submit/)! You do NOT need to be associated with the hiring organization, we just want to share information. Send any links you see to us.
+Please note we manually approve all posts and we are doing this on volunteer time, so sometimes it can take a while for jobs to show up.
 
 ## *Why don't you post other jobs, such as organizing or digital jobs?*
 
