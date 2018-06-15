@@ -8,6 +8,7 @@ tags:
 ---
 
 Reporting to the Data Director, this role is ideal for a senior data professional who has seen a lot of stuff and wants to make sure new organizations do not make the same mistakes. You are a great technician who can also work well with non-technical people. You enjoy helping people develop new skills and want data and technology to be used and understood by everyone. You consider yourself a good project manager and are comfortable delegating work.
+
 We are hiring for this position immediately. Candidates may be based in Washington, DC or remote. Applications will be reviewed on a rolling basis. This position is full-time, with a minimum salary of $80,000, commensurate with experience. Indivisible provides a robust benefits package including full medical/dental/vision/life coverage, a discounted gym membership, and an employer matched 401(k) plan.
 
 Responsibilities

@@ -8,6 +8,7 @@ tags:
 ---
 
 Planned Parenthood Federation of America (PPFA) is the nation’s leading women’s health care provider, educator, and advocate, serving women, men, teens and families. For over 100 years, PPFA has done more than any other organization in the United States to improve women’s health and safety, prevent unintended pregnancies, and advance the right and ability of individuals and families to make informed and responsible health care decisions.
+
 Planned Parenthood Federation of America (PPFA) seeks a dynamic and effective Supporter Data & Reporting Manager whom leads the development and maintenance of all reporting across supporter engagement, digital fundraising, and advocacy programs, and owns the back end technical and data operations of the digital fundraising, email, and SMS programs. The Supporter Data & Reporting Manager understands the needs of Planned Parenthood Federation of America and Planned Parenthood Action Fund digital direct response, advocacy, and electoral program, processes, goals and operations in order to create and implement effective solutions for small and large scale data projects.  This position reports to the Deputy Director of Data & Analytics.
 
 DUTIES AND RESPONSIBILITIES

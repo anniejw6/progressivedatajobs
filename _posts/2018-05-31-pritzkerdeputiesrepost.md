@@ -8,6 +8,7 @@ tags:
 ---
 The JB for Governor Campaign is seeking a Deputy Data Director to join a statewide program in Illinois. The Deputy Data Director will report directly to the Data Director and will assist with the
 management of the data and analytics department and providing additional support for an ambitious statewide field campaign.
+
 Ideal candidates are highly organized, detail oriented, quantitative thinkers with a proven ability to achieve set goals and perform under pressure.
 
 Responsibilities Include:

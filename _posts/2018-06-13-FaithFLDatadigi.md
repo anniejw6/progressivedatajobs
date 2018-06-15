@@ -12,10 +12,13 @@ Faith in Florida (FIF) is seeking a Data Manager and Digital Organizer. This pos
 The ideal candidate will be able to demonstrate experience working with low-income, immigrant, communities of color, and/or returning citizens communities, effective time management skills and a demonstrated ability to manage and prioritize multiple tasks and projects. Ideal candidates based in or willing to move to Florida are preferred.
 
 About Faith in Florida:
+
 FIF is about people, power, and change.  First and foremost, our focus is on the development and engagement of people. We work to unleash the leadership that is within each of us toward fighting for racial, economic, and environmental justice.
+
 FIF is affiliated with the Faith in Action (formally the PICO Network).
 
 OVERVIEW OF RESPONSIBILITIES:
+
 The Data Manager and Digital Organizer will oversee and coordinate the VAN (Voter Activation Network) and other campaign technology in Florida. The Data Manager and Digital Organizer will work with Faith in Action national, state federations and other partners to assist in VAN, other data analysis needs and digital engagement. The Data Manager and Digital Organizer should have the ability to continually develop skills related to the use of rapidly changing technology and communications best practices. They should also have experience in the use of data and analytics to drive effective decision-making in organizing, issue, and/or electoral organizing.
 
 DESCRIPTION OF DUTIES:

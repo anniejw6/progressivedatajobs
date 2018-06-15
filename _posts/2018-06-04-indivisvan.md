@@ -7,6 +7,7 @@ tags:
 ---
 
 Reporting to the Data Director, this position is ideal for a competent database administrator who is looking to work on issues you are very passionate about. You love the VAN, or similar databases, and want everyone to love it as much as you do. You feel like you can solve almost any data problem that comes your way and would do anything to get the job done.
+
 We are hiring for this position immediately. Candidates may be based in Washington, DC or remote. Applications will be reviewed on a rolling basis. This position is full-time, with a minimum salary of $55,000, commensurate with experience. Indivisible provides a robust benefits package including full medical/dental/vision/life coverage, a discounted gym membership, and an employer matched 401(k) plan.
 
 Responsibilities

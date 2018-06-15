@@ -7,10 +7,10 @@ tags:
     - datamanagement
 ---
 
-Assistant Data Directors - TN Victory 2018 - Nashville, TN
-TN Victory 2018 is seeking qualified candidates for multiple Assistant Data Director roles. 
+TN Victory 2018 is seeking qualified candidates for multiple Assistant Data Director roles in Nashville, TN.
 
 Overall Description: 
+
 The Assistant  Data Director will report directly to the Data Director. The ADD will assist in managing the day-to-day data needs of the campaign. This position is an opportunity for a creative, data-minded, organized, teamwork-oriented professional with some prior campaign or data experience. This person will be primarily responsible for supporting the campaign’s field and digital organizing programs. This responsibility includes acting as the point person for the campaign’s Votebuilder (VAN), data, reporting and technical assistance requests from all users across the campaign, with a strong emphasis on ensuring proper data entry, cleanliness, and synchronization. 
 
 Duties include but are not limited to: 

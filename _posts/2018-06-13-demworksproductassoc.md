@@ -6,8 +6,11 @@ tags:
     - tech
 ---
 At Democracy Works, we believe voting should fit the way we live. To that end, we build technology for both voters and election administrators that simplifies the process and ensures that no voter should ever have to miss an election.
+
 TurboVote, our first service, helps voters register, stay registered, and cast a ballot in every election, from municipal to national. TurboVote has served nearly 2 million voters by building the largest college, nonprofit, and corporate voter engagement coalition in the country, including 176 campuses, companies like Starbucks, Univision, Facebook, Google, Snapchat, and dozens more. Our other work includes the Voting Information Project, whose polling-place data received 123 million impressions in 2016, an Election Technology Trust to provide affordable, voter-centered technology to election administrators, and Ballot Scout, which tracks absentee ballots through the mail, providing transparency in the vote-by-mail process and making it easier to follow up when things go awry.
+
 You’ll be joining our voter engagement team at an exciting moment: after a complete rewrite, we’re now beginning to reap some of the benefits of having our election data available via microservices capable of supporting new tools and uses beyond the TurboVote flagship. Going into the 2018 midterm elections, we’re focused on maximizing our ability to turn out voters and expanding our sustainable program revenues.
+
 As a product associate working on voter engagement tools, you will be working end-to-end—from proposing new workflows and designs to the senior product manager to the details of drafting cards and planning sprint goals. In doing so, you’ll be supported by a team of software developers; a senior PM with experience to share; a researcher who brings extensive knowledge of election administration; and a partner support team with significant experience implementing across higher education, nonprofit, and corporate environments.
 
 You will:
@@ -32,10 +35,15 @@ You have experience:
 * supporting users (or customers) and learning their needs
 * writing concise, clear material on complex subjects
 
+
 Location: Preferably Brooklyn, NY, but we’re open to remote candidates within the US.
+
 Target Start Date: July 1, 2018
+
 Salary Range: $65,000 to $90,000 per year (offers will vary based on experience and location/cost-of-living calculations. Brooklyn-specific salary range is $76-90k.)
+
 Benefits: Vision, dental, & medical insurance; 403(b) retirement savings plan; generous vacation policy; parental leave; long-term disability; employee assistance program
+
 Level: Mid-level
 
 To apply:

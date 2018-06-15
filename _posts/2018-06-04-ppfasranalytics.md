@@ -8,6 +8,7 @@ tags:
 ---
 
 Planned Parenthood Federation of America (PPFA) is the nation’s leading women’s health care provider, educator, and advocate, serving women, men, teens and families. For over 100 years, PPFA has done more than any other organization in the United States to improve women’s health and safety, prevent unintended pregnancies, and advance the right and ability of individuals and families to make informed and responsible health care decisions.
+
 Planned Parenthood Federation of America (PPFA) seeks a dynamic and effective Senior Analytics Specialist. The incumbent will help develop modeling and analysis on data collected in advocacy, supporter engagement, and fundraising programs conducted via digital, SMS, phone and in-person engagement on behalf of Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Votes. This role will work across multiple departments at Planned Parenthood alongside the Data & Analytics & Digital Fundraising & Supporter Engagement teams to help test and understand analytics & research and its impact Planned Parenthood’s engagement with donors, supporters, and voters. This position reports to the Deputy Director of Data & Analytics.
 
 DUTIES AND RESPONSIBILITIES
