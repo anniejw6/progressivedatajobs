@@ -7,18 +7,20 @@ tags:
     - nonprofit
 ---
 
-
-National Director of Data & Research
-Employment type: Permanent, salary, FLSA exempt
-Compensation: competitive salary, excellent benefits package, 12 paid holidays per year, 10 vacation and 10 sick days accrued each
-
 Mi Familia Vota/Mi Familia Vota Education Fund (MFV) is a national non-profit organization working to unite the Latino community and its allies to promote social and economic justice through increased civic participation. We do this by expanding the electorate through direct, sustainable citizenship, voter registration, GOTV and issue-organizing in key states; forming and supporting key alliances at national, state, and local levels to increase civic engagement; providing technical assistance and support to other organizations; and increasing public support for full civic participation in Latino and immigrant communities. We are headquartered in Phoenix, AZ, with offices in California, Nevada, Arizona, Colorado, Texas, Florida and Washington, DC. Mi Familia Vota is a 501(c)(4) organization, and Mi Familia Vota Education Fund is a 501(c)(3).
 
 The Position
+
 Mi Familia Vota/Mi Familia Vota Education Fund (MFV) is currently recruiting for the position of Director of Data & Research. This is a management level position with a national focus. We are seeking candidates with an interest in Latino civic participation, who are detail-oriented, able to work independently, and willing to learn new skills. 
+
 The Research and Data manager will work closely with the Executive Director, National Operations Director and State Field Directors to plan, implement and manage the organization's research and data programs in support of its electoral and issue-based work. 
 
+
+Employment type: Permanent, salary, FLSA exempt  
+Compensation: competitive salary, excellent benefits package, 12 paid holidays per year, 10 vacation and 10 sick days accrued each  
+
 Primary Duties and Responsibilities
+
 * Prepare national and state profiles of the Latino community that include electoral, demographic and socioeconomic variables. 
 * Prepare other statistical reports in support of MFV programs. 
 * Working with voter data to identify voter universes to support MFV's voter engagement field programs. 
@@ -32,6 +34,7 @@ Primary Duties and Responsibilities
 * Develop and maintain relationships with MFV data partners
 
 Suggested Requirements
+
 * At least 1 to 3 years of experience working with databases and in data management.
 * At least one year of experience working on electoral campaigns or in conducting research related to voting and elections.
 * Knowledge of Voter Registration Databases, voter outreach databases.
@@ -46,12 +49,13 @@ Suggested Requirements
 * Cultural competency
  
 This position can be filled at any of the following MFV offices:
-Phoenix, AZ
-Los Angeles or Riverside, CA
-Orlando, FL
-Washington, DC
+* Phoenix, AZ
+* Los Angeles or Riverside, CA
+* Orlando, FL
+* Washington, DC
  
 To apply:
+
 Please email a copy of your resume, cover letter, and two references to:
 estebang@mifamiliavota.org.
 The email-subject line should read “MFV Director of Data & Research” or may be missed. No phone calls please

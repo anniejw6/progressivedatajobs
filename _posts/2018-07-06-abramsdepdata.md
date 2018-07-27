@@ -7,18 +7,17 @@ tags:
     - datamanagement
 ---
 
-The Stacey Abrams for Governor campaign is seeking a Deputy Data Director. This position has a wide range of responsibilities and serves as a key support role for
-both the Data Director and other campaign departments. The Deputy Data Director must have a combination of technical and political skills to manage real time voter data and is flexible
+The Stacey Abrams for Governor campaign is seeking a Deputy Data Director. This position has a wide range of responsibilities and serves as a key support role for both the Data Director and other campaign departments. The Deputy Data Director must have a combination of technical and political skills to manage real time voter data and is flexible
 enough to respond to campaign needs quickly and efficiently. The Deputy Data Director is a team player and will help ensure that campaign staff get trained on data systems and tools and
 collaborate across departments.
 
 This position requires a strong work ethic, ability to focus in a fast-paced environment and extreme attention to detail. The Deputy Data Director must work well with others and have a service-minded attitude.
 
-REPORTS TO: Data Director
-Location: Atlanta, GA
-Term: Immediately through November 2018
+REPORTS TO: Data Director  
+Location: Atlanta, GA  
+Term: Immediately through November 2018  
 Compensation: $3,500 - $4,000 monthly salary range based on experience
-Benefits: This position comes with the standard package of benefits an employee of AFG receives which includes health insurance. AFG will provide more details.
+Benefits: This position comes with the standard package of benefits an employee of AFG receives which includes health insurance. AFG will provide more details.  
 
 RESPONSIBILITIES:
 Manage voter file access for campaign staff including but not limited to:

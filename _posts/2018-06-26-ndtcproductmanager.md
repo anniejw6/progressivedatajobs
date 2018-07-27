@@ -5,15 +5,15 @@ tags:
     - campaigns
     - tech
 ---
-
-Location: Chicago, IL
-
 The National Democratic Training Committee (NDTC) is looking for a Technology and Product Manager (TPM) to lead our tech team into the 2020 cycle and beyond. The TPM will create, build and oversee the NDTC’s technological innovation and product roadmap to better serve Democratic campaigns up and down the ballot.
+
 The NDTC offers free, interactive online and live training for Democratic candidates running for office. We aim to empower any Democrat who wants to be involved in local politics with the tools needed to be successful.
+
 We believe by working with local candidates, we accomplish three goals: improve the performance of every Democrat up and down the ticket, elect more Democrats to office, and create a deeper bench of qualified candidates for higher office.
 
 Job Description
-* The TPM is responsible for creating, implementing and overseeing a long-term strategy and vision for the NDTC’s technological and product development needs.
+
+The TPM is responsible for creating, implementing and overseeing a long-term strategy and vision for the NDTC’s technological and product development needs.
 
 Primary responsibilities include:
 * Oversight and management of existing tools, infrastructure, learning management system, and databases.

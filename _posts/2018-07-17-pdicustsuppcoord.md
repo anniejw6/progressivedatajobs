@@ -7,12 +7,12 @@ tags:
     - vendor
 ---
 
-Customer Support Coordinator
-
 Political Data Inc. is a data and software company based in Norwalk, California. We are seeking a friendly and confident Customer Support Coordinator who is excited about working for a
 technology company and assisting the team to create a productive work environment. This individual will be the first point of contact for all incoming calls and will provide
 administrative assistance to the PDI Support Team. They will be responsible for managing calls and scheduling follow up appointments.
+
 The ideal candidate will be a highly motivated individual with excellent customer service and communication skills. They must also be computer proficient and tech savvy.
+
 This position is full-time and available immediately.
 
 Principle Duties & Responsibilities:

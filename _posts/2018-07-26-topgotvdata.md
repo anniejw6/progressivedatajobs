@@ -9,14 +9,19 @@ tags:
 ---
 
 2018 County Data Managers Dallas & Harris Counties 
+
 Here at the Texas Organizing Project (TOP), we work to improve the lives of low and moderate income, primarily Black and Brown families, in the second largest State in the Union.  While Texas is the fastest growing State we are alarmed by the growing poverty rate, lack of access to quality health care and education, racist immigration laws and policies, a culture of mass incarceration, and elected officials who are out of step with our community’s values.   We are proud to say that TOP has a proven track record of running winning issue and electoral campaigns that address these challenges.  We know that to win a reflective democracy in Texas we must build power through community organizing, partnering with progressive organizations and labor unions, and expanding civic engagement. 
+
 TOP’s 2018 electoral field program will outreach to nearly half a million voters in Texas’s biggest three Counties; Harris, Dallas, and Bexar.  The populations of these targeted Counties’ are comparable to the populations of Colorado, Nevada, and New Mexico respectively. 
+
 TOP is a dynamic, important, and growing membership based organization.  Our members conduct issue advocacy, lobbying efforts and electoral organizing on behalf of working families in Texas.  We organize in Harris, Dallas, and Bexar Counties. We are an energetic and tight knit team that works hard and is supportive of each other.  We are a financially viable and family friendly organization.   We are looking for people who want to take their work to the next level. 
 
 Job Description: GOTV County Data Manager
+
 TOP is seeking County Data Managers in Harris and Dallas Counties to manage and oversee the county wide data systems.  This includes pulling daily metrics providing analysis of TOP field programs; manipulating voter outreach lists; implementing and supporting systems for data organization; data training and support for field team members; and foreseeing the day to day data logistics needed to support the program.
 
 Key areas of responsibility include:
+
 * Implement and provide ongoing support systems for programs data organization such as daily field lists, turf cutting protocols and efficient online systems for equipment and turf assignment
 * Daily manipulation of VAN searches to maximize effectiveness of voter outreach.
 * Manage metric based reporting systems and provide analysis to field managers to quantitatively; evaluate programs;the work of individual team members; the program’s progress to goals; and the programs projections.
@@ -29,6 +34,7 @@ Key areas of responsibility include:
 * Support electronic voter outreach programs
 
 Qualifications and competencies:
+
 * Multi-cycle experience using VAN database
 * Proven track record of successfully partnering with field managers to maximize the use of data to enhance programs.  
 * Strong experience in using VAN based and online voter outreach systems

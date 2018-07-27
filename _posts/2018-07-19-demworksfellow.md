@@ -8,7 +8,8 @@ tags:
     - nonprofit
 ---
 
-Democracy Works has openings for three fellowships
+Democracy Works has openings for three fellowships:
+
 * Junior Technical Fellow, the Voting Information Project
 * Outreach Fellow, the Voting Information Project
 * Senior Technical Fellow, the Voting Information Project
