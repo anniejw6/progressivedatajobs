@@ -6,7 +6,7 @@ tags:
     - analytics
     - consultants
     - nonprofit
- ---
+---
 
 Priorities is a voter-centric progressive advocacy organization and service center for the grassroots progressive movement. Priorities is committed to standing up to the Trump administration and its allies in order to build an economy that provides real opportunity for all families to get ahead, and to protect the fundamental, democratic ideal of equality for all Americans – regardless of race, religion, gender or sexual orientation.
 
