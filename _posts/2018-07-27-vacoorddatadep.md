@@ -11,6 +11,7 @@ Moderator's note: the deadline for this job is listed as August 1st! Apply soon!
 VA18, the Virginia Coordinated Campaign, is seeking a highly motivated individual to serve as Data Deputy in our efforts to re-elect Senator Tim Kaine, take back the US House of Representatives, and elect Democrats up and down the ballot in 2018.
 
 Responsibilities may include, but are not limited to:
+
 * Working under the supervision of the campaign Data Director and senior leadership team to successfully implement all campaign operations goals
 * Run daily, weekly, and cumulative reports for dissemination to the field staff to monitor campaign progress
 * Directly communicating with regional field leadership to monitor needs in the field and make sure they have the support they need from the data
@@ -23,6 +24,7 @@ Responsibilities may include, but are not limited to:
 * Administer, support, and train users on Votebuilder Tools and other campaign related technology platforms
 
 Qualifications
+
 * Attention to detail
 * Strong communication skills
 * The ability to work effectively and proactively in a fast-paced environment

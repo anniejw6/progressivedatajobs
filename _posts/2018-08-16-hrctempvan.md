@@ -8,6 +8,7 @@ tags:
 ---
 
 HRC, in collaboration with our state equality partners, works to defend and advance pro-LGBTQ policies at all levels of government, holds elected officials accountable for their votes and actions, and elects pro-equality champions to office.
+
 The VAN Support Associate is responsible for supporting the organizing efforts of our staff across the country by maximizing our use of VAN. The VAN Support Associate will maintain and update HRC member and supporter records in VAN, assist with reporting on progress to goals, and monitor our overall outreach through the platform ensuring standards and practices are adhered to and staff are appropriately leveraging the platform in their efforts. Working alongside HRC’s in-house data and analytics team, the support associate serves as a specialist for the VAN platform helping to ensure efficient processes exist to manage data between our existing database of record, VAN, and across other outreach tools including our peer-to-peer texting and predictive dialer tools.
 
 HRC’s VAN Support Associate should have a deep knowledge of the platform and an enthusiastic approach to helping others leverage the platform and our data in effective issue and electoral organizing programs. This is a temporary full time position through November 30th, 2018.

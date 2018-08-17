@@ -14,11 +14,12 @@ We're working on some really interesting problems with data, social science, and
 We are hiring an account and project manager lead who will guide our customer experience as we scale our approach and build our team and product. 
 
 In this role, you will help Change Research craft a great product and smooth customer experience for: 
-Candidates and organizations interested in working with Change Research
-Existing customers who want to dig into the results and use polling insights to win 
-Repeat clients  
+* Candidates and organizations interested in working with Change Research
+* Existing customers who want to dig into the results and use polling insights to win 
+* Repeat clients  
 
-* Approximately 70 percent will be coalescing our team around the daily work needed to operate smoothly and deliver a successful experience, and 30 percent of your work will be guiding the customer experience and ensuring they are satisfied. You will:
+Approximately 70 percent will be coalescing our team around the daily work needed to operate smoothly and deliver a successful experience, and 30 percent of your work will be guiding the customer experience and ensuring they are satisfied. You will:
+
 * Be outward-facing and speaking to political candidates, campaign managers, and leaders of advocacy organizations.
 * Pitch in with proposals, RFP responses and in client meetings.
 * Work collaboratively with our clients to help them understand what we deliver and how this can help them, and ways our data can meet their needs.

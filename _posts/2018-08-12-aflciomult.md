@@ -12,7 +12,9 @@ tags:
 The AFL-CIO is currently hiring for a number of positions in the Data, Analytics and Infrastructure Resource. These positions will play an integral part in our election work through November and will be critical as we dig into some big projects around data and analytics work post-election.
 
 [Senior Strategist and Analytics Lead](https://aflcio.hirecentric.com/jobs/143438.html): This is a high-level opening and would be leading the Federation’s analytics work and helping to guide the strategic decision-making of the organization and our clients. This position pays $102,650.
+
 [Lead Data Scientist](https://aflcio.hirecentric.com/jobs/137303.html): There are vast amounts of hidden insights to be found in the AFL-CIO's data and this position will be responsible for discovering them. Candidates should have solid experience using applied statistics and programming to answer tricky problems at scale. Candidates should also be passionate about new technologies and ways of solving problems and determining how to apply them to your work as well as committed to teaching and strengthening the skills of our team. This position pays $96,323. 
+
 [Temporary Data Coordinator](https://aflcio.hirecentric.com/jobs/143524.html): This is a temporary position that will run through the end of December. This position will work to support the Data and Analytics team with any LAN (the labor movement version of the VAN) support through the election. This position pay $86,284.78 (annual); $1,659.32 (weekly). 
 
 Full job descriptions for each position are below too. 

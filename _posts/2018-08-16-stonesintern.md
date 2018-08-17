@@ -14,18 +14,19 @@ Here at Stones’ Phones, we strive to build a safer and more equitable world, a
 Our firm is based in Washington, DC, with offices in Columbus, OH, Madison, WI and Rancho Mirage, CA.
 
 PRINCIPAL RESPONSIBILITIES
-Account Executive/Strategist Support: write scripts, create budgets, track races
-Write and edit scripts for call programs; create budgets and pricings with Excel; manage and create proposals using our proposal software
-Research political races for campaigns, advocacy efforts, and organizations to maintain up-to-date information on clients
-Administration/Operations: manage client database, answer phones, perform other administrative duties as needed
-Manage and update client database; write bios
-Draft blog posts
-Make supply runs
-Answer phones
-Provide back-up administrative support to other team members as needed
+* Account Executive/Strategist Support: write scripts, create budgets, track races
+* Write and edit scripts for call programs; create budgets and pricings with Excel; manage and create proposals using our proposal software
+* Research political races for campaigns, advocacy efforts, and organizations to maintain up-to-date information on clients
+* Administration/Operations: manage client database, answer phones, perform other administrative duties as needed
+* Manage and update client database; write bios
+* Draft blog posts
+* Make supply runs
+* Answer phones
+* Provide back-up administrative support to other team members as needed
 
 JOB REQUIREMENTS
 The ideal candidate will be someone who is a self-starter that can take initiative and is willing to take on the little and big tasks with the same level of enthusiasm!
+
 * Ability to work full-time (40 hours per week) and start as soon as possible.
 * A background in politics or public policy is preferred, but not required. Strong interest in these areas, however, is necessary
 * Ability to work, communicate, and multi-task effectively in a high-volume environment, all while maintaining strong attention to detail and organization.

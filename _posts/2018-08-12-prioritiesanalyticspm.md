@@ -9,7 +9,9 @@ tags:
 ---
 
 Priorities is a voter-centric progressive advocacy organization and service center for the grassroots progressive movement. Priorities is committed to standing up to the Trump administration and its allies in order to build an economy that provides real opportunity for all families to get ahead, and to protect the fundamental, democratic ideal of equality for all Americans – regardless of race, religion, gender or sexual orientation.
+
 We’re looking for an individual with project management skills to join our Media & Analytics team as our Analytics Project Manager. You will lead a team to build a sophisticated dashboard tool that independent expenditures across the country will use make data-informed, strategic digital advertising decisions to get Democrats elected up and down the ballot this November.
+
 You will provide day-to-day, hands-on leadership to the team working on the dashboard. You will run the team’s operations, timelines, and processes, and train partners how to use the tool you build to serve their organization’s goals.
 
 Responsibilities

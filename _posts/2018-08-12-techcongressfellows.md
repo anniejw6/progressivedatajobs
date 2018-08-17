@@ -6,10 +6,10 @@ tags:
     - tech
 ---
 
-About TechCongress
 TechCongress is a three-year-old startup non-profit, incubated at the Open Technology Institute at New America. We've got great staff and advisors doing all we can to bridge the gap between government and the technology community. We are nonpartisan and work with a diverse set of political voices, and do not take positions on issues. We work hard in an intentional and productive manner, and have fun while we do it. We are building a new generation of technology leaders, and support our staff and fellows with professional development, networking, and freedom to tinker and test new ideas. Above all, we are vigilantly focused on adding value—to our people, our institutions and our society.
 
 The first set of Congressional Innovation Fellows served with two of the most influential members of Congress—Rep. Sander Levin (D-Mich.), former Ranking Member on the House Committee on Ways and Means, and Rep. Jason Chaffetz (R-Utah), former Chairman of the House Oversight Committee—and shaped the conversation on issues ranging from modernizing healthcare with technology to the Apple/FBI encryption debate.
+
 The second and thirds sets of Congressional Innovation Fellows have served in bipartisan placements in the Congress including with Senator Kirsten Gillibrand (D-New York), Senator Cory Gardner (R-Colorado), Senator Ron Wyden (D-Oregon), and Senator Rand Paul (R-Kentucky).  Congressional Innovation Fellows are tackling issues from the economic implications of emerging technologies like AI and automation to cybersecurity, election security and data privacy.  Please visit our fellows page for information about where all of our fellows are serving. 
 
 As a Congressional Innovation Fellow you will:

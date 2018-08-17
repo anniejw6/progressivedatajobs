@@ -8,7 +8,9 @@ tags:
 ---
 
 For more than a decade, Catalist has been a leader in civic data and data science innovation. Our mission is to provide progressive organizations with the data and services needed to better identify, understand, and communicate with the people they need to engage and mobilize. Our clients include the largest, most influential organizations in the U.S. engaged in civic engagement, advocacy, and political campaigns.
-Catalist is home to a dedicated, creative team of technologists, data scientists and campaign experts who build best-in-class data tools. Catalist is committed to using our talents and technology to nurture a vibrant, growing, progressive community.    
+
+Catalist is home to a dedicated, creative team of technologists, data scientists and campaign experts who build best-in-class data tools. Catalist is committed to using our talents and technology to nurture a vibrant, growing, progressive community.   
+ 
 We are currently seeking applications for an entry-level Digital Assistant during the 2018 election cycle. This is a unique opportunity to gain first-hand experience at the intersection of technology and politics. This job will be providing support for Catalist’s digital integration partners and projects.
 
 Principal Duties & Responsibilities:

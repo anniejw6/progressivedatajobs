@@ -7,14 +7,6 @@ tags:
     - intern
 ---
 
-
-North Dakota Dem-NPL
-
-Location: Fargo, ND
-
-Reports To: Data Director
-
-Overall Description: 
 The 2018 North Dakota Coordinated Campaign (NDCC) is seeking a Data Intern. Data Interns will report directly to the Data Director and will work directly on all aspects of the data and analytics department and help provide additional support for an ambitious and cutting edge statewide field campaign.
 
 Responsibilities: 
