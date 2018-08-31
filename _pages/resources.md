@@ -23,9 +23,9 @@ While there is no single source of all progressive jobs, we recommend the follow
 
 * [Democratic Gain career center](https://careercenter.democraticgain.org//) Search a wide variety of jobs in the political and non-profit space across the country. They also host the corresponding [JobsThatAreLeft google group](https://groups.google.com/forum/#!forum/jobsthatareleft) which we highly recommend. 
 
-* [Inclusv](https://inclusv.com/) A community for people of color in politics and activism. Joining gives you access to job postings, trainings and personalized mentorship and resume review is available. 
+* [Inclusv](https://inclusv.com/) A community for people of color in politics and activism. Joining gives you access to job postings, trainings, and personalized mentorship and resume review is available. 
 
-* [Idealist](https://www.idealist.org/) hosts thousands of non-profit jobs, interships and volunteer opportunities across a wide swath of issues. Pro tip: Because Idealist charges a fee to post, if you find an organization you are interested in, make sure to check their website directly. 
+* [Idealist](https://www.idealist.org/) hosts thousands of non-profit jobs, internships, and volunteer opportunities across a wide swath of issues. Pro tip: Because Idealist charges a fee to post, if you find an organization you are interested in, make sure to check their website directly. 
 
 * [Public Interest Tech Job Board](https://jobs.codeforamerica.org/) Hosted by Code for Progress, you can find tech jobs in government, non-profits that partner with governments and for-profits that have a strong focus on social impact.
 
