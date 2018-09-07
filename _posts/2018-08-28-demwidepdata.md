@@ -8,6 +8,7 @@ tags:
 ---
 
 The 2018 Wisconsin Democratic Coordinated Campaign is seeking a highly motivated, passionate and talented Deputy Data Director for our statewide organizing program. The WI Coordinated Campaign will play a critical role in re-electing Sen. Tammy Baldwin, Tony Evers for Governor, Josh Kaul for Attorney General, and down-ticket Democratic candidates including U.S. House and State Legislative districts across the state.
+
 Key Responsibilities:
 * Assist with management of day to day data and voter file operations
 * Train & support staff on VAN/Votebuilder and other data tools

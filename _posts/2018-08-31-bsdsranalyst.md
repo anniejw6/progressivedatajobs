@@ -9,6 +9,7 @@ tags:
 ---
 
 Work with an inspiring mix of clients from enterprise nonprofits to advocacy organizations. As a Senior Analyst in Data Strategy, you will:
+
 * Collect and analyze data to serve the needs of your client portfolio, including but not limited to: web traffic and user behavior, email messaging statistics, paid media performance, and social media trends
 * Transform your analysis observations into insights and actionable strategic recommendations for communication programs
 * Work collaboratively with a cross-disciplined team of creative directors, copywriters, designers, strategists, and account managers as a leader in your craft on client engagements

@@ -11,6 +11,7 @@ tags:
     - vendor
 ---
 NGP VAN is a technology company whose team members do exciting and meaningful work that has a significant impact on promoting civil rights, social justice, and environmental responsibility.
+
 Employees enjoy an unusually generous set of benefits, including 12 weeks paid parental leave, profit sharing, 100% premium-paid health/dental, and an ongoing education allowance. NGP VAN is one of only a handful of companies to be recognized as one of the fastest growing companies in America by Inc. Magazine for nine years in a row.
 
 [Data Services Specialist](https://ngpvan.applytojob.com/apply/hW8xoVF2qz/Data-Services-Specialist)

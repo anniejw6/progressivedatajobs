@@ -7,9 +7,9 @@ tags:
     - union
 ---
 
-SEIU (Service Employees International Union)
-Senior Database Analyst/Programmer Grade: PS-3 : Salary, $76,509.20/YR
-Location: Washington, D.C.
+* SEIU (Service Employees International Union)
+* Senior Database Analyst/Programmer Grade: PS-3 : Salary, $76,509.20/YR
+* Location: Washington, D.C.
 
 Purpose:
 Responsible for system administration, analysis, development, testing, tuning, support and documentation of all Membership module modifications and other system database Applications.
