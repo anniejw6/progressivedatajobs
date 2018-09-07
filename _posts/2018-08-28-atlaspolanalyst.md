@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Atlast Project: Political Analyst"
+title:  "The Atlas Project: Political Analyst"
 tags: 
     - analyst
     - campaigns
