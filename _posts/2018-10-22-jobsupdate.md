@@ -1,24 +1,8 @@
 ----
 layout: single
 title:  "Mod Note: Where's the jobs?"
-tags: 
-  - analyst
-  - analytics
-  - campaigns
-  - citygov
-  - clientservices
-  - consultants
-  - data
-  - datamanagement
-  - digital
-  - executive
-  - i.t.
-  - intern
-  - nonprofit
-  - tech
-  - union
-  - vendor
-  - vendors
+
+  
 ----
 
 Where's all the jobs? Is this site still active? Why yes, yes it is.
