@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Mod Note: Where's the jobs?"
+title:  "Mod Note: Where are the jobs?"
 tags: 
     - analyst
     - analytics
@@ -17,8 +17,7 @@ tags:
     - nonprofit
     - tech
     - union
-    - vendor
-    - vendors
+
 ---
 
 Where's all the jobs? Is this site still active? Why yes, yes it is.
