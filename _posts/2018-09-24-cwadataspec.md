@@ -49,4 +49,4 @@ Job Specifications
 To be considered for this position, submit your resume and cover letter to human_resources@cwa-union.org with the subject ‘CWA Organizing Data Specialist’. In your cover letter please highlight any experience you have working with the labor movement, advocacy groups, political campaigns or community organizing.
 CWA is an equal opportunity employer, and, as such, does not discriminate an employee or applicant on the basis of race, creed, color, age, sex, national origin, marital status, sexual orientation, gender identity, religious affiliation, disability, or any other classification protected from discrimination under applicable law.
 
-[See more and apply here](https://www.unionjobs.com/listing.php?id=13589)
+[See more and apply here](https://www.unionjobs.com/listing.php?id=13722)
