@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Mod Note: Where's the jobs?"
+title: "Mod Note, Where are the jobs?"
 tags: 
     - analyst
     - analytics
