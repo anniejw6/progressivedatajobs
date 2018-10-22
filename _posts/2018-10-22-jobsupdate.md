@@ -1,9 +1,11 @@
-----
+---
 layout: single
 title:  "Mod Note: Where's the jobs?"
-
-  
-----
+tags: 
+    - analyst
+    - analytics
+    - campaigns
+---
 
 Where's all the jobs? Is this site still active? Why yes, yes it is.
 We're going to let you in on a trade not-so-secret, particularly for those of you looking for work in the Progressive & electoral space for the first time.
