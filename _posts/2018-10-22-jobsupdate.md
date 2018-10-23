@@ -30,5 +30,6 @@ Here's a few of our postings and a few companies with multiple positions open th
 * [Clarity Campaigns, Polling Associates & Junior Analysts](http://www.claritycampaigns.com/careers/)
 * [NGPVAN, multiple](https://www.ngpvan.com/careers)
 * [Democratic National Committee, multiple](https://democrats.org/about/work-with-us/)
+* [AFL-CIO, Director of Data, Analytics & Infrastructure](https://www.progressivedatajobs.org/2018/09/12/aflciodatadir/)
 
 And if you can, get out there and volunteer! Knock some doors for the midterms! Good luck for everyone out there and thanks for all your hard work.
