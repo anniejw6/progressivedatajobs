@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Florida Democratic Party: Deputy Data Director of Reporting"
+title:  "SEIU: Director of Data Systems and Analytics"
 tags: 
     - union
     - data
