@@ -1,13 +1,11 @@
 ---
 layout: single
-title:  "Florida Dem. Party: Deputy Data Director"
+title:  "Florida Democratic Party: Deputy Data Director of Reporting"
 tags: 
     - campaigns
     - data
     - datamanagement
 ---
-
-DEPUTY DATA DIRECTOR OF REPORTING, FLORIDA DEMOCRATIC PARTY
 
 The Florida Democratic Party is expanding our data and analytics team in advance of 2020 and are currently seeking a Deputy Data Director of Reporting. The candidate is tasked with development of working and collaborating with the senior executive team, the data team, County and Party officials, and the field team to develop easy-to-read reports that allow the Party to communicate department metrics, field targeting and voter contact as well as progress to goal with Party officials, candidates, elected leaders and donors.   
 
