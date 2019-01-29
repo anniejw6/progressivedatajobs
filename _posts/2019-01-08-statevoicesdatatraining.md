@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  “State Voices: Data & Technology Senior Training Manager”
+title:  "State Voices: Data & Technology Senior Training Manager"
 tags:
    - data
    - nonprofit
