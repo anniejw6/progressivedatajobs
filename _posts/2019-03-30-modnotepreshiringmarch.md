@@ -82,7 +82,7 @@ These candidates have general hiring open, but we could not confirm if they are 
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) Postings for organizers only
 * Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Status unknown, but lists data as a job interest)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) (Status unknown, does not list data or similar job interest)
-* Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002 (Status unknown, only lists technology as a job interest)
+* Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002) (Status unknown, only lists technology as a job interest)
 
 
 We were unable to locate resume banks or other application processes for these candidates
@@ -97,5 +97,7 @@ We were unable to locate resume banks or other application processes for these c
 P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about it. [Fill out our brief survey](https://docs.google.com/forms/d/e/1FAIpQLSdHzjmG1CiAPcHb_UPOHkewAP0wqG765bR5yOdhxabgKkSRhQ/viewform?usp=sf_link). You’ll have our eternal gratitude.
 
 
-**  Has officially announced for President and has either an active campaign or exploratory committee
-***  in some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
+*  Has officially announced for President and has either an active campaign or exploratory committee
+
+
+**  in some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
