@@ -68,6 +68,7 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Cory Booker: [Resume bank](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
+* Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Updated March 31st - confirmed hiring)
 * Bernie Sanders: [1 data position as of writing](https://boards.greenhouse.io/bernie2020/jobs/4235650002) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 
@@ -76,7 +77,6 @@ These candidates have general hiring open, but we could not confirm if they are 
 
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian )(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) Postings for organizers only
-* Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Status unknown, but lists data as a job interest)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) (Status unknown, does not list data or similar job interest)
 * Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002) (Status unknown, only lists technology as a job interest)
 
