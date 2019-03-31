@@ -5,26 +5,17 @@ tags:
     - analyst
     - analytics
     - campaigns
-    - citygov
-    - clientservices
-    - consultants
     - data
     - datamanagement
     - digital
-    - executive
-    - i.t.
     - intern
-    - nonprofit
     - tech
-    - union
-    - vendor
-    - vendors
 ---
 
 A brief outlook at Presidential campaign hiring for data & analytics
 
 
-Last November, we posted here on Progressive Data Jobs that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.* 
+Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is intended as broad guidance informed by past experiences. Your mileage may vary.
@@ -41,8 +32,11 @@ For folks who are interested in working on a Presidential campaign and haven’t
 3. While campaign structures vary, we can broadly categorize jobs that fall under “data & analytics.” You will see a variety of titles and job descriptions, as there aren’t agreed upon norms. Additionally, there isn’t inherent value in having an HQ job over a state job - they simply offer different opportunities. 
 
     a. Senior level - national HQ: Heads of departments and their close advisors who usually play a large role in strategic decision making and resource allocations. These roles go to folks with extensive campaign experience.
+
     b. Senior level - state: Counterparts to the national roles. They have strategic purview for their state, informed by on the ground information and guidance from national strategies. “Battleground” states are most likely to have these types of roles and incoming experience varies. 
+
     c. Mid & junior level - national HQ: Data managers, reporting managers, data visualizations, analysts, data scientists, pollsters, the list goes on. HQ can employ a wide array of skill sets to support their strategies. Some staff will have broad purviews (consulting a set of state directors) while others will have very specific roles (executing surveys for models). Previous campaign experience is valuable but not required for all roles. 
+    
     d. Mid & junior level - state: While often having similar skill set to their national counterparts, they are very “field” focused and support much of the day to day work in important states. Previous campaign experience is valuable but not required for all roles. 
     
     
@@ -69,7 +63,8 @@ To make this easier, we’ve compiled the hiring information we have for the dec
 These are categorized by whether they are specifically hiring for data & analytics at this time and ordered alphabetically by last name. If you have additional information or corrections please email lena at progressivedatajobs dot org.
 
 
-These are the candidates known** to be hiring data & analytics staff, although most are using general resume banks:
+These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
+
 * Cory Booker: [Resume bank](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
@@ -78,6 +73,7 @@ These are the candidates known** to be hiring data & analytics staff, although m
 
 
 These candidates have general hiring open, but we could not confirm if they are hiring for data & analytics specifically
+
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian )(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) Postings for organizers only
 * Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Status unknown, but lists data as a job interest)
@@ -97,7 +93,7 @@ We were unable to locate resume banks or other application processes for these c
 P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about it. [Fill out our brief survey](https://docs.google.com/forms/d/e/1FAIpQLSdHzjmG1CiAPcHb_UPOHkewAP0wqG765bR5yOdhxabgKkSRhQ/viewform?usp=sf_link). You’ll have our eternal gratitude.
 
 
-*  Has officially announced for President and has either an active campaign or exploratory committee
+[^1]: Has officially announced for President and has either an active campaign or exploratory committee
 
 
-**  in some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
+[^2]: In some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
