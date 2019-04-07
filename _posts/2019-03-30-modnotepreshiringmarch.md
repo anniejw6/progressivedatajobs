@@ -70,7 +70,7 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) (Updated April 4th - confirmed hiring)
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
 * Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Updated March 31st - confirmed hiring)
-* Bernie Sanders: [1 data position as of writing](https://boards.greenhouse.io/bernie2020/jobs/4235650002) 
+* Bernie Sanders: [1 data position and multiple tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 
 
