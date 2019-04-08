@@ -78,6 +78,7 @@ These candidates have general hiring open, but we could not confirm if they are 
 
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian )(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) Postings for organizers only
+* Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (Updated April 8th - No data jobs currently listed)
 * Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002) (Status unknown, only lists technology as a job interest)
 
 
@@ -85,7 +86,6 @@ We were unable to locate resume banks or other application processes for these c
 
 * Tulsi Gabbard
 * John Hickenlooper
-* Jay Inslee
 * Marianne Williamson
 * Andrew Yang
 
