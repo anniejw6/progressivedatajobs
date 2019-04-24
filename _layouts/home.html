@@ -2,14 +2,18 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">Pinned Posts</h3>
 
+<div class="list__item">
 {% for post in site.posts %}
   {% if post.pin == true %}
-    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    <p style="font-size: 13px;">{{ post.description | strip_html | truncatewords: 30 }}</p> 
+    <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <p style="font-size: 13px;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p> 
   {% endif %}
 {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
