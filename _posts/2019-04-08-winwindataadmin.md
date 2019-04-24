@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Win|Win Action: Data & VAN Admin"
+title: "Win/Win Action: Data & VAN Admin"
 tags: 
     - data
     - datamanagement
