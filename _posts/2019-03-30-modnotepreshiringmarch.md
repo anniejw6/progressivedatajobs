@@ -13,6 +13,7 @@ tags:
 pin: true
 
 ---
+Presidential hiring outlooks
 
 Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
@@ -60,31 +61,36 @@ These tips are obviously not complete, but we wanted to give a little sense of h
 To make this easier, we’ve compiled the hiring information we have for the declared candidates. We will periodically repost this with edits as things evolve.
 
 These are categorized by whether they are specifically hiring for data & analytics at this time and ordered alphabetically by last name. If you have additional information or corrections please email lena at progressivedatajobs dot org.
-
+Update April 29th - additional jobs, Biden announced, additional candidates announced
 
 These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
 
 * Cory Booker: [Resume bank](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
-* Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) (Updated April 4th - confirmed hiring)
+* Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
-* Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) (Updated March 31st - confirmed hiring)
-* Bernie Sanders: [1 data position and multiple tech jobs](https://boards.greenhouse.io/bernie2020) 
+* Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) 
+* Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 
 
 These candidates have general hiring open, but we could not confirm if they are hiring for data & analytics specifically
 
+* Joe Biden: Waiting for confirmation and details 4/29 but seems highly like to hire data roles
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian )(Unable to confirm, but signs point to a data hire)
-* John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) Postings for organizers only
-* Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (Updated April 8th - No data jobs currently listed)
+* John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
+* Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (No data jobs currently listed)
 * Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002) (Status unknown, only lists technology as a job interest)
 
 
-We were unable to locate resume banks or other application processes for these candidates
+We were unable to locate resume banks or other application processes for these candidates[^3]
 
 * Tulsi Gabbard
 * John Hickenlooper
+* Wayne Messam
+* Seth Moulton
+* Tim Ryan
+* Eric Swalwell
 * Marianne Williamson
 * Andrew Yang
 
@@ -96,3 +102,5 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 
 [^2]: In some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
+
+[^3] Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
