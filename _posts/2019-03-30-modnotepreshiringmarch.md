@@ -14,6 +14,7 @@ pin: true
 
 ---
 Presidential hiring outlooks
+Updated on a rolling basis as the campaign evolves
 
 Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
