@@ -14,7 +14,8 @@ pin: true
 
 ---
 Presidential hiring outlooks
-Updated on a rolling basis as the campaign evolves
+
+Hiring list updated on a rolling basis as the campaign evolves
 
 Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
@@ -104,4 +105,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^2]: In some cases we confirmed this by reaching out to campaign staff. However as we are a site operating on a budget of free ninety nine, we don’t have the capacity to reach out to all of them. If you can confirm other hiring, please email Lena!
 
-[^3] Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
+[^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
