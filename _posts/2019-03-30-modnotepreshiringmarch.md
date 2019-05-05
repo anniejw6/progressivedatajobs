@@ -68,7 +68,7 @@ Update April 29th - additional jobs, Biden announced, additional candidates anno
 These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
 
 * Joe Biden: [Data & Analytics resume bank](https://jobs.lever.co/joebiden/7abfa89d-9532-46cb-a4ea-edd1a0ee7ef2)
-* Cory Booker: [Resume bank](https://corybooker.com/Jobs/) 
+* Cory Booker: Job descriptions for data and analytics [here](https://drive.google.com/open?id=19HHXmJ5Ll9gw-dmsZkpEp5ACsJz8wgej) General resume bank [here](https://corybooker.com/Jobs/) Job descriptions for data and analytics [here](https://drive.google.com/open?id=19HHXmJ5Ll9gw-dmsZkpEp5ACsJz8wgej)
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
