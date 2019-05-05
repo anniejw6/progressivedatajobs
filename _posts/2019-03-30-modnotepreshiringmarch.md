@@ -15,7 +15,7 @@ pin: true
 ---
 Presidential hiring outlooks
 
-Hiring list updated on a rolling basis as the campaign evolves
+Hiring list updated on a rolling basis as the campaign evolves (Update May the Fourth) 
 
 Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
@@ -79,6 +79,7 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 
 These candidates have general hiring open, but we could not confirm if they are hiring for data & analytics specifically
 
+* Michael Bennet: Collecting resumes at resumes@michaelbennet.com
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian )(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
 * Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (No data jobs currently listed)
