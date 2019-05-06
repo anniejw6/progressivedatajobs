@@ -34,4 +34,4 @@ The Data Assistant is an entry-level position and will work most closely with th
 
 Salary: "Competitive"
 
-[See more and apply here]()
+[See more and apply here](https://secure.emilyslist.org/page/-/Job%20Descriptions/Data%20Assistant%20AD%202019.pdf)
