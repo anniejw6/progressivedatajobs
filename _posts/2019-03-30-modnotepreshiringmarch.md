@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated May the Fourth) 
+Presidential hiring outlooks (Last updated May 6) 
 
 Hiring list updated on a rolling basis as the campaign evolves 
 
@@ -63,7 +63,6 @@ These tips are obviously not complete, but we wanted to give a little sense of h
 To make this easier, we’ve compiled the hiring information we have for the declared candidates. We will periodically repost this with edits as things evolve.
 
 These are categorized by whether they are specifically hiring for data & analytics at this time and ordered alphabetically by last name. If you have additional information or corrections please email lena at progressivedatajobs dot org.
-Update April 29th - additional jobs, Biden announced, additional candidates announced
 
 These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
 
