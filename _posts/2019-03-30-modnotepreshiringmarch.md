@@ -68,11 +68,12 @@ Update April 29th - additional jobs, Biden announced, additional candidates anno
 These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
 
 * Joe Biden: [Data & Analytics resume bank](https://jobs.lever.co/joebiden/7abfa89d-9532-46cb-a4ea-edd1a0ee7ef2)
-* Cory Booker: Job descriptions for data and analytics [here](https://drive.google.com/open?id=19HHXmJ5Ll9gw-dmsZkpEp5ACsJz8wgej) General resume bank [here](https://corybooker.com/Jobs/) Job descriptions for data and analytics [here](https://drive.google.com/open?id=19HHXmJ5Ll9gw-dmsZkpEp5ACsJz8wgej)
+* Cory Booker: Job descriptions for data and analytics [here](https://drive.google.com/open?id=19HHXmJ5Ll9gw-dmsZkpEp5ACsJz8wgej) General resume bank [here](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
 * Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) 
+* Seth Moulton Collecting resumes at join@sethmoulton.com
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 
@@ -91,7 +92,6 @@ We were unable to locate resume banks or other application processes for these c
 * Tulsi Gabbard
 * John Hickenlooper
 * Wayne Messam
-* Seth Moulton
 * Tim Ryan
 * Eric Swalwell
 * Marianne Williamson
