@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated May 6) 
+Presidential hiring outlooks (Last updated June 24) 
 
 Hiring list updated on a rolling basis as the campaign evolves 
 
@@ -71,8 +71,8 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Pete Buttigieg: [2 Data jobs listed as of this writing](https://jobs.lever.co/peteforamerica)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
-* Amy Klobuchar:[Resume Bank]( https://amyklobuchar.com/jobs/) 
-* Seth Moulton Collecting resumes at join@sethmoulton.com
+* Amy Klobuchar: NEW:[Data & Analytics jobs](https://docs.google.com/document/d/1EKO9F4uDL1KTWtlMEEQJb_7oMAw4y2I98wch5sFpZVg/edit) [Resume Bank]( https://amyklobuchar.com/jobs/) 
+* Seth Moulton collecting resumes at join@sethmoulton.com
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 
