@@ -73,6 +73,7 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
 * Amy Klobuchar: NEW:[Data & Analytics jobs](https://docs.google.com/document/d/1EKO9F4uDL1KTWtlMEEQJb_7oMAw4y2I98wch5sFpZVg/edit) [Resume Bank]( https://amyklobuchar.com/jobs/) 
 * Seth Moulton collecting resumes for Data at join@sethmoulton.com
+* Beto O’Rourke: UPDATED [Multiple data jobs](https://boards.greenhouse.io/betoforamerica)
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
 * Andrew Yang NEW [Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
@@ -85,7 +86,6 @@ These candidates have general hiring open, but we could not confirm if they are 
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
 * Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (Link is old, may not be up to date. No data jobs currently listed)
-* Beto O’Rourke: [Resume Bank](https://boards.greenhouse.io/betoforamerica/jobs/4235236002) (Status unknown, only lists technology as a job interest)
 
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
