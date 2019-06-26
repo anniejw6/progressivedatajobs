@@ -13,15 +13,15 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated June 25) 
+Presidential hiring outlooks (Last updated June 26) 
 
-Hiring list updated on a rolling basis as the campaign evolves 
-
-Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
+Hiring list updated on a rolling basis as the campaign evolves - changes noted with "NEW" or "UPDATED" links and newly announced candiates or jobs. 
 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is intended as broad guidance informed by past experiences. Your mileage may vary.
 
+
+Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1]
 
 For folks who are interested in working on a Presidential campaign and haven’t been through the process before, here is a brief summary of what to expect on the job front:
  
