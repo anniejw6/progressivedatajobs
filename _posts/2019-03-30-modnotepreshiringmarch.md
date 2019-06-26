@@ -67,7 +67,7 @@ These are categorized by whether they are specifically hiring for data & analyti
 These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
 
 * Joe Biden: [Data & Analytics resume bank](https://jobs.lever.co/joebiden/7abfa89d-9532-46cb-a4ea-edd1a0ee7ef2)
-* Cory Booker: Multiple data jobs [here](https://corybooker.com/Jobs/) 
+* Cory Booker: UPDATED Multiple data jobs [here](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: [Multiple data and tech jobs](https://jobs.lever.co/peteforamerica)
 * Kirsten Gillibrand: [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
@@ -75,12 +75,13 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Seth Moulton collecting resumes for Data at join@sethmoulton.com
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) 
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
-* Andrew Yang [Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
+* Andrew Yang NEW [Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
 
 
 These candidates have general hiring open, but we could not confirm if they are hiring for data & analytics specifically
 
 * Michael Bennet: Collecting resumes at resumes@michaelbennet.com
+* NEW Steve Bullock collecting resumes at jobs@stevebullock.com
 * Julian Castro: [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)(Unable to confirm, but signs point to a data hire)
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
 * Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (Link is old, may not be up to date. No data jobs currently listed)
@@ -89,10 +90,12 @@ These candidates have general hiring open, but we could not confirm if they are 
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
+* NEW Bill DeBlasio
 * Tulsi Gabbard
 * John Hickenlooper
 * Wayne Messam
 * Tim Ryan
+* NEW Joe Sestak
 * Eric Swalwell
 * Marianne Williamson
 
