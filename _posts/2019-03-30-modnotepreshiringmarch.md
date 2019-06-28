@@ -15,7 +15,7 @@ pin: true
 ---
 Presidential hiring outlooks (Last updated June 26) 
 
-Hiring list updated on a rolling basis as the campaign evolves - changes noted with "NEW" or "UPDATED" links and newly announced candiates or jobs. 
+Hiring list updated on a rolling basis as the campaign evolves - changes noted with "NEW" or "UPDATED" links and newly announced candidates or jobs. 
 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is intended as broad guidance informed by past experiences. Your mileage may vary.
