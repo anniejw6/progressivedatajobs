@@ -17,6 +17,10 @@ tags:
 
 Last November, we [posted](https://www.progressivedatajobs.org/2018/10/22/jobsupdate/) that we expected hiring to start up again in late winter/early spring, and the floodgates have indeed opened. Many progressive and political-oriented organizations are now hiring, including many declared Democratic Presidential candidates.[^1] If you want to jump right to the jobs that are open [click here](https://www.progressivedatajobs.org/2019/03/30/modnotepreshiringmarch/) otherwise read on!
 
+
+Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is intended as broad guidance informed by past experiences. Your mileage may vary.
+
+
 For folks who are [interested in working on a Presidential campaign](https://www.progressivedatajobs.org/2019/03/30/modnotepreshiringmarch/) and haven’t been through the process before, here is a brief summary of what to expect on the job front:
  
 1. Hiring timelines and availability of roles will vary by campaign based on resources (money) and priorities. Some will invest heavily in data early to set up their infrastructure, others will wait until they’ve gained traction and/or are ready to dig in on direct voter contact, or not hire more than a bare minimum of data managers or polling consultants.
