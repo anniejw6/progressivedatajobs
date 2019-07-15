@@ -18,7 +18,7 @@ Presidential hiring outlooks (Last updated July 15)
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
 
-For clarity, we have moved our [tips on getting a job with a Democratic Presidential campaign] to a new link. If you haven't applied and worked for a Presidential election before, check it out first! We'll keep this post with updates from specific jobs and campaigns. 
+For clarity, we have moved our [tips on getting a job with a Democratic Presidential campaign](https://www.progressivedatajobs.org/2019/07/15/gettingajobpres2020/) to a new link. If you haven't applied and worked for a Presidential election before, check it out first! We'll keep this post with updates from specific jobs and campaigns. 
 
 
 Hiring list updated on a rolling basis as the campaign evolves[^1] - changes noted with "NEW" or "UPDATED" links and newly announced candidates or jobs. Candidates that drop out are noted at the bottom[^4]. 
