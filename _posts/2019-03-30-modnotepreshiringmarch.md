@@ -15,7 +15,7 @@ pin: true
 ---
 Presidential hiring outlooks (Last updated July 15) 
 
-Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is intended as broad guidance informed by past experiences. Your mileage may vary.
+Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
 
 For clarity, we have moved our [tips on getting a job with a Democratic Presidential campaign] to a new link. If you haven't applied and worked for a Presidential election before, check it out first! We'll keep this post with updates from specific jobs and campaigns. 
