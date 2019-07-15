@@ -57,4 +57,6 @@ These tips are obviously not complete, but we wanted to give a little sense of h
 To make this easier, we’ve compiled the hiring information we have for the declared candidates. We will periodically repost this with edits as things evolve. [See more here](https://www.progressivedatajobs.org/2019/03/30/modnotepreshiringmarch/)
 
 
+P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about it. [Fill out our brief survey](https://docs.google.com/forms/d/e/1FAIpQLSdHzjmG1CiAPcHb_UPOHkewAP0wqG765bR5yOdhxabgKkSRhQ/viewform?usp=sf_link). You’ll have our eternal gratitude.
+
 [^1]: Has officially announced for President and has either an active campaign or exploratory committee
