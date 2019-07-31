@@ -39,7 +39,7 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Beto O’Rourke: [Multiple data jobs](https://boards.greenhouse.io/betoforamerica)
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) NEW [Data Analyst (DC)](https://boards.greenhouse.io/bernie2020/jobs/4269064002)
 * Elizabeth Warren: [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
-* Andrew Yang NEW[Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
+* Andrew Yang Updated [Deputy Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
 
 
 These candidates have general hiring open, but do not have data, analytics or tech roles posted or known. 
