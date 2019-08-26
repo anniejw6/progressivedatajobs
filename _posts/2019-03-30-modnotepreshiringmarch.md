@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated August 19th) 
+Presidential hiring outlooks (Last updated August 25th) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
@@ -36,7 +36,6 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Kirsten Gillibrand: UPDATED [Data Director- see here](https://docs.google.com/document/d/1JtpbGpm39rCuLVCYBQGHm2uRRm5HZp1IIC3tpn-oSL8/edit) [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
 * Amy Klobuchar: [Data & Analytics jobs](https://docs.google.com/document/d/1EKO9F4uDL1KTWtlMEEQJb_7oMAw4y2I98wch5sFpZVg/edit) [Resume Bank]( https://amyklobuchar.com/jobs/) 
-* Seth Moulton collecting resumes for Data at join@sethmoulton.com
 * Beto O’Rourke: [Multiple data jobs](https://boards.greenhouse.io/betoforamerica)
 * Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) NEW [Data Analyst (DC)](https://boards.greenhouse.io/bernie2020/jobs/4269064002)
 * Tom Steyer UPDATED multiple data jobs listed [Job website](https://www.tomsteyer.com/careers/)
@@ -49,14 +48,11 @@ These candidates have general hiring open, but do not have data, analytics or te
 * Michael Bennet: Collecting resumes at resumes@michaelbennet.com
 * Steve Bullock collecting resumes at jobs@stevebullock.com
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
-* Jay Inslee: [Job list](https://docs.google.com/document/d/1KP3vTcjCtwe3SEdYSn7dg8wwy8GHOjFQnSvAuLrmrCU/edit) (Link is old, may not be up to date. No data jobs currently listed)
-
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
 * Bill DeBlasio
 * Tulsi Gabbard
-* John Hickenlooper
 * Wayne Messam
 * Tim Ryan
 * Joe Sestak
@@ -73,4 +69,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): Hinckenlooper, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): Hinckenlooper, Inslee, Moulton, Swalwell
