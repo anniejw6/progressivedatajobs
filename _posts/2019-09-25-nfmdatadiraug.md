@@ -1,0 +1,31 @@
+---
+layout: single
+title:  "New Florida Majority: Data Coordinator"
+tags: 
+    - data
+    - datamanagement
+    - nonprofit
+---
+
+The New Florida Majority is an independent organization working to increase the voting and political power of marginalized and excluded constituencies toward an inclusive, equitable, and just Florida.
+
+
+The Data Coordinator will work primarily to assist the Data Director with all data tasks utilizing the Voter Activation Network (VAN) and EveryAction in addition to other data projects as needed.
+
+
+Key Responsibilities:
+* Create and run weekly reports for all aspects of issue and electoral campaigns and other program data;
+* Provide technical support and training to staff on EveryAction & VAN to support canvassing, volunteer mobilization and organizing activities;
+* Develop both technical and end-user documentation for data processes;
+* Provide data analysis and reports as needed;
+* Manage project management system;
+* Assist with the development of new systems and processes as needed;
+* Schedule and implement regular data hygiene processes;
+* Manage texting programs including Relay/ThruText, Hustle and Revere
+* Other duties as assigned.
+
+
+Salary: commensurate with experience
+
+
+[See more and apply here](https://drive.google.com/file/d/0B9_aAEjlRGgQaHVMaWtPelRrMlJ2T1pGVnU4dF9VZW5DdVBZ/view?usp=sharing)
