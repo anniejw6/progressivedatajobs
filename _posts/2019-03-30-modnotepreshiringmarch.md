@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated August 25th) 
+Presidential hiring outlooks (Last updated August 29th) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
@@ -33,7 +33,6 @@ These are the candidates known[^2] to be hiring data & analytics staff, although
 * Cory Booker: Multiple data jobs [here](https://corybooker.com/Jobs/) 
 * Pete Buttigieg: More jobs posted [Multiple data and tech jobs](https://jobs.lever.co/peteforamerica)
 * Julian Castro: [National Data Director](https://recruiting.paylocity.com/Recruiting/Jobs/Details/153867) and [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)
-* Kirsten Gillibrand: UPDATED [Data Director- see here](https://docs.google.com/document/d/1JtpbGpm39rCuLVCYBQGHm2uRRm5HZp1IIC3tpn-oSL8/edit) [Resume Bank](https://kirstengillibrand.com/jobs/) 
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
 * Amy Klobuchar: [Data & Analytics jobs](https://docs.google.com/document/d/1EKO9F4uDL1KTWtlMEEQJb_7oMAw4y2I98wch5sFpZVg/edit) [Resume Bank]( https://amyklobuchar.com/jobs/) 
 * Beto O’Rourke: [Multiple data jobs](https://boards.greenhouse.io/betoforamerica)
@@ -69,4 +68,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): Hinckenlooper, Inslee, Moulton, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): Gillibrand, Hinckenlooper, Inslee, Moulton, Swalwell
