@@ -34,10 +34,9 @@ These are the candidates known[^2] to be hiring data & analytics staff (Sept 21 
 * Pete Buttigieg:[Multiple Data and Tech jobs](https://jobs.lever.co/peteforamerica)
 * Julian Castro: [National Data Director](https://recruiting.paylocity.com/Recruiting/Jobs/Details/153867) and [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
-* Amy Klobuchar: [Multipe Data & Analytics jobs]( https://amyklobuchar.com/jobs/) 
+* Amy Klobuchar: [Multiple Data & Analytics jobs]( https://amyklobuchar.com/jobs/) 
 * Beto O’Rourke: [Multiple Data jobs](https://boards.greenhouse.io/betoforamerica)
 * Bernie Sanders: [Multiple Data, Analytics and Tech jobs](https://boards.greenhouse.io/bernie2020)
-* Tom Steyer [Job website](https://www.tomsteyer.com/careers/)
 * Elizabeth Warren: [Multiple Tech roles](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) Is known to be hiring data and analytics roles, but not currently listed on the job site
 * Andrew Yang Updated [Multiple Data Jobs (listed under "research")](https://jobs.lever.co/yang2020)
 
