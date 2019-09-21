@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated August 29th) 
+Presidential hiring outlooks (Last updated Sept 21st) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
@@ -21,25 +21,25 @@ Disclaimer: Progressive Data Jobs is not affiliated with any organization or cam
 For clarity, we have moved our [tips on getting a job with a Democratic Presidential campaign](https://www.progressivedatajobs.org/2019/07/15/gettingajobpres2020/) to a new link. If you haven't applied and worked for a Presidential election before, check it out first! We'll keep this post with updates from specific jobs and campaigns. 
 
 
-Hiring list updated on a rolling basis as the campaign evolves[^1] - changes noted with "NEW" or "UPDATED" links and newly announced candidates or jobs. Candidates that drop out are noted at the bottom[^4]. 
+Hiring list updated on a rolling basis as the campaign evolves[^1]. Candidates that drop out are noted in the footnotes[^4]. 
 
 
 These are categorized by whether they are specifically hiring for data & analytics at this time and ordered alphabetically by last name. If you have additional information or corrections please email lena at progressivedatajobs dot org.
 
 
-These are the candidates known[^2] to be hiring data & analytics staff, although most are using general resume banks:
+These are the candidates known[^2] to be hiring data & analytics staff (Sept 21 reconfirmed all links)
 
-* Joe Biden: [Data & Analytics resume bank](https://jobs.lever.co/joebiden/7abfa89d-9532-46cb-a4ea-edd1a0ee7ef2)
-* Cory Booker: Multiple data jobs [here](https://corybooker.com/Jobs/) 
-* Pete Buttigieg: More jobs posted [Multiple data and tech jobs](https://jobs.lever.co/peteforamerica)
+* Joe Biden: [Multiple Data & Analytics positions](https://jobs.lever.co/joebiden)
+* Cory Booker: [Multiple Analytics &  Tech/Data positions](https://corybooker.com/Jobs/) 
+* Pete Buttigieg:[Multiple Data and Tech jobs](https://jobs.lever.co/peteforamerica)
 * Julian Castro: [National Data Director](https://recruiting.paylocity.com/Recruiting/Jobs/Details/153867) and [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org
-* Amy Klobuchar: [Data & Analytics jobs](https://docs.google.com/document/d/1EKO9F4uDL1KTWtlMEEQJb_7oMAw4y2I98wch5sFpZVg/edit) [Resume Bank]( https://amyklobuchar.com/jobs/) 
-* Beto O’Rourke: [Multiple data jobs](https://boards.greenhouse.io/betoforamerica)
-* Bernie Sanders: [Multiple data and tech jobs](https://boards.greenhouse.io/bernie2020) NEW [Data Analyst (DC)](https://boards.greenhouse.io/bernie2020/jobs/4269064002)
-* Tom Steyer UPDATED multiple data jobs listed [Job website](https://www.tomsteyer.com/careers/)
-* Elizabeth Warren: Multiple data & analytics jobs [Resume Bank](https://boards.greenhouse.io/elizabethwarren/jobs/4154052002?gh_src=58ea02352)
-* Andrew Yang Updated [Deputy Data Director job](https://jobs.lever.co/yang2020/abab2e89-9886-4800-8b13-b7493cdf9170) and [Other roles here](https://jobs.lever.co/yang2020)
+* Amy Klobuchar: [Multipe Data & Analytics jobs]( https://amyklobuchar.com/jobs/) 
+* Beto O’Rourke: [Multiple Data jobs](https://boards.greenhouse.io/betoforamerica)
+* Bernie Sanders: [Multiple Data, Analytics and Tech jobs](https://boards.greenhouse.io/bernie2020)
+* Tom Steyer [Job website](https://www.tomsteyer.com/careers/)
+* Elizabeth Warren: [Multiple Tech roles](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) Is known to be hiring data and analytics roles, but not currently listed on the job site
+* Andrew Yang Updated [Multiple Data Jobs (listed under "research")](https://jobs.lever.co/yang2020)
 
 
 These candidates have general hiring open, but do not have data, analytics or tech roles posted or known. 
@@ -47,10 +47,10 @@ These candidates have general hiring open, but do not have data, analytics or te
 * Michael Bennet: Collecting resumes at resumes@michaelbennet.com
 * Steve Bullock collecting resumes at jobs@stevebullock.com
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
+* Tom Steyer [Job website](https://www.tomsteyer.com/careers/) Was previously hiring for data/analytics roles
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
-* Bill DeBlasio
 * Tulsi Gabbard
 * Wayne Messam
 * Tim Ryan
@@ -68,4 +68,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): Gillibrand, Hinckenlooper, Inslee, Moulton, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): De Blasio, Gillibrand, Hinckenlooper, Inslee, Moulton, Swalwell
