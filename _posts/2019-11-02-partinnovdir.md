@@ -1,0 +1,46 @@
+---
+layout: single
+title:  "The Partnership Project: Innovation Director"
+tags: 
+    - analyst
+    - consultants
+    - executive
+    - nonprofit
+---
+
+The Partnership Project is a coalition environmental NGO's focused on building collective infrastructure to achieve and defend sound environmental policies & protections.  The Partnership Project is forming a first of its kind innovation center that will seek to centralize collective data learning across the environmental community and is seeking an Innovation Director to lead the design, development and growth of this effort.
+
+
+Position Summary
+This position will develop a data innovation operation that can grow to scale and help coordinate and socialize data project learning on the applications of advanced data to an audience of stakeholders that are leading the progressive communitys fight for the environment. Successful candidates will be self-starter with a demonstrated record of high level problem-solving skills and has the ability to work independently and effectively in an action-oriented environment.
+
+
+Primary Duties & Responsibilities
+* Develop a strategic plan that maps out the vision, objectives and metrics for performance on short, medium and long term horizons
+* Understand and be able to tell the story of the applied value of data as it relates to policy advocacy and organizational development
+* Engage key audiences in the development and success of the project
+* Understand and leverage existing data vendors and their offerings
+* In conjunction with the COO, design and manage a project budget & revenue plan sufficient to achieve project goals while maintaining sustainable levels of revenue and spending
+* Integrate existing data-centric efforts within the organization in furtherance of the coalitions long term data goals
+* Effectively engage with other data staff within the organization and data, advocacy, development and management staff at coalition organizations to develop, assist with and leverage relevant collaborative opportunities
+* Build out and directly manage a team of staff, consultants and vendors
+
+
+Qualifications
+* At least 10 years of relevant experience in the realm of data or the application of data to achieve program enhancements
+* A strategic change leader who is creative, politically aware and can combine critical thinking with long-term vision
+* Knowledge of non-profit issue and campaign work and the data/tech tools that are used to manage and assess program
+* Must have a familiarity with progressive data and technology and a strategic perspective on the progressive data space (Targetsmart, Catalist, VAN, etc.)
+* Strong communication and presentation skills with the ability to organize complex ideas for others to understand.  Must have patience and ability to adapt to training and educating leaders at all levels.
+* Strong interpersonal skills and ability to work in a dynamic and fast paced team environment
+* Willingness to travel for in-person engagement with key audiences
+* Major preference for candidates who have experience with either or both coalition work and the environmental community
+
+This position description should not be construed to imply that the requirements are the sole standards for the position.  Incumbents are expected to perform all other duties as required.
+
+
+Salary
+Salary is commensurate with experience. Excellent benefits including medical, dental, and vision insurance, generous paid time off, and 401k plan.
+
+
+[See more and apply here](https://climate-campaign.quickbase.com/db/bhtewnjrr?a=nwr) (Select "Innovation Director" from dropdown)
