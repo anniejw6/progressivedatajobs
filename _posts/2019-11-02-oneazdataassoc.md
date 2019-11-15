@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "One Arizone: Data Associate"
+title:  "One Arizona: Data Associate"
 tags: 
     - data
     - datamanagement

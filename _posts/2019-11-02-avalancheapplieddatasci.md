@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Org: Title"
+title:  "Avalanche Strategies: Applied Behavioral Research Scientist"
 tags: 
     - analyst
     - analytics
