@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated Nov 1st) 
+Presidential hiring outlooks (Last updated Nov 20th 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us hat tip. Thanks!
 
@@ -36,7 +36,7 @@ These are the candidates known[^2] to be hiring data & analytics staff
 * Kamala Harris: Collecting resumes at Resumes@KamalaHarris.org and hiring [Deputy Analytics Director in Iowa](https://drive.google.com/open?id=1j5jexyN919EC8pB96VMd1vZWFboeSFsM)
 * Amy Klobuchar: [Multiple Data & Analytics jobs]( https://amyklobuchar.com/jobs/) 
 * Bernie Sanders: [Multiple Data, Analytics and Tech jobs](https://boards.greenhouse.io/bernie2020)
-* Elizabeth Warren: [Multiple Tech roles](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) Hiring data & analytics in multiple states and headquarters
+* Elizabeth Warren: [New data and analytics job description up Nov. 2019](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) Hiring data & analytics in multiple states and headquarters 
 * Andrew Yang  [Multiple Data Jobs (listed under "research")](https://jobs.lever.co/yang2020)
 
 
@@ -47,10 +47,12 @@ These candidates have general hiring open, but do not have data, analytics or te
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
 * Tom Steyer [Job website](https://www.tomsteyer.com/careers/) Was previously hiring for data/analytics roles
 
+
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
 * Tulsi Gabbard
 * Wayne Messam
+* Deval Patrick
 * Joe Sestak
 * Marianne Williamson
 
