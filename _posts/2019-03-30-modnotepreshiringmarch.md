@@ -51,9 +51,7 @@ These candidates have general hiring open, but do not have data, analytics or te
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
 * Tulsi Gabbard
-* Wayne Messam
 * Deval Patrick
-* Joe Sestak
 * Marianne Williamson
 
 
@@ -67,4 +65,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Moulton, O'Rourke, Ryan, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Messam, Moulton, O'Rourke, Ryan, Sestak, Swalwell
