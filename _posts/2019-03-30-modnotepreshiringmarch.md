@@ -67,4 +67,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): De Blasio, Gillibrand, Hinckenlooper, Inslee, Moulton, O'Rourke, Ryan, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Moulton, O'Rourke, Ryan, Swalwell
