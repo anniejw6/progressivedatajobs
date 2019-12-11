@@ -4,8 +4,8 @@ title:  "CT Dem Party: Data Director"
 tags: 
     - campaigns
     - data
-    - datamanagement
----
+    - datamanagement---
+
 Note: deadline 12/11/19
 The Connecticut Democratic Party (CDP) is seeking a Data Director to handle the day-to-day data needs of the
 CDP, democratic town committees, municipal, state and federal campaigns. The position will work across
