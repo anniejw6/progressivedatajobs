@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated Dec. 3) 
+Presidential hiring outlooks (Last updated Dec. 16) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us a hat tip. Thanks!
 
@@ -30,6 +30,7 @@ These are categorized by whether they are specifically hiring for data, tech, & 
 These are the candidates known[^2] to be hiring data & analytics staff 
 
 * Joe Biden: [Multiple Data & Analytics positions](https://jobs.lever.co/joebiden)
+* Michael Bloomberg: [Hiring State Data & Deputy Data Directors](https://boards.greenhouse.io/mikebloomberg2020)
 * Cory Booker: [Hiring a software engineer](https://corybooker.com/Jobs/) 
 * Pete Buttigieg:[Multiple Data and Tech jobs](https://jobs.lever.co/peteforamerica)
 * Julian Castro: [National Data Director](https://recruiting.paylocity.com/Recruiting/Jobs/Details/153867) and [Resume Bank](https://action.julianforthefuture.com/page/s/join-team-julian)
@@ -42,7 +43,6 @@ These are the candidates known[^2] to be hiring data & analytics staff
 These candidates have general hiring open, but do not have data, analytics or tech roles posted or known. 
 
 * Michael Bennet: Collecting resumes at resumes@michaelbennet.com
-* Michael Bloomberg: [Resume bank](https://boards.greenhouse.io/mikebloomberg2020)
 * Steve Bullock collecting resumes at jobs@stevebullock.com
 * John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
 * Tom Steyer [Job website](https://www.tomsteyer.com/careers/) Was previously hiring for data/analytics roles
