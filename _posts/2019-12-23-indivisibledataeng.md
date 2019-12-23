@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Indivisble: Assoc. Director of Data Engineering"
+title:  "Indivisible: Assoc. Director of Data Engineering"
 tags: 
     - data
     - datamanagement
