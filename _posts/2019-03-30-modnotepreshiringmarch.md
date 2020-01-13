@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated Jan 2.) 
+Presidential hiring outlooks (Last updated Jan 13) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us a hat tip. Thanks!
 
@@ -31,7 +31,6 @@ These are the candidates known[^2] to be hiring data & analytics staff
 
 * Joe Biden: [Multiple Data & Analytics positions](https://jobs.lever.co/joebiden)
 * Michael Bloomberg: [Hiring State Data & Deputy Data Directors](https://boards.greenhouse.io/mikebloomberg2020)
-* Cory Booker: [Hiring a software engineer](https://corybooker.com/Jobs/) 
 * Pete Buttigieg:[Multiple Data and Tech jobs](https://jobs.lever.co/peteforamerica)
 * Amy Klobuchar: [Multiple Data & Analytics jobs]( https://amyklobuchar.com/jobs/) 
 * Bernie Sanders: [Multiple Data, Analytics and Tech jobs](https://boards.greenhouse.io/bernie2020)
@@ -50,7 +49,6 @@ We were unable to locate resume banks or other application processes for these c
 
 * Tulsi Gabbard
 * Deval Patrick
-* Marianne Williamson
 
 
 P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about it. [Fill out our brief survey](https://docs.google.com/forms/d/e/1FAIpQLSdHzjmG1CiAPcHb_UPOHkewAP0wqG765bR5yOdhxabgKkSRhQ/viewform?usp=sf_link). You’ll have our eternal gratitude.
@@ -63,4 +61,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): Bullock, Castro, De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Messam, Moulton, O'Rourke, Ryan, Sestak, Swalwell
+[^4]: Formerly declared, no longer in the race (alpha by last name): Booker, Bullock, Castro, De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Messam, Moulton, O'Rourke, Ryan, Sestak, Swalwell, Williamson
