@@ -6,7 +6,7 @@ tags:
     - consultants
     - nonprofit
     - vendor
-    pin: true
+pin: true
 ---
 
 Mod's note: 
