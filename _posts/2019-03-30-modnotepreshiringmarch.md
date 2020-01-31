@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated Jan 13) 
+Presidential hiring outlooks (Last updated Jan 31) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us a hat tip. Thanks!
 
@@ -42,8 +42,6 @@ These are the candidates known[^2] to be hiring data & analytics staff
 These candidates have general hiring open, but do not have data, analytics or tech roles posted or known. 
 
 * Michael Bennet: Collecting resumes at resumes@michaelbennet.com
-* John Delaney: [Resume Bank](https://www.johndelaney.com/jobs/) 
-
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
@@ -61,4 +59,4 @@ P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about 
 
 [^3]: Source for active campaigns - [NY Times](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html)
 
-[^4]: Formerly declared, no longer in the race (alpha by last name): Booker, Bullock, Castro, De Blasio, Gillibrand, Harris, Hinckenlooper, Inslee, Messam, Moulton, O'Rourke, Ryan, Sestak, Swalwell, Williamson
+[^4]: Formerly declared, no longer in the race (alpha by last name): Booker, Bullock, Castro, De Blasio, Delaney, Gillibrand, Harris, Hinckenlooper, Inslee, Messam, Moulton, O'Rourke, Ryan, Sestak, Swalwell, Williamson
