@@ -13,7 +13,7 @@ tags:
 pin: true
 
 ---
-Presidential hiring outlooks (Last updated Jan 31) 
+Presidential hiring outlooks (Last updated Feb 111) 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us a hat tip. Thanks!
 
@@ -36,12 +36,7 @@ These are the candidates known[^2] to be hiring data & analytics staff
 * Bernie Sanders: [Multiple Data, Analytics and Tech jobs](https://boards.greenhouse.io/bernie2020)
 * Tom Steyer [Job website](https://www.tomsteyer.com/careers/) 
 * Elizabeth Warren: [New data and analytics job description up Nov. 2019](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) Hiring data & analytics in multiple states and headquarters 
-* Andrew Yang  [Multiple Data Jobs (listed under "research")](https://jobs.lever.co/yang2020)
 
-
-These candidates have general hiring open, but do not have data, analytics or tech roles posted or known. 
-
-* Michael Bennet: Collecting resumes at resumes@michaelbennet.com
 
 We were unable to locate resume banks or other application processes for these candidates[^3]
 
