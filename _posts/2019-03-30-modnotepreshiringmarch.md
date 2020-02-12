@@ -10,8 +10,7 @@ tags:
     - digital
     - intern
     - tech
-pin: true
-
+    
 ---
 Presidential hiring outlooks (Last updated Feb 11) 
 
