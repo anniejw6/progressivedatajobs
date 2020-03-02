@@ -27,10 +27,10 @@ We wrote a rundown [on getting a job with a Democratic Presidential campaign](ht
 
 WHAT NOW?
 
-First, as you know, this is still a large field of candidates, which is impacting job opportunities. There are still a lot of opportunities and the campaigns are hiring as quickly as possible. The best way to know what is open is to check the campaign's job site on a regular basis. 
+First, as you know, this is ~~still a large~~ quickly narrowing field of candidates, which is impacting job opportunities. There are still a lot of opportunities and the campaigns are hiring as quickly as possible. The best way to know what is open is to check the campaign's job site on a regular basis. 
 
 
-In general, hiring and job offers are going to move quickly as campaigns fill needs as quickly as possible. Strategic and big picture program decisions have been made - it's time to execute on campaign plans. However, they also will "redeploy" staff from early primary & caucus states (IA, NH) to SC, NV, Super Tuesday, and later states to fill critical roles, including data, analytics, and similar work. This makes it somewhat difficult to predict what jobs be open (at least from an outsider perspective. Existing campaign staff will receive internal communications).
+In general, hiring and job offers are going to move quickly as campaigns fill needs as quickly as possible. Strategic and big picture program decisions have been made - it's time to execute on campaign plans. However, they also will "redeploy" staff from early primary & caucus states (IA, NH) to SC, NV, Super Tuesday, and later states to fill critical roles, including data, analytics, and similar work. . This makes it somewhat difficult to predict what jobs be open (at least from an outsider perspective. Existing campaign staff will receive internal communications). [3/2/20 Addition]: Aas candidates drop out but endorse other front runners, those staff may have first dibs on jumping to the endorsed campaigns.
 
 
 Having a primary season with so many campaigns also impacts the wider world of progressive jobs. Because the Presidential campaigns attract so much talent and people are staying in the race longer than expected, there's a lack of talent to support the rest of the space: non-profits, civic engagement groups, advocacy groups, Independent Expenditures, PACs, and party committees are all hiring actively. Whether or not your main interest is supporting elections in 2020, there are many options besides working directly on a Presidential campaign. 
