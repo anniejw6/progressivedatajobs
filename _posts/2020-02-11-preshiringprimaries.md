@@ -54,15 +54,10 @@ These are ordered alphabetically by last name. If you have additional informatio
 
 * [Joe Biden](https://jobs.lever.co/joebiden)
 * [Michael Bloomberg](https://boards.greenhouse.io/mikebloomberg2020)
-* [Pete Buttigiegs](https://jobs.lever.co/peteforamerica)
 * [Amy Klobuchar]( https://amyklobuchar.com/jobs/) 
 * [Bernie Sanders](https://boards.greenhouse.io/bernie2020)
 * [Elizabeth Warren](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) 
-
-
-We were unable to locate resume banks or other application processes for these candidates
-
-* Tulsi Gabbard
+* Tulsi Gabbard - not able to locate a job board
 
 
 P.S. Did you get an interview? Or a job!? Congrats! We would love to hear about it. [Fill out our brief survey](https://docs.google.com/forms/d/e/1FAIpQLSdHzjmG1CiAPcHb_UPOHkewAP0wqG765bR5yOdhxabgKkSRhQ/viewform?usp=sf_link). You’ll have our eternal gratitude.
