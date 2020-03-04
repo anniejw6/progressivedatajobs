@@ -16,7 +16,7 @@ tags:
 pin: true
 
 ---
-Hello PDJ'ers! (Last updated 3/2/20) Welcome to the heart of Presidential primary season. We are here to bring you an update on outlooks for Presidential campaign jobs and the wider world of progressive job hiring. Presidential campaign hiring list updated at the bottom.
+Hello PDJ'ers! (Last updated 3/4/20) Welcome to the heart of Presidential primary season. We are here to bring you an update on outlooks for Presidential campaign jobs and the wider world of progressive job hiring. Presidential campaign hiring list updated at the bottom.
 
 
 Disclaimer: Progressive Data Jobs is not affiliated with any organization or campaign. We are not here to recommend any candidate nor to provide any opinions on the campaigns. This is a free and open resource, but if you are sharing this, please give us a hat tip. Thanks!
@@ -53,7 +53,6 @@ And of course if you are looking for a Presidential campaign job, here are the l
 These are ordered alphabetically by last name. If you have additional information or corrections please email lena at progressivedatajobs dot org.
 
 * [Joe Biden](https://jobs.lever.co/joebiden)
-* [Michael Bloomberg](https://boards.greenhouse.io/mikebloomberg2020)
 * [Bernie Sanders](https://boards.greenhouse.io/bernie2020)
 * [Elizabeth Warren](https://boards.greenhouse.io/elizabethwarren?t=58ea02352) 
 * Tulsi Gabbard - not able to locate a job board
