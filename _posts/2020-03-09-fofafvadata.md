@@ -1,0 +1,50 @@
+---
+layout: single
+title:  "For Our Future: Virginia Data Director"
+tags: 
+    - campaigns
+    - data
+    - datamanagement
+    - nonprofit
+---
+For Our Future Virginia seeks a State Data Director to support in-state organizing and electoral program. We are looking for an experton voter file targeting, tracking, data systems, reporting, progress-to-goal, and program analysis. For Our Future is proud to run a data-driven program, and that isn’t possible without dynamic and mission-driven data directors helping to drive each state’s program. With support and resources provided by the National Analytics Team, you will leverage organizational data to build partnerships, provide data to program teams that build power, and contribute to winning elections. This is a full-time position based in Virginia through at least November 6, 2020.
+
+
+ESSENTIAL FUNCTIONS 
+* Administer field data management tools to support in-state organizing and electoral program for For Our Future  and partner organization staff.
+* Work with the Field Director and partner organizations to set quantitative program goals, allocate resources, and build reports/analysis to hold For Our Future and partners accountable to those goals.
+* Work with the National Analytics Team to manage reporting on in-state For Our Future and partner program.
+* With State Director and the National Analytics Team, create, deploy, track, and manage universes for voter-file and volunteer database targeted contact programs.
+* Act as the liaison between For Our Future and partner organizations on the use of voter contact tools and assist them in integrating appropriate voter contact and data tools into their engagement programs.
+* Train partners and staff on voter file data, data management systems and practices (including VAN), reporting, and other topics as needed.
+* Assist For Our Future Action Fund staff and partners in facilitating and executing experiments.  
+* Employ best practices for data management using the organization’s voter file software.
+* Function as part of a national data team to build and maintain the shared state and national data infrastructure necessary to support partner program work.  
+* Prepare ad hoc program analysis for the State Director as needed.
+* Other duties as assigned
+
+
+QUALIFICATIONS & EXPERIENCE
+* At least one election cycle of experience in issue or community organizing or candidate campaign voter contact;
+* Experience utilizing voter file and volunteer management platforms, such as VAN/VoteBuilder;
+* Extensive experience with Excel and Google Sheets;
+* Understanding of voter file data and electoral targeting;
+* Ability to communicate and train on technical subjects to non-technical audiences;
+* Ability to communicate effectively, work well under pressure, and be detail oriented while handling multiple projects simultaneously, and meeting frequent deadlines;
+* Excellent organizational, time-management, oral and written communications skills;
+* Proficiency in SQL is highly desired;
+* Experience building data visualizations is highly desired;
+* Relentless dedication to the campaign’s success and willingness to work long hours and the passion to inspire others to do the same;
+* Positive attitude and solution-based approach in high pressure or difficult situations;
+* Dedication to grassroots, local organizing and empowering state/local organizations to lead our work;
+* Possesses an understanding of local community-based organizations and demonstrates respect for their leaders and programs;
+* Strong customer service approach in providing technical support to coworkers and partner organizations;
+* Bachelor’s degree or equivalent work experience.
+
+
+Salary: $60,000 - $65,000
+
+Location: Richmond, VA
+
+
+[See more and apply here](https://fofaf.hri-onlinetalent.com/careers/JobDetail.aspx?enc=QPQDKqwXNuJybHyCBjvzp0mbnQbBsKxcqp8nnofxbKCuHkdEoKF5ZY3R6qlAY5lS)
