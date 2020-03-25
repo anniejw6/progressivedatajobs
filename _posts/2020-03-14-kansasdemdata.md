@@ -1,5 +1,5 @@
 ---
-layout: single0
+layout: single
 title:  "Kansas Dem. Party: Political & Data Coordinator"
 tags: 
     - campaigns
