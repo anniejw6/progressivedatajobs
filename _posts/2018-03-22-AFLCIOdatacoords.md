@@ -68,7 +68,7 @@ QUALIFICATIONS:
 * At least 2 years of field or targeting experience.
 * Demonstrated experience with Excel databases and data clean up.
 * Demonstrated and extensive experience in electoral political and issue campaigns, particularly focused on data coordination and management a plus.
-* Knowledge of and experience with both national and local structures of the labor movement and experience working in the labor movement a plus.
+* Knowledge of and experience with both national and local structures of the labor movement and experience working in the labor movement a plus....
 * Demonstrated ability to work independently and be a self-starter.
 * Demonstrated experience working successfully in politically sensitive and high-pressure environments.
 * Excellent listening, interpersonal, communication and problem solving skills.
