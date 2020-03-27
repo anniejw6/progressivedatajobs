@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Catalist: Senior Software Engineer"
+title:  "Catalist: Senior Software Engineer" 
 tags: 
     - analyst
     - analytics
@@ -63,6 +63,4 @@ Salary: $100-$120K
 
 Location: Washington, D.C.
 
-
-[See more and apply here]
-https://catalist.us/about/careers/senior-software-engineer/
+[See more and apply here](https://catalist.us/about/careers/senior-software-engineer/)
