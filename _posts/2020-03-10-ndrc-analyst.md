@@ -49,6 +49,5 @@ To apply for a position at the NRAF, please submit a cover letter and resume as 
 
 The NRAF is committed to building a staff that reflects the diverse communities that make up our country. The NRAF prohibits discrimination of employment, promotion, compensation, terms, conditions, or privileges of employment on the basis of gender, disability, race, age, national origin, color, creed, sexual orientation, sex (including marital and parental status), gender identity and expression, religion, economic status, ethnic identity, veteran’s status, or any other basis prohibited by applicable law. This policy covers all programs, services, policies, and procedures of the NRAF, including opportunity for employment and treatment as a NRAF employee. The NRAF is an equal opportunity employer and will comply with all applicable laws prohibiting discrimination in employment.
 
-
 Salary: $50K-$80K commensurate with experience
 Location: Washington, DC or willingness to relocate to Washington, DC this year strongly preferred. 
