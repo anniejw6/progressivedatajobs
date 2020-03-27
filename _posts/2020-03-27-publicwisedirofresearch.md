@@ -1,3 +1,4 @@
+---
 layout: single
 title:  "Public Wise: Director of Research"
 tags: 
@@ -7,7 +8,6 @@ tags:
     - data
     - datamanagement
     - nonprofit
-  
 ---
 Public Wise, a newly formed 501(c)(4) organization whose goal is to ensure that government reflects the will of the people by expanding democracy and promoting voter access and participation, is searching for a Director of Research. Public Wise’s strategic goals are to:  
 

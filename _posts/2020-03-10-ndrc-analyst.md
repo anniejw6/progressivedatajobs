@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "NDRC: Political Mapping Analyst"
+title: "NDRC: Political Mapping Analyst"
 tags: 
     - analyst
     - analytics
