@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Alloy: Technical Project Manager: Data + Quality
+title:  "Alloy: Technical Project Manager: Data + Quality"
 tags: 
     - analyst
     - analytics
