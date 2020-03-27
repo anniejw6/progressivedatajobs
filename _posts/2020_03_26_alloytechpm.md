@@ -12,7 +12,9 @@ tags:
     - i.t.
     - nonprofit
     - tech
-    
+
+---
+
 Alloy is a non-profit building data and technology for the Progressive Movement. 
 
 At Alloy we’re doing our part to help slow the spread of the current Coronavirus pandemic, following guidelines from public health officials to ensure the safety of our employees and the health of everyone we work with. We have instituted a policy that allows our staff to work remotely during this time, even as we continue our important work building better data and technology for progressive organizations. 
