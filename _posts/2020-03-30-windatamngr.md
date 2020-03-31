@@ -1,3 +1,5 @@
+
+---
 layout: single
 title:  "Win|Win: Data Manager"
 tags: 
@@ -6,10 +8,11 @@ tags:
     - civicengagement
     - data
     - datamanagement
+    
 ---
-Win|Win is a network of progressive organizations coming together to advance racial, social, and economic equity across Washington through civic and political engagement. Our partners work together to build a new political landscape that inspires people; where individuals engage because they see themselves and their values reflected across our democracy. ​Win|Win provides our network with strategic coordination, data and research, and individual technical assistance to increase our ability to create change together.
+Win|Win is a network of progressive organizations coming together to advance racial, social, and economic equity across Washington through civic and political engagement. Our partners work together to build a new political landscape that inspires people; where individuals engage because they see themselves and their values reflected across our democracy. Win|Win provides our network with strategic coordination, data and research, and individual technical assistance to increase our ability to create change together.
 
-We are looking for a self-starter with strong analysis skills who can synthesize demographic and voter trends to guide Win|Win’s collective strategy and inform community organizing programs across our network. ​The Data Manager is in charge of maintaining our internal data systems and will mentor and support the Data & VAN Administrator. This position is part of our growing program team supervised by the Program Director.
+We are looking for a self-starter with strong analysis skills who can synthesize demographic and voter trends to guide Win|Win’s collective strategy and inform community organizing programs across our network.The Data Manager is in charge of maintaining our internal data systems and will mentor and support the Data & VAN Administrator. This position is part of our growing program team supervised by the Program Director.
 
 All staff are expected to provide leadership and proactive learning to advance our mission, vision, and core strategies. The Data Manager will be expected to act as a champion for the Win|Win Network and our partners by understanding their programs and trends impacting the communities they serve.
 
@@ -53,6 +56,4 @@ Salary: $57,000-$62,000
 
 Location: Washington, D.C.
 
-
 [See more and apply here](https://statevoices.org/careers/data-manager-washington/)
-
