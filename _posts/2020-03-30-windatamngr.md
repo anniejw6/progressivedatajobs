@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Win|Win: Data Manager"
+title:  "Win Win: Data Manager"
 tags: 
     - analyst
     - campaigns
