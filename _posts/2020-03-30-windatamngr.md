@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title:  "Win|Win: Data Manager"
