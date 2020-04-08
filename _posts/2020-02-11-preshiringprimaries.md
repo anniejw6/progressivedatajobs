@@ -13,7 +13,7 @@ tags:
     - i.t.
     - intern
     - tech
-pin: true
+pin: false
 
 ---
 Hello PDJ'ers! (Last updated 3/4/20) Welcome to the heart of Presidential primary season. We are here to bring you an update on outlooks for Presidential campaign jobs and the wider world of progressive job hiring. Presidential campaign hiring list updated at the bottom.
