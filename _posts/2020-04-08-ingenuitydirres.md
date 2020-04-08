@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Public Wise: Director of Research"
+title:  "Ingenuity: Data and Product Associate"
 tags: 
     - analyst
     - analytics
