@@ -9,7 +9,6 @@ tags:
     - datamanagement
     - nonprofit
 ---
-Organization Background
 
 Ingenuity was founded in 2011 to increase arts education access, quality and equity in Chicago
 Public Schools (CPS), the country’s third-largest school district. Our mission is to ensure that every
