@@ -9,30 +9,6 @@ tags:
     - nonprofit
 ---
 
----
-layout: single
-title:  "Org: Title"
-tags: 
-    - analyst
-    - analytics
-    - campaigns
-    - citygov
-    - civicengagement
-    - clientservices
-    - consultants
-    - data
-    - datamanagement
-    - digital
-    - engineer
-    - executive
-    - i.t.
-    - intern
-    - nonprofit
-    - tech
-    - union
-    - vendor
----
-
 Reporting to the Associate Director of Analytics, the Digital Data Manager leads on data, technology, analytics, testing, and system architecture for the communications team. They run key reports and dashboards for use by Communications and other teams, support data architecture and system integration work for communications tools and assist with broader data team-wide tasks such as complex SQL.
 
 The Digital Data Manager has a strong interest in using data and visualization to communicate effectively and reach organizational goals. They are curious about data and excited to dive into a database to answer questions while learning several new skills quickly.  They will set an example of learning, transparency, and accountability while regularly taking on department wide tasks and leadership roles.
