@@ -1,3 +1,4 @@
+---
 layout: single
 title:  "Supermajority Education Fund: Organizing Data Manager "
 tags: 
