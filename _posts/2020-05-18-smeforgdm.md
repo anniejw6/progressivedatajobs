@@ -8,7 +8,6 @@ tags:
     - datamanagement
     - nonprofit
 ---
-
 SMEF is seeking a Organizing Data Manager to join a team of committed organizers and leaders. Reporting to the National Organizing Director, the Organizing Data Manager will be primarily responsible for creating and facilitating reporting mechanisms for the organizing team, managing data systems and the integration like Every Action, VAN/Targetsmart, Mobilize, Zoom, Thrutext, etc., and setting up best practices for data entry across departments. A Organizing Data Manager will work closely with the team to ensure that the organizing program is set up to be online first with in person opportunities; innovative, inclusive and accessible; and easily scalable. They will also serve as the main point of contact for data with partner organizations.
 
 An ideal candidate is proactive, detail-oriented, has a deep understanding of voter data systems and tools and an ability to provide input into larger programming, is an excellent project manager, thrives in balancing the execution of multiple priorities; and has demonstrated experience assisting large and nationally distributed operations.
