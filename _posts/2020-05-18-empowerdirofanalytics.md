@@ -1,5 +1,5 @@
 layout: single
-title:  "Public Wise: Director of Research"
+title:  "Empower: Director of Analytics"
 tags: 
     - analyst
     - analytics
