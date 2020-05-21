@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Indivisible: Associate Director of Distributed Moving Technology"
+title:  "Indivisible: Associate Director of Distributed Movement Technology"
 tags: 
     - datamanagement
     - civicengagement
