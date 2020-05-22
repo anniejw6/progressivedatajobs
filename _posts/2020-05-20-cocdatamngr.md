@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Color of Change: Senior Data Manager"
+title:  "Color of Change: Data Manager"
 tags: 
     - analyst
     - analytics
