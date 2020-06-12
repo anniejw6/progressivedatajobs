@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Vote America: Snior Product Manager"
+title:  "Vote America: Senior Product Manager"
 tags: 
     - campaigns
     - digital
