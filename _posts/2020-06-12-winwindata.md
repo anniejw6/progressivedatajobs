@@ -14,7 +14,7 @@ Core Responsibilities:
 
 * Administer VAN (Voter Activation Network) for partner organizations and their consultants. This includes managing user and security settings; providing technical assistance; and monitoring the use of the system to ensure compliance with state and national policies.
 * Advise partner organizations on the use of voter contact tools and assist them in integrating appropriate voter contact and data tools into their engagement programs.
-* Support our Win|Win Network partner organizations in the use of civic engagement and voter contact tools, and assist them in assessing and implementing data integration into programs.
+* Support our WinWin Network partner organizations in the use of civic engagement and voter contact tools, and assist them in assessing and implementing data integration into programs.
 * Host virtual training in VAN basics for our network partners
 * Improve network partners’ data through list matching and providing training on better data hygiene and data collection practices.
 * Participate in regular national data calls with State Voices and America Votes, and support national efforts to maintain and strengthen state and national data systems.
