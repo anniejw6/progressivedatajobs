@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Win|Win Action: Data Associate"
+title:  "WinWin Action: Data Associate"
 tags: 
     - campaigns
     - data
