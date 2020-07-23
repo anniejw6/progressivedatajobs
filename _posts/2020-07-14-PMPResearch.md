@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Practice Makes Progress: Researcher"
+title:  "Practice Makes Progress: Research Director"
 tags: 
     - analyst
     - analytics
