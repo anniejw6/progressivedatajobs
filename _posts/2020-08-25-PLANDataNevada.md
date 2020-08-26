@@ -21,6 +21,7 @@ tags:
     - union
     - vendor
 ---
+
 PLAN/PLAN Action seeks a Data Manager to work from our Las Vegas office who can organize and maintain PLAN’s data and management systems for an exciting electoral year and beyond.
 
 The Progressive Leadership Alliance of Nevada (PLAN) was founded in 1994 to bring together diverse and potentially competing organizations into one cohesive force for social, economic, and environmental justice in Nevada. Since 1994, our organization has grown from 12 original founding member groups to a current membership of more than 30 groups. PLAN is recognized by the IRS as a not for profit 501c3 charitable organization.
