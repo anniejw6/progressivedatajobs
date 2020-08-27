@@ -1,25 +1,14 @@
 ---
 layout: single
-title:  "Org: Title"
+title:  "Progressive Leadership Alliance of Nevada (PLAN): Data Manager"
 tags: 
     - analyst
     - analytics
     - campaigns
-    - citygov
-    - civicengagement
-    - clientservices
-    - consultants
     - data
     - datamanagement
     - digital
-    - engineer
-    - executive
-    - i.t.
-    - intern
-    - nonprofit
-    - tech
-    - union
-    - vendor
+    
 ---
 
 PLAN/PLAN Action seeks a Data Manager to work from our Las Vegas office who can organize and maintain PLAN’s data and management systems for an exciting electoral year and beyond.
