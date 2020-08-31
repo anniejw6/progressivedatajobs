@@ -47,9 +47,9 @@ Specific Skills
 * C/C++
 * Java
 
-Salary: Not Listed
+Salary: $65k - $90k
 
-Location: Not Listed
+Location: Atlanta, Georgia preferred but open to remote
 
 
 [See more and apply here](https://newgeorgiaproject.org/about/jobs/data-engineer/)
