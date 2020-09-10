@@ -42,7 +42,7 @@ What are people saying about Progressive Data Jobs?
 “Conservatives: Hey, I know what we need to do! Let's write articles about the importance of banning porn! Then double down when we're called on our BS. 
 Liberals: [Set up data analytics job board to increase likelihood of Dem victories] https://progressivedatajobs.org #WhyWeLose” - Random Twitter troll, circa 2018
 
-[Help out here!] (https://actionnetwork.org/fundraising/progressive-data-jobs?source=pdjsite)
+[Help out here!](https://actionnetwork.org/fundraising/progressive-data-jobs?source=pdjsite)
 PDJ has never charged organizations to post or people to browse available jobs, and we have covered all costs so far with personal funds and time. Even with an updated site, it will continue to be operated by volunteers, led by Lena Tom and Annie Wang and supported by Lara Haddadin and Temi Akande of Meso Solutions and the team at Buoy Marketing. 
 
 If you have any questions, reach out to lena at progressivedatajobs dot org
