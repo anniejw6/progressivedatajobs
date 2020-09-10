@@ -20,7 +20,7 @@ tags:
     - tech
     - union
     - vendor
-Pin: TRUE
+pin: true
 ---
 
 Three years ago this week, Progressive Data Jobs (PDJ) was born!
